@@ -2,7 +2,7 @@
   "name": "chen-huang-academic-homepage",
   "version": "1.0.0",
   "private": true,
-  "description": "A resume-first academic homepage powered by Hexo",
+  "description": "董卿与周涛人物资料馆，使用 Hexo、HTML、CSS 与原生 JavaScript",
   "scripts": {
     "dev": "hexo server",
     "server": "hexo server",

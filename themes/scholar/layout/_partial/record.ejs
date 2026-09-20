@@ -1,0 +1,18 @@
+<%
+const compactText=value=>(value||'').toLowerCase().replace(/\d{4}年?/g,'').replace(/[\s，。！？、：；“”‘’（）()《》·\-—_]/g,'');
+const titleKey=compactText(item.title);
+const usefulText=value=>{const key=compactText(value);if(!key)return false;if(!titleKey)return true;if(key===titleKey)return false;if((key.includes(titleKey)||titleKey.includes(key))&&Math.abs(key.length-titleKey.length)<=10)return false;return true;};
+const detailSummaries=item.summaries.filter(entry=>usefulText(entry.text));
+const usefulObservation=usefulText(item.observation)?item.observation:'';
+const extraSources=[...new Map(item.sources.filter(source=>source.kind!=='video').map(source=>[source.url,source])).values()];
+const hasDetails=detailSummaries.length||usefulObservation||item.images.length||item.sources.some(source=>source.kind==='video')||extraSources.length;
+%>
+<article class="record" id="<%= item.id %>" data-record data-year="<%= item.year || 'unknown' %>" data-tags="<%= item.tags.join(' ') %>" data-search="<%= [item.title,...item.summaries.map(s=>s.text),item.observation].join(' ') %>">
+<div class="record-date"><%= item.date %></div><div class="record-content"><% if(section==='timeline'){ %><div class="record-labels"><% item.tags.forEach(tag=>{ %><span class="tag tag-<%= tag %>"><%= tag_label(tag) %></span><% }) %></div><% } %><h3><a href="#<%= item.id %>"><%= item.title %></a></h3>
+<% if(hasDetails){ %><details class="record-details"><summary>展开记录<% if(item.sources.some(s=>s.kind==='video')){ %> · ▶ 视频<% } %><% if(item.images.length){ %> · <%= item.images.length %> 张配图<% } %></summary><div class="record-detail-body">
+<% detailSummaries.forEach(s=>{ %><div class="transcription"><% if(section==='timeline'||section==='moments'){ %><span><%= s.label %></span><% } %><p><%= s.text %></p></div><% }) %>
+<% if(usefulObservation){ %><blockquote class="editor-note"><p><%= usefulObservation %></p></blockquote><% } %>
+<%- partial('_partial/media',{item}) %>
+<%- partial('_partial/sources',{item}) %>
+</div></details><% } %></div>
+</article>

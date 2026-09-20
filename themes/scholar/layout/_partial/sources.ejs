@@ -1,0 +1,1 @@
+<% const visibleSources=[...new Map(item.sources.filter(source=>source.kind!=='video').map(source=>[source.url,source])).values()]; %><% if(visibleSources.length){ %><div class="sources"><span>资料来源</span><% visibleSources.forEach(s=>{ %><a href="<%= safe_url(s.url) %>" target="_blank" rel="noopener noreferrer"><%= s.label %> ↗</a><% }) %></div><% } %>

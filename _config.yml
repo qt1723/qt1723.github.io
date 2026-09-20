@@ -1,8 +1,7 @@
-title: Chen Huang | Academic Homepage
-author: Chen Huang
-language: en
+title: 年年岁岁人依旧 | 董卿 × 周涛
+author: 年年岁岁人依旧
+language: zh-CN
 timezone: Asia/Shanghai
-# 部署前改为真实地址。项目仓库同时设置 root，例如 /academic/。
 url: https://chenhuang527.github.io
 root: /
 source_dir: source

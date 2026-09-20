@@ -1,11 +1,7 @@
-# 独立 HTML 导航；url_for 自动适配部署根目录。
 navigation:
-  - { label: Home, key: home, href: '/' }
-  - { label: About, key: about, href: '/about.html' }
-  - { label: Research, key: research, href: '/research.html' }
-  - { label: Publications, key: publications, href: '/publications.html' }
-  - { label: Projects, key: projects, href: '/projects.html' }
-  - { label: Teaching, key: teaching, href: '/teaching.html' }
-  - { label: Contact, key: contact, href: '/contact.html' }
-# false 关闭云朵、角色 idle 和页面进入动画。
-effects: true
+  - {label: 首页, key: home, href: /}
+  - {label: 周涛, key: zhou, href: /zhou-tao/}
+  - {label: 董卿, key: dong, href: /dong-qing/}
+  - {label: 共同记忆, key: together, href: /together/}
+  - {label: 名场面, key: moments, href: /moments/}
+  - {label: 访谈, key: interviews, href: /interviews/}

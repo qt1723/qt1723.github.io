@@ -1,4 +1,4 @@
-name: Deploy academic homepage
+name: Deploy person archive
 on:
   push:
     branches: [main]

@@ -1,5 +1,0 @@
-<% const p = site.data.profile; const published = p.publications.filter(item => item.status === "published"); %>
-<section id="teaching" class="content-section reveal">
-  <div class="section-heading"><h2>Teaching<span>.</span></h2></div>
-  <div class="teaching-panel"><span class="teaching-icon" aria-hidden="true">▤</span><div><span class="small-label"><%= p.teaching.period %></span><h3><%= p.teaching.title %></h3><p><%= p.teaching.description %></p><% if(p.teaching.courses.length) { %><ul><% p.teaching.courses.forEach(course => { %><li><%= course.name %> · <%= course.term %></li><% }); %></ul><% } %></div></div>
-</section>

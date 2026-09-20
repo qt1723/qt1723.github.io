@@ -1,0 +1,9087 @@
+- id: t003
+  row: 3
+  year: 1968
+  date: |-
+    3月23日
+    （农历2月25日）
+  title: 周涛出生于安徽省淮南市田家庵区
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑出生于安徽省淮南市田家庵区
+  observation: |-
+    廿：二十
+    廿读音“niàn”，大写作“念”
+  editorial: false
+  fields:
+    - cell: A3
+      text: 1968年
+      url: null
+    - cell: B3
+      text: |-
+        3月23日
+        （农历2月25日）
+      url: null
+    - cell: C3
+      text: |-
+        廿：二十
+        廿读音“niàn”，大写作“念”
+      url: null
+    - cell: E3
+      text: 🍑出生于安徽省淮南市田家庵区
+      url: null
+    - cell: G3
+      text: ""
+      url: null
+      image: /assets/archive/image62.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://www.iq.com/actor-info/%E5%91%A8%E6%B6%9B-zhou-tao-214380105?lang=zh_cn
+      label: 爱奇艺 · 周涛人物资料
+      kind: source
+      origin: 补充公开来源
+      scope: 出生信息、北京电视台工作经历与星光奖；不证明原表所有细节。
+  images:
+    - /assets/archive/image62.jpeg
+  checks: []
+- id: t004
+  row: 4
+  year: null
+  date: 日期未详
+  title: 田家庵第二幼儿园
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 田家庵第二幼儿园
+  observation: |-
+    廿：二十
+    廿读音“niàn”，大写作“念”
+  editorial: false
+  fields:
+    - cell: A4
+      text: 未知
+      url: null
+    - cell: E4
+      text: 田家庵第二幼儿园
+      url: null
+  inherited_fields:
+    - cell: C3
+      text: |-
+        廿：二十
+        廿读音“niàn”，大写作“念”
+      url: null
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t005
+  row: 5
+  year: 1973
+  date: |-
+    11月17日
+    （农历10月23日）
+  title: 董卿出生于上海市崇明区
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉出生于上海市崇明区
+  observation: |-
+    廿：二十
+    廿读音“niàn”，大写作“念”
+  editorial: false
+  fields:
+    - cell: A5
+      text: 1973年
+      url: null
+    - cell: B5
+      text: |-
+        11月17日
+        （农历10月23日）
+      url: null
+    - cell: F5
+      text: 🍉出生于上海市崇明区
+      url: null
+    - cell: G5
+      text: ""
+      url: null
+      image: /assets/archive/image63.jpeg
+  inherited_fields:
+    - cell: C3
+      text: |-
+        廿：二十
+        廿读音“niàn”，大写作“念”
+      url: null
+  sources:
+    - url: https://shaoer.cctv.com/2016/08/30/ARTITyTgyALctaivAQjOrdEA160830.shtml
+      label: 央视网 · 董卿主持人介绍
+      kind: source
+      origin: 补充公开来源
+      scope: 出生日期、浙江电视台与上海卫视经历、2004年青歌赛。
+    - url: https://tv.cctv.com/2016/03/31/ARTImBd1l7BLqbxhtsLDRI4D160331.shtml
+      label: 央视网 · 董卿个人信息
+      kind: source
+      origin: 补充公开来源
+      scope: 职业履历、金话筒获奖、上戏MFA毕业、国庆晚会与访学经历；私人生活不在此来源支持范围内。
+  images:
+    - /assets/archive/image63.jpeg
+  checks:
+    - 原表记“上海市崇明区”；央视个人信息记“上海市闸北区”。主页仅使用“上海”，原表文字保留供对照。
+- id: t006
+  row: 6
+  year: 1979
+  date: 日期未详
+  title: 周涛获得田家庵区第二小学
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑获得田家庵区第二小学
+        “六一”文艺汇演一等奖
+  observation: |-
+    宿命的淮南淮北
+    （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+    （又是双子星嘿嘿）
+  editorial: false
+  fields:
+    - cell: A6
+      text: 1979年
+      url: null
+    - cell: C6
+      text: |-
+        宿命的淮南淮北
+        （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+        （又是双子星嘿嘿）
+      url: null
+    - cell: E6
+      text: |-
+        🍑获得田家庵区第二小学
+        “六一”文艺汇演一等奖
+      url: null
+    - cell: G6
+      text: ""
+      url: null
+      image: /assets/archive/image64.jpeg
+    - cell: H6
+      text: |-
+        前图出自董卿个人专访：
+        《是什么成就了董卿》
+        ——《解放日报》2011.04.08
+        （全文在【椒花颂声】板块中）
+      url: null
+    - cell: I6
+      text: ""
+      url: null
+      image: /assets/archive/image65.jpeg
+    - cell: J6
+      text: |-
+        淮河两岸出双子，
+        荧屏共映双子星！
+      url: null
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image64.jpeg
+    - /assets/archive/image65.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t007
+  row: 7
+  year: 1980
+  date: 日期未详
+  title: 董卿7岁时被父母接到安徽省淮北市，进入淮北市第一小学读书（小学只读了四年，连跳两级升入初中）
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉7岁时被父母接到安徽省淮北市，进入淮北市第一小学读书（小学只读了四年，连跳两级升入初中）
+  observation: |-
+    宿命的淮南淮北
+    （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+    （又是双子星嘿嘿）
+  editorial: false
+  fields:
+    - cell: A7
+      text: 1980年
+      url: null
+    - cell: F7
+      text: 🍉7岁时被父母接到安徽省淮北市，进入淮北市第一小学读书（小学只读了四年，连跳两级升入初中）
+      url: null
+  inherited_fields:
+    - cell: C6
+      text: |-
+        宿命的淮南淮北
+        （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+        （又是双子星嘿嘿）
+      url: null
+    - cell: G6
+      text: ""
+      url: null
+      image: /assets/archive/image64.jpeg
+    - cell: H6
+      text: |-
+        前图出自董卿个人专访：
+        《是什么成就了董卿》
+        ——《解放日报》2011.04.08
+        （全文在【椒花颂声】板块中）
+      url: null
+    - cell: I6
+      text: ""
+      url: null
+      image: /assets/archive/image65.jpeg
+    - cell: J6
+      text: |-
+        淮河两岸出双子，
+        荧屏共映双子星！
+      url: null
+  sources: []
+  images:
+    - /assets/archive/image64.jpeg
+    - /assets/archive/image65.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t008
+  row: 8
+  year: 1981
+  date: 日期未详
+  title: 周涛在淮南市第三中学上初中
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑在淮南市第三中学上初中
+  observation: |-
+    宿命的淮南淮北
+    （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+    （又是双子星嘿嘿）
+  editorial: false
+  fields:
+    - cell: A8
+      text: 1981年
+      url: null
+    - cell: E8
+      text: 🍑在淮南市第三中学上初中
+      url: null
+  inherited_fields:
+    - cell: C6
+      text: |-
+        宿命的淮南淮北
+        （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+        （又是双子星嘿嘿）
+      url: null
+    - cell: G6
+      text: ""
+      url: null
+      image: /assets/archive/image64.jpeg
+    - cell: H6
+      text: |-
+        前图出自董卿个人专访：
+        《是什么成就了董卿》
+        ——《解放日报》2011.04.08
+        （全文在【椒花颂声】板块中）
+      url: null
+    - cell: I6
+      text: ""
+      url: null
+      image: /assets/archive/image65.jpeg
+    - cell: J6
+      text: |-
+        淮河两岸出双子，
+        荧屏共映双子星！
+      url: null
+  sources: []
+  images:
+    - /assets/archive/image64.jpeg
+    - /assets/archive/image65.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t009
+  row: 9
+  year: 1983
+  date: 日期未详
+  title: 周涛在淮南市第三中学上高中
+  tags:
+    - zhou
+    - dong
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑在淮南市第三中学上高中
+    - label: 董卿
+      text: 🍉进入淮北市第一中学读初中
+  observation: |-
+    宿命的淮南淮北
+    （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+    （又是双子星嘿嘿）
+  editorial: false
+  fields:
+    - cell: A9
+      text: 1983年
+      url: null
+    - cell: E9
+      text: 🍑在淮南市第三中学上高中
+      url: null
+    - cell: F9
+      text: 🍉进入淮北市第一中学读初中
+      url: null
+  inherited_fields:
+    - cell: C6
+      text: |-
+        宿命的淮南淮北
+        （巧的是，淮南市和淮北市在地理上因位于淮河两岸也被称为“淮河双子”）
+        （又是双子星嘿嘿）
+      url: null
+    - cell: G6
+      text: ""
+      url: null
+      image: /assets/archive/image64.jpeg
+    - cell: H6
+      text: |-
+        前图出自董卿个人专访：
+        《是什么成就了董卿》
+        ——《解放日报》2011.04.08
+        （全文在【椒花颂声】板块中）
+      url: null
+    - cell: I6
+      text: ""
+      url: null
+      image: /assets/archive/image65.jpeg
+    - cell: J6
+      text: |-
+        淮河两岸出双子，
+        荧屏共映双子星！
+      url: null
+  sources: []
+  images:
+    - /assets/archive/image64.jpeg
+    - /assets/archive/image65.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t010
+  row: 10
+  year: 1985
+  date: 日期未详
+  title: 董卿离开淮北，随父母迁到浙江省嘉兴市，
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: |-
+        🍉离开淮北，随父母迁到浙江省嘉兴市，
+        并入读嘉兴一中，直至高中毕业
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A10
+      text: 1985年
+      url: null
+    - cell: F10
+      text: |-
+        🍉离开淮北，随父母迁到浙江省嘉兴市，
+        并入读嘉兴一中，直至高中毕业
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t011
+  row: 11
+  year: 1986
+  date: 日期未详
+  title: 周涛以文化、专业双料第一的成绩
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑以文化、专业双料第一的成绩
+        考入北京广播学院（现中国传媒大学）播音系
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A11
+      text: 1986年
+      url: null
+    - cell: E11
+      text: |-
+        🍑以文化、专业双料第一的成绩
+        考入北京广播学院（现中国传媒大学）播音系
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://finance.people.com.cn/money/n/2013/0311/c218900-20746433.html
+      label: 人民网 · 周涛成长经历
+      kind: source
+      origin: 补充公开来源
+      scope: 1986年报考经历。
+  images: []
+  checks: []
+- id: t012
+  row: 12
+  year: 1992
+  date: 日期未详
+  title: 周涛就职于北京电视台播音部
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑就职于北京电视台播音部
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A12
+      text: 1992年
+      url: null
+    - cell: E12
+      text: 🍑就职于北京电视台播音部
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.iq.com/actor-info/%E5%91%A8%E6%B6%9B-zhou-tao-214380105?lang=zh_cn
+      label: 爱奇艺 · 周涛人物资料
+      kind: source
+      origin: 补充公开来源
+      scope: 出生信息、北京电视台工作经历与星光奖；不证明原表所有细节。
+  images: []
+  checks: []
+- id: t013
+  row: 13
+  year: 1994
+  date: 日期未详
+  title: 周涛荣获由北京市电视艺术家协会颁
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑荣获由北京市电视艺术家协会颁
+        发的“春燕杯”最佳节目主持人奖
+    - label: 董卿
+      text: 🍉进入浙江电视台
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A13
+      text: 1994年
+      url: null
+    - cell: E13
+      text: |-
+        🍑荣获由北京市电视艺术家协会颁
+        发的“春燕杯”最佳节目主持人奖
+      url: null
+    - cell: F13
+      text: 🍉进入浙江电视台
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://shaoer.cctv.com/2016/08/30/ARTITyTgyALctaivAQjOrdEA160830.shtml
+      label: 央视网 · 董卿主持人介绍
+      kind: source
+      origin: 补充公开来源
+      scope: 出生日期、浙江电视台与上海卫视经历、2004年青歌赛。
+  images: []
+  checks: []
+- id: t014
+  row: 14
+  year: 1994
+  date: 日期未详
+  title: 董卿随浙江台的节目来京采访时，与周涛相遇
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍉随浙江台的节目来京采访时，与🍑相遇
+  observation: ""
+  editorial: true
+  fields:
+    - cell: D14
+      text: 🍉随浙江台的节目来京采访时，与🍑相遇
+      url: null
+    - cell: G14
+      text: 据zzq说
+      url: null
+    - cell: H14
+      text: ""
+      url: null
+      image: /assets/archive/image61.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image61.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t015
+  row: 15
+  year: 1995
+  date: 9月18日
+  title: 周涛进入央视 开始主持《综艺大观》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑进入央视 开始主持《综艺大观》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A15
+      text: 1995年
+      url: null
+    - cell: B15
+      text: "45918"
+      url: null
+    - cell: E15
+      text: 🍑进入央视 开始主持《综艺大观》
+      url: null
+    - cell: G15
+      text: https://b23.tv/cQcK4k7
+      url: https://b23.tv/cQcK4k7
+    - cell: H15
+      text: ""
+      url: null
+      image: /assets/archive/image99.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/cQcK4k7
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image99.jpeg
+  checks: []
+- id: t016
+  row: 16
+  year: 1996
+  date: 2月18日
+  title: 周涛主持春晚陕西分会场
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑主持春晚陕西分会场
+    - label: 董卿
+      text: 🍉担任上海春晚分会场场务
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A16
+      text: 1996年
+      url: null
+    - cell: B16
+      text: "45706"
+      url: null
+    - cell: E16
+      text: 🍑主持春晚陕西分会场
+      url: null
+    - cell: F16
+      text: 🍉担任上海春晚分会场场务
+      url: null
+    - cell: G16
+      text: ""
+      url: null
+      image: /assets/archive/image3.jpeg
+    - cell: H16
+      text: ""
+      url: null
+      image: /assets/archive/image4.png
+    - cell: I16
+      text: http://b23.tv/SnWuGEe
+      url: http://b23.tv/SnWuGEe
+  inherited_fields: []
+  sources:
+    - url: http://b23.tv/SnWuGEe
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image3.jpeg
+    - /assets/archive/image4.png
+  checks: []
+- id: t017
+  row: 17
+  year: 1997
+  date: 2月6日
+  title: 周涛主持春节联欢晚会主会场
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会主会场
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A17
+      text: 1997年
+      url: null
+    - cell: B17
+      text: "45694"
+      url: null
+    - cell: E17
+      text: 🍑主持春节联欢晚会主会场
+      url: null
+    - cell: G17
+      text: https://b23.tv/WIB5jOy
+      url: https://b23.tv/WIB5jOy
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/WIB5jOy
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t018
+  row: 18
+  year: 1998
+  date: |-
+    1月24日
+    （节目首播）
+  title: 董卿主持《相约星期六》
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持《相约星期六》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A18
+      text: 1998年
+      url: null
+    - cell: B18
+      text: |-
+        1月24日
+        （节目首播）
+      url: null
+    - cell: F18
+      text: 🍉主持《相约星期六》
+      url: null
+    - cell: G18
+      text: |-
+        🍉主持片段
+        https://b23.tv/GaQNCHE
+      url: >-
+        https://m.v.qq.com/z/msite/play-short/index.html?cid=&mobile=1&ptag=v_qq_com%23v.play.adaptor%233&vid=j037863fu6t
+    - cell: H18
+      text: ""
+      url: null
+      image: /assets/archive/image103.jpeg
+    - cell: I18
+      text: ""
+      url: null
+      image: /assets/archive/image107.jpeg
+  inherited_fields: []
+  sources:
+    - url: >-
+        https://m.v.qq.com/z/msite/play-short/index.html?cid=&mobile=1&ptag=v_qq_com%23v.play.adaptor%233&vid=j037863fu6t
+      label: m.v.qq.com
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/GaQNCHE
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image103.jpeg
+    - /assets/archive/image107.jpeg
+  checks: []
+- id: t019
+  row: 19
+  year: 1998
+  date: 1月27日
+  title: 周涛主持春节联欢晚会
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B19
+      text: "45684"
+      url: null
+    - cell: E19
+      text: 🍑主持春节联欢晚会
+      url: null
+    - cell: G19
+      text: https://b23.tv/JuVPBCF
+      url: https://b23.tv/JuVPBCF
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/JuVPBCF
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t020
+  row: 20
+  year: 1998
+  date: |-
+    8月16日
+    晚上
+  title: 周涛主持抗洪赈灾义演《我们万众一心》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持抗洪赈灾义演《我们万众一心》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B20
+      text: |-
+        8月16日
+        晚上
+      url: null
+    - cell: E20
+      text: 🍑主持抗洪赈灾义演《我们万众一心》
+      url: null
+    - cell: G20
+      text: |-
+        https://m.thepaper.cn/
+        newsDetail_forward_14874374
+      url: https://m.thepaper.cn/newsDetail_forward_14874374
+    - cell: H20
+      text: ""
+      url: null
+      image: /assets/archive/image104.jpeg
+    - cell: I20
+      text: ""
+      url: null
+      image: /assets/archive/image105.jpeg
+    - cell: J20
+      text: ""
+      url: null
+      image: /assets/archive/image106.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://m.thepaper.cn/newsDetail_forward_14874374
+      label: m.thepaper.cn
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image104.jpeg
+    - /assets/archive/image105.jpeg
+    - /assets/archive/image106.jpeg
+  checks: []
+- id: t021
+  row: 21
+  year: 1999
+  date: 2月15日
+  title: 周涛主持春节联欢晚会
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A21
+      text: 1999年
+      url: null
+    - cell: B21
+      text: "45703"
+      url: null
+    - cell: E21
+      text: 🍑主持春节联欢晚会
+      url: null
+    - cell: G21
+      text: https://b23.tv/iCQbsKm
+      url: https://b23.tv/iCQbsKm
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/iCQbsKm
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t022
+  row: 22
+  year: 1999
+  date: 2月19日
+  title: 董卿主持《东西南北中》特别节目《东西南北闹新春》
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持《东西南北中》特别节目《东西南北闹新春》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B22
+      text: "45707"
+      url: null
+    - cell: F22
+      text: 🍉主持《东西南北中》特别节目《东西南北闹新春》
+      url: null
+    - cell: G22
+      text: " https://b23.tv/EnjTr5I"
+      url: null
+    - cell: H22
+      text: ""
+      url: null
+      image: /assets/archive/image108.jpeg
+    - cell: I22
+      text: ""
+      url: null
+      image: /assets/archive/image109.jpeg
+    - cell: J22
+      text: ""
+      url: null
+      image: /assets/archive/image110.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/EnjTr5I
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image108.jpeg
+    - /assets/archive/image109.jpeg
+    - /assets/archive/image110.jpeg
+  checks: []
+- id: t023
+  row: 23
+  year: 1999
+  date: 日期未详
+  title: 第四届金话筒揭晓，周涛荣获金奖。
+  tags:
+    - zhou
+    - dong
+    - together
+  summaries:
+    - label: 共同记录
+      text: |-
+        第四届金话筒揭晓，🍑荣获金奖。
+        上视10月份的刊物针对此次金话筒获奖名单，出了一篇《“沪上主持人为何与‘金’无缘”》，而这本杂志里有一张🍉的彩页，和一篇🍉的投稿
+    - label: 周涛
+      text: 德国国家电视一台授予🍑“金皇冠”最佳主持人奖优秀播音员主持人称号
+    - label: 董卿
+      text: 🍉加盟上海卫视
+  observation: ""
+  editorial: false
+  fields:
+    - cell: D23
+      text: |-
+        第四届金话筒揭晓，🍑荣获金奖。
+        上视10月份的刊物针对此次金话筒获奖名单，出了一篇《“沪上主持人为何与‘金’无缘”》，而这本杂志里有一张🍉的彩页，和一篇🍉的投稿
+      url: null
+    - cell: E23
+      text: 德国国家电视一台授予🍑“金皇冠”最佳主持人奖优秀播音员主持人称号
+      url: null
+    - cell: F23
+      text: 🍉加盟上海卫视
+      url: null
+    - cell: G23
+      text: ""
+      url: null
+      image: /assets/archive/image1.jpeg
+    - cell: H23
+      text: ""
+      url: null
+      image: /assets/archive/image2.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://shaoer.cctv.com/2016/08/30/ARTITyTgyALctaivAQjOrdEA160830.shtml
+      label: 央视网 · 董卿主持人介绍
+      kind: source
+      origin: 补充公开来源
+      scope: 出生日期、浙江电视台与上海卫视经历、2004年青歌赛。
+    - url: https://media.people.com.cn/n1/2016/1121/c40606-28882528.html
+      label: 人民网 · 周涛转型演出策划
+      kind: source
+      origin: 补充公开来源
+      scope: 1999年金皇冠奖；不支持原表杂志内容。
+  images:
+    - /assets/archive/image1.jpeg
+    - /assets/archive/image2.jpeg
+  checks: []
+- id: t024
+  row: 24
+  year: 2000
+  date: 2月4日
+  title: 周涛主持春节联欢晚会
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A24
+      text: 2000年
+      url: null
+    - cell: B24
+      text: "45692"
+      url: null
+    - cell: E24
+      text: 🍑主持春节联欢晚会
+      url: null
+    - cell: G24
+      text: https://b23.tv/UoZyOz4
+      url: https://b23.tv/UoZyOz4
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/UoZyOz4
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t025
+  row: 25
+  year: 2000
+  date: 日期未详
+  title: 周涛离开《综艺大观》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑离开《综艺大观》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: E25
+      text: 🍑离开《综艺大观》
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://kejiao.cntv.cn/program/aizibing/20121129/100158.shtml
+      label: 央视网 · 周涛
+      kind: source
+      origin: 补充公开来源
+      scope: 主持《综艺大观》五年，2001年开办《真情无限》。
+  images: []
+  checks: []
+- id: t026
+  row: 26
+  year: 2001
+  date: 1月23日
+  title: 周涛主持春节联欢晚会
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A26
+      text: 2001年
+      url: null
+    - cell: B26
+      text: "45680"
+      url: null
+    - cell: E26
+      text: 🍑主持春节联欢晚会
+      url: null
+    - cell: G26
+      text: https://b23.tv/KNCek8C
+      url: https://b23.tv/KNCek8C
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/KNCek8C
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t027
+  row: 27
+  year: 2001
+  date: 日期未详
+  title: 周涛担任主持人+制作人的《真情无限》开播
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑担任主持人+制作人的《真情无限》开播
+    - label: 董卿
+      text: 🍉在上视获得了第五届金话筒的金奖
+  observation: ""
+  editorial: false
+  fields:
+    - cell: E27
+      text: 🍑担任主持人+制作人的《真情无限》开播
+      url: null
+    - cell: F27
+      text: 🍉在上视获得了第五届金话筒的金奖
+      url: null
+    - cell: H27
+      text: ""
+      url: null
+      image: /assets/archive/image5.png
+  inherited_fields: []
+  sources:
+    - url: https://tv.cctv.com/2016/03/31/ARTImBd1l7BLqbxhtsLDRI4D160331.shtml
+      label: 央视网 · 董卿个人信息
+      kind: source
+      origin: 补充公开来源
+      scope: 职业履历、金话筒获奖、上戏MFA毕业、国庆晚会与访学经历；私人生活不在此来源支持范围内。
+    - url: https://kejiao.cntv.cn/program/aizibing/20121129/100158.shtml
+      label: 央视网 · 周涛
+      kind: source
+      origin: 补充公开来源
+      scope: 主持《综艺大观》五年，2001年开办《真情无限》。
+  images:
+    - /assets/archive/image5.png
+  checks:
+    - 原表记“第五届金话筒”；央视早期个人简历记2001年第六届。年份与获奖事实可核对，届次存在差异。
+- id: t028
+  row: 28
+  year: 2001
+  date: 日期未详
+  title: 董卿主持第三届上海国际艺术节开幕庆典
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持第三届上海国际艺术节开幕庆典
+  observation: ""
+  editorial: false
+  fields:
+    - cell: F28
+      text: 🍉主持第三届上海国际艺术节开幕庆典
+      url: null
+    - cell: H28
+      text: ""
+      url: null
+      image: /assets/archive/image10.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image10.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t029
+  row: 29
+  year: 2001
+  date: 日期未详
+  title: 周涛主持2001杭州西湖博览会开幕式文艺演出
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑主持2001杭州西湖博览会开幕式文艺演出
+    - label: 董卿
+      text: 🍉主持2001年第九届上海电视节白玉兰奖颁奖典礼暨闭幕式
+  observation: ""
+  editorial: false
+  fields:
+    - cell: E29
+      text: 🍑主持2001杭州西湖博览会开幕式文艺演出
+      url: null
+    - cell: F29
+      text: 🍉主持2001年第九届上海电视节白玉兰奖颁奖典礼暨闭幕式
+      url: null
+    - cell: H29
+      text: ""
+      url: null
+      image: /assets/archive/image6.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image6.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t030
+  row: 30
+  year: 2002
+  date: 2月
+  title: 董卿主持《好运传家宝》春节特别节目——马到成功好运来
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持《好运传家宝》春节特别节目——马到成功好运来
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A30
+      text: 2002年
+      url: null
+    - cell: B30
+      text: 2月
+      url: null
+    - cell: F30
+      text: 🍉主持《好运传家宝》春节特别节目——马到成功好运来
+      url: null
+    - cell: H30
+      text: ""
+      url: null
+      image: /assets/archive/image8.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image8.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t031
+  row: 31
+  year: 2002
+  date: 2-3月份
+  title: 董卿来到北京
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉来到北京
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B31
+      text: 2-3月份
+      url: null
+    - cell: F31
+      text: 🍉来到北京
+      url: null
+    - cell: G31
+      text: "0.56 v@F.Hv Vlp:/ 12/21 愿你往后的人生尽是春和景明鲜花拥簇 # 董卿  https://v.douyin.com/i5T3yxsJ/ 复制此链接，打开Dou音搜索，直接观看视频！"
+      url: null
+    - cell: H31
+      text: ""
+      url: null
+      image: /assets/archive/image87.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://v.douyin.com/i5T3yxsJ/
+      label: v.douyin.com
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image87.jpeg
+  checks: []
+- id: t032
+  row: 32
+  year: 2002
+  date: 2月11日
+  title: 周涛主持春节联欢晚会
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B32
+      text: "45699"
+      url: null
+    - cell: E32
+      text: 🍑主持春节联欢晚会
+      url: null
+    - cell: G32
+      text: https://b23.tv/SwHxeXG
+      url: https://b23.tv/SwHxeXG
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/SwHxeXG
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t033
+  row: 33
+  year: 2002
+  date: 5月
+  title: 董卿进入央视西部频道，主持《魅力12》
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉进入央视西部频道，主持《魅力12》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B33
+      text: 5月
+      url: null
+    - cell: F33
+      text: 🍉进入央视西部频道，主持《魅力12》
+      url: null
+    - cell: G33
+      text: ""
+      url: null
+      image: /assets/archive/image70.jpeg
+    - cell: H33
+      text: https://b23.tv/eb6Wckq
+      url: https://b23.tv/eb6Wckq
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/eb6Wckq
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image70.jpeg
+  checks: []
+- id: t034
+  row: 34
+  year: 2002
+  date: 日期未详
+  title: 周涛与yh离婚
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑与yh离婚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: E34
+      text: 🍑与yh离婚
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t035
+  row: 35
+  year: 2002
+  date: 12月
+  title: 董卿主持上海申办2010年世博会直播报道
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持上海申办2010年世博会直播报道
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B35
+      text: 12月
+      url: null
+    - cell: F35
+      text: 🍉主持上海申办2010年世博会直播报道
+      url: null
+    - cell: H35
+      text: ""
+      url: null
+      image: /assets/archive/image7.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image7.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t036
+  row: 36
+  year: 2003
+  date: 1月31日
+  title: 春晚 周涛与冯巩表演小品《马路情歌》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 春晚 🍑与冯巩表演小品《马路情歌》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A36
+      text: 2003年
+      url: null
+    - cell: B36
+      text: "45688"
+      url: null
+    - cell: E36
+      text: 春晚 🍑与冯巩表演小品《马路情歌》
+      url: null
+    - cell: G36
+      text: https://b23.tv/Gjvc90W
+      url: https://b23.tv/Gjvc90W
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/Gjvc90W
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t037
+  row: 37
+  year: 2003
+  date: 4月
+  title: 日期记录（原表未填写事件）
+  tags: []
+  summaries: []
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B37
+      text: 4月
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t038
+  row: 38
+  year: 2003
+  date: 8月
+  title: 周涛获第十六届全国电视文艺“星光奖”的秀主持人奖
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑获第十六届全国电视文艺“星光奖”的秀主持人奖
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B38
+      text: 8月
+      url: null
+    - cell: E38
+      text: 🍑获第十六届全国电视文艺“星光奖”的秀主持人奖
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.iq.com/actor-info/%E5%91%A8%E6%B6%9B-zhou-tao-214380105?lang=zh_cn
+      label: 爱奇艺 · 周涛人物资料
+      kind: source
+      origin: 补充公开来源
+      scope: 出生信息、北京电视台工作经历与星光奖；不证明原表所有细节。
+  images: []
+  checks: []
+- id: t039
+  row: 39
+  year: 2004
+  date: 2月29日
+  title: 周涛主持春节联欢晚会，与冯巩、朱军等表演小品《让一让 生活更美好》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持春节联欢晚会，与冯巩、朱军等表演小品《让一让 生活更美好》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A39
+      text: 2004年
+      url: null
+    - cell: B39
+      text: 2月29日
+      url: null
+    - cell: E39
+      text: 🍑主持春节联欢晚会，与冯巩、朱军等表演小品《让一让 生活更美好》
+      url: null
+    - cell: G39
+      text: https://b23.tv/4OJRQpu
+      url: https://b23.tv/4OJRQpu
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/4OJRQpu
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks:
+    - 原表日期为2004年2月29日；此处暂不将该日期作为已核实的春晚播出日期。
+- id: t040
+  row: 40
+  year: 2004
+  date: 3月
+  title: 周涛再婚
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑再婚
+    - label: 董卿
+      text: 🍉：“周姐不容易，你好好待她。”
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B40
+      text: 3月
+      url: null
+    - cell: E40
+      text: 🍑再婚
+      url: null
+    - cell: F40
+      text: 🍉：“周姐不容易，你好好待她。”
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t041
+  row: 41
+  year: 2004
+  date: 7月
+  title: 董卿主持第十一届青歌赛
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持第十一届青歌赛
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B41
+      text: 7月
+      url: null
+    - cell: F41
+      text: 🍉主持第十一届青歌赛
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://shaoer.cctv.com/2016/08/30/ARTITyTgyALctaivAQjOrdEA160830.shtml
+      label: 央视网 · 董卿主持人介绍
+      kind: source
+      origin: 补充公开来源
+      scope: 出生日期、浙江电视台与上海卫视经历、2004年青歌赛。
+  images: []
+  checks: []
+- id: t042
+  row: 42
+  year: 2004
+  date: 7月
+  title: 董卿调入综艺频道
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉调入综艺频道
+  observation: ""
+  editorial: false
+  fields:
+    - cell: F42
+      text: 🍉调入综艺频道
+      url: null
+  inherited_fields:
+    - cell: B41
+      text: 7月
+      url: null
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t043
+  row: 43
+  year: 2004
+  date: 10月10日
+  title: 董卿《欢乐中国行》开播（原《综艺大观》班底）
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉《欢乐中国行》开播（原《综艺大观》班底）
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B43
+      text: "45940"
+      url: null
+    - cell: F43
+      text: 🍉《欢乐中国行》开播（原《综艺大观》班底）
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t044
+  row: 44
+  year: 2005
+  date: 2月
+  title: 周涛董卿春节歌舞晚会
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉春节歌舞晚会
+    - label: 周涛
+      text: 🍑主持春节歌舞晚会
+    - label: 董卿
+      text: 🍉主持春节歌舞晚会
+  observation: 燕燕做媒
+  editorial: false
+  fields:
+    - cell: A44
+      text: 2005年
+      url: null
+    - cell: B44
+      text: 2月
+      url: null
+    - cell: C44
+      text: 燕燕做媒
+      url: null
+    - cell: D44
+      text: 🍑🍉春节歌舞晚会
+      url: null
+    - cell: E44
+      text: 🍑主持春节歌舞晚会
+      url: null
+    - cell: F44
+      text: 🍉主持春节歌舞晚会
+      url: null
+    - cell: G44
+      text: ""
+      url: null
+      image: /assets/archive/image12.GIF
+    - cell: H44
+      text: ""
+      url: null
+      image: /assets/archive/image13.GIF
+  inherited_fields: []
+  sources:
+    - url: https://www.cctv.com/anchor/compere/0110/profile.shtml
+      label: 央视网 · 董卿简历
+      kind: source
+      origin: 补充公开来源
+      scope: 记载2005—2007年春节歌舞晚会、元宵晚会等主持经历；不单独证明周涛同台细节。
+  images:
+    - /assets/archive/image12.GIF
+    - /assets/archive/image13.GIF
+  checks: []
+- id: t045
+  row: 45
+  year: 2005
+  date: 2月8日
+  title: 周涛董卿首次同台主持春晚
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉首次同台主持春晚
+    - label: 周涛
+      text: 🍑主持春晚
+    - label: 董卿
+      text: 🍉首次主持春晚
+  observation: 不隔人！！！
+  editorial: false
+  fields:
+    - cell: B45
+      text: "45696"
+      url: null
+    - cell: C45
+      text: 不隔人！！！
+      url: null
+    - cell: D45
+      text: 🍑🍉首次同台主持春晚
+      url: null
+    - cell: E45
+      text: 🍑主持春晚
+      url: null
+    - cell: F45
+      text: 🍉首次主持春晚
+      url: null
+    - cell: G45
+      text: |-
+        【2005-2011卿涛春晚cut
+        https://b23.tv/9jUAiyl
+      url: null
+    - cell: H45
+      text: ""
+      url: null
+      image: /assets/archive/image11.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/9jUAiyl
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image11.jpeg
+  checks: []
+- id: t046
+  row: 46
+  year: 2005
+  date: 2月23日
+  title: 周涛董卿首次同台主持元宵晚会
+  tags:
+    - zhou
+    - dong
+    - together
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉首次同台主持元宵晚会
+    - label: 周涛
+      text: 🍑主持元宵晚会
+    - label: 董卿
+      text: 🍉主持元宵晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B46
+      text: "45711"
+      url: null
+    - cell: D46
+      text: 🍑🍉首次同台主持元宵晚会
+      url: null
+    - cell: E46
+      text: 🍑主持元宵晚会
+      url: null
+    - cell: F46
+      text: 🍉主持元宵晚会
+      url: null
+    - cell: G46
+      text: 🍉BV1Yx411d7K4
+      url: null
+    - cell: H46
+      text: 🍑http://t.cn/A6158BD7
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.bilibili.com/video/BV1Yx411d7K4/
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158BD7
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t047
+  row: 47
+  year: 2005
+  date: 6月
+  title: 周涛借调奥组委
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑借调奥组委
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B47
+      text: 6月
+      url: null
+    - cell: E47
+      text: 🍑借调奥组委
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.cctv.com/anchor/20050622/100692.shtml
+      label: 央视网转载南方周末 · 周涛专访
+      kind: source
+      origin: 补充公开来源
+      scope: 借调奥组委经历；原表所列月份仍待核。
+  images: []
+  checks: []
+- id: t048
+  row: 48
+  year: 2005
+  date: 6月15日-21日
+  title: 周涛董卿第三届CCTV电视舞蹈大赛
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第三届CCTV电视舞蹈大赛
+  observation: 🍉跳舞
+  editorial: false
+  fields:
+    - cell: B48
+      text: 6月15日-21日
+      url: null
+    - cell: C48
+      text: 🍉跳舞
+      url: null
+    - cell: D48
+      text: 🍑🍉第三届CCTV电视舞蹈大赛
+      url: null
+    - cell: G48
+      text: http://t.cn/A6158BD4
+      url: http://t.cn/A6158BD4
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158BD4
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t049
+  row: 49
+  year: 2005
+  date: 11月15日
+  title: 周涛生下香香
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑生下香香
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B49
+      text: "45976"
+      url: null
+    - cell: E49
+      text: 🍑生下香香
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.cctv.com/anchor/20050916/101084.shtml
+      label: 央视网转载人民网 · 周涛
+      kind: source
+      origin: 补充公开来源
+      scope: 2005年怀孕报道；不能据此确认原表出生日期。
+  images: []
+  checks: []
+- id: t050
+  row: 50
+  year: 2006
+  date: 1月28日
+  title: 周涛董卿第2次同台主持春晚
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第2次同台主持春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A50
+      text: 2006年
+      url: null
+    - cell: B50
+      text: "45685"
+      url: null
+    - cell: D50
+      text: 🍑🍉第2次同台主持春晚
+      url: null
+    - cell: G50
+      text: http://t.cn/A6158BeF
+      url: http://t.cn/A6158BeF
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158BeF
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t051
+  row: 51
+  year: 2006
+  date: 1月28日
+  title: 周涛董卿春晚后台采访
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉春晚后台采访
+  observation: 不隔人、对视糖
+  editorial: false
+  fields:
+    - cell: C51
+      text: 不隔人、对视糖
+      url: null
+    - cell: D51
+      text: 🍑🍉春晚后台采访
+      url: null
+    - cell: G51
+      text: https://v.douyin.com/iPVPFfNY/ 07/07 l@c.nd TLW:/
+      url: null
+  inherited_fields:
+    - cell: B50
+      text: "45685"
+      url: null
+  sources:
+    - url: https://v.douyin.com/iPVPFfNY/
+      label: v.douyin.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t052
+  row: 52
+  year: 2006
+  date: 2月12日
+  title: 周涛董卿主持元宵晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉主持元宵晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B52
+      text: "45700"
+      url: null
+    - cell: D52
+      text: 🍑🍉主持元宵晚会
+      url: null
+    - cell: G52
+      text: 🍉http://t.cn/A6158BD5
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158BD5
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t053
+  row: 53
+  year: 2006
+  date: 日期未详
+  title: 董卿主持幕后特别节目
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持幕后特别节目
+  observation: ""
+  editorial: false
+  fields:
+    - cell: F53
+      text: 🍉主持幕后特别节目
+      url: null
+    - cell: H53
+      text: ""
+      url: null
+      image: /assets/archive/image9.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image9.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t054
+  row: 54
+  year: 2006
+  date: 6月
+  title: 周涛代班《欢乐中国行》魅力聊城
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑代班《欢乐中国行》魅力聊城
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B54
+      text: 6月
+      url: null
+    - cell: E54
+      text: 🍑代班《欢乐中国行》魅力聊城
+      url: null
+    - cell: G54
+      text: https://b23.tv/KnNLzLU
+      url: null
+    - cell: H54
+      text: ""
+      url: null
+      image: /assets/archive/image14.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/KnNLzLU
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image14.jpeg
+  checks: []
+- id: t055
+  row: 55
+  year: 2007
+  date: 2月17日
+  title: 周涛董卿第3次同台主持春晚，
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: |-
+        🍑🍉第3次同台主持春晚，
+        发生了“黑色三分钟”事件
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A55
+      text: 2007年
+      url: null
+    - cell: B55
+      text: "45705"
+      url: null
+    - cell: D55
+      text: |-
+        🍑🍉第3次同台主持春晚，
+        发生了“黑色三分钟”事件
+      url: null
+    - cell: G55
+      text: https://b23.tv/7cGDICK
+      url: https://b23.tv/7cGDICK
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/7cGDICK
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t056
+  row: 56
+  year: 2007
+  date: 2月21日
+  title: 周涛董卿主持百花迎春
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉主持百花迎春
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B56
+      text: "45709"
+      url: null
+    - cell: D56
+      text: 🍑🍉主持百花迎春
+      url: null
+    - cell: G56
+      text: BV1Ms41117Hk
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.bilibili.com/video/BV1Ms41117Hk/
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t057
+  row: 57
+  year: 2007
+  date: 3月4日
+  title: 周涛董卿主持元宵晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉主持元宵晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B57
+      text: "45720"
+      url: null
+    - cell: D57
+      text: 🍑🍉主持元宵晚会
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.cctv.com/anchor/compere/0110/profile.shtml
+      label: 央视网 · 董卿简历
+      kind: source
+      origin: 补充公开来源
+      scope: 记载2005—2007年春节歌舞晚会、元宵晚会等主持经历；不单独证明周涛同台细节。
+  images: []
+  checks: []
+- id: t058
+  row: 58
+  year: 2007
+  date: 日期未详
+  title: 董卿进入上海戏剧学院攻读MFA艺术硕士学位
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉进入上海戏剧学院攻读MFA艺术硕士学位
+  observation: ""
+  editorial: false
+  fields:
+    - cell: F58
+      text: 🍉进入上海戏剧学院攻读MFA艺术硕士学位
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://tv.cctv.com/2016/03/31/ARTImBd1l7BLqbxhtsLDRI4D160331.shtml
+      label: 央视网 · 董卿个人信息
+      kind: source
+      origin: 补充公开来源
+      scope: 职业履历、金话筒获奖、上戏MFA毕业、国庆晚会与访学经历；私人生活不在此来源支持范围内。
+  images: []
+  checks: []
+- id: t059
+  row: 59
+  year: 2007
+  date: 4月
+  title: 周涛参加董卿主持的《欢乐中国行》外国人才艺展演担任评委
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑参加🍉主持的《欢乐中国行》外国人才艺展演担任评委
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B59
+      text: 4月
+      url: null
+    - cell: D59
+      text: 🍑参加🍉主持的《欢乐中国行》外国人才艺展演担任评委
+      url: null
+    - cell: G59
+      text: https://b23.tv/bNifEwL
+      url: https://b23.tv/bNifEwL
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/bNifEwL
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t060
+  row: 60
+  year: 2007
+  date: 11月
+  title: "董卿《欢乐中国行》魅力中国 "
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: |-
+        🍉《欢乐中国行》魅力中国 
+        🍑作为安徽名人录制祝福视频
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B60
+      text: 11月
+      url: null
+    - cell: D60
+      text: |-
+        🍉《欢乐中国行》魅力中国 
+        🍑作为安徽名人录制祝福视频
+      url: null
+    - cell: G60
+      text: https://b23.tv/isTMeqn 3:27
+      url: null
+    - cell: H60
+      text: ""
+      url: null
+      image: /assets/archive/image15.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/isTMeqn
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image15.jpeg
+  checks: []
+- id: t061
+  row: 61
+  year: 2007
+  date: 12月
+  title: 周涛董卿第三届中国三亚国际电影广告艺术节颁奖晚会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第三届中国三亚国际电影广告艺术节颁奖晚会
+  observation: 拿同一个话筒
+  editorial: false
+  fields:
+    - cell: B61
+      text: 12月
+      url: null
+    - cell: C61
+      text: 拿同一个话筒
+      url: null
+    - cell: D61
+      text: 🍑🍉第三届中国三亚国际电影广告艺术节颁奖晚会
+      url: null
+    - cell: G61
+      text: http://t.cn/A6158BDz
+      url: http://t.cn/A6158BDz
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158BDz
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t062
+  row: 62
+  year: 2007
+  date: 1月1日
+  title: 董卿朗诵《南方的夜》
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉朗诵《南方的夜》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B62
+      text: "45658"
+      url: null
+    - cell: F62
+      text: 🍉朗诵《南方的夜》
+      url: null
+    - cell: G62
+      text: https://b23.tv/xIvk3DC
+      url: https://b23.tv/xIvk3DC
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/xIvk3DC
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t063
+  row: 63
+  year: 2008
+  date: 2月6日
+  title: 周涛董卿第4次同台主持春晚
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第4次同台主持春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A63
+      text: 2008年
+      url: null
+    - cell: B63
+      text: "45694"
+      url: null
+    - cell: D63
+      text: 🍑🍉第4次同台主持春晚
+      url: null
+    - cell: G63
+      text: https://b23.tv/amwxtC6
+      url: https://b23.tv/amwxtC6
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/amwxtC6
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t064
+  row: 64
+  year: 2008
+  date: 2月6日
+  title: 两人互相为对方小品报幕（老公～）
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 两人互相为对方小品报幕（老公～）
+  observation: ""
+  editorial: false
+  fields:
+    - cell: D64
+      text: 两人互相为对方小品报幕（老公～）
+      url: null
+  inherited_fields:
+    - cell: B63
+      text: "45694"
+      url: null
+    - cell: G63
+      text: https://b23.tv/amwxtC6
+      url: https://b23.tv/amwxtC6
+  sources:
+    - url: https://b23.tv/amwxtC6
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t065
+  row: 65
+  year: 2008
+  date: 2月6日
+  title: 备播带朗诵不隔人
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 备播带朗诵不隔人
+  observation: ""
+  editorial: false
+  fields:
+    - cell: D65
+      text: 备播带朗诵不隔人
+      url: null
+    - cell: G65
+      text: https://weibo.com/2205258684/5099958120484161
+      url: https://weibo.com/2205258684/5099958120484161
+  inherited_fields:
+    - cell: B63
+      text: "45694"
+      url: null
+  sources:
+    - url: https://weibo.com/2205258684/5099958120484161
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t066
+  row: 66
+  year: 2008
+  date: 2月21日
+  title: 周涛董卿主持元宵晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉主持元宵晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B66
+      text: "45709"
+      url: null
+    - cell: D66
+      text: 🍑🍉主持元宵晚会
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://cctvenchiridion.cctv.com/20080222/101642.shtml
+      label: 央视网 · 2008元宵晚会
+      kind: video
+      origin: 补充公开来源
+      scope: 节目资料与播出日期；同台人员细节以视频为准。
+  images: []
+  checks: []
+- id: t067
+  row: 67
+  year: 2008
+  date: 5月7日
+  title: 原表线索记录 · 待核实
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍉吻痕被拍到  后来被鹅扒出牙印疑似🍑
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B67
+      text: "45784"
+      url: null
+    - cell: D67
+      text: 🍉吻痕被拍到  后来被鹅扒出牙印疑似🍑
+      url: null
+    - cell: G67
+      text: ""
+      url: null
+      image: /assets/archive/image16.jpeg
+    - cell: H67
+      text: https://weibo.com/5510423847/5096056085808877
+      url: https://weibo.com/5510423847/5096056085808877
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/5510423847/5096056085808877
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image16.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t068
+  row: 68
+  year: 2008
+  date: 5月8日
+  title: 一篇名为《断言董卿脖子上有“吻痕”者很无聊》的报道出现
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 一篇名为《断言董卿脖子上有“吻痕”者很无聊》的报道出现
+  observation: 疑似🍑指使
+  editorial: true
+  fields:
+    - cell: B68
+      text: "45785"
+      url: null
+    - cell: C68
+      text: 疑似🍑指使
+      url: null
+    - cell: D68
+      text: 一篇名为《断言董卿脖子上有“吻痕”者很无聊》的报道出现
+      url: null
+    - cell: G68
+      text: http://news.cnnb.com.cn/system/2008/05/08/005581794.shtml
+      url: http://news.cnnb.com.cn/system/2008/05/08/005581794.shtml
+  inherited_fields: []
+  sources:
+    - url: http://news.cnnb.com.cn/system/2008/05/08/005581794.shtml
+      label: news.cnnb.com.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t069
+  row: 69
+  year: 2008
+  date: 5月9日
+  title: 365个祝福——心连心艺术团赴汶川慰问演出
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 365个祝福——心连心艺术团赴汶川慰问演出
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B69
+      text: "45786"
+      url: null
+    - cell: D69
+      text: 365个祝福——心连心艺术团赴汶川慰问演出
+      url: null
+    - cell: G69
+      text: http://t.cn/A6158BDG
+      url: http://t.cn/A6158BDG
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158BDG
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t070
+  row: 70
+  year: 2008
+  date: 5月18日
+  title: 周涛董卿共同主持《爱的奉献》抗震救灾募捐活动
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉共同主持《爱的奉献》抗震救灾募捐活动
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B70
+      text: "45795"
+      url: null
+    - cell: D70
+      text: 🍑🍉共同主持《爱的奉献》抗震救灾募捐活动
+      url: null
+    - cell: G70
+      text: 🍑 https://b23.tv/4XNhYqL
+      url: null
+    - cell: H70
+      text: 🍉https://b23.tv/ExIPHLA
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/4XNhYqL
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/ExIPHLA
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t071
+  row: 71
+  year: 2008
+  date: 5月29日
+  title: 周涛作为2008奥运会淮南站第一棒火炬手
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑作为2008奥运会淮南站第一棒火炬手
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B71
+      text: "45806"
+      url: null
+    - cell: E71
+      text: 🍑作为2008奥运会淮南站第一棒火炬手
+      url: null
+    - cell: G71
+      text: https://b23.tv/wRu2ff4
+      url: null
+    - cell: I71
+      text: ""
+      url: null
+      image: /assets/archive/image60.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/wRu2ff4
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image60.jpeg
+  checks: []
+- id: t072
+  row: 72
+  year: 2008
+  date: 8月8日
+  title: 周涛解说2008北京奥运会开幕式
+  tags:
+    - zhou
+    - dong
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑解说2008北京奥运会开幕式
+    - label: 董卿
+      text: 🍉为开幕式热场
+  observation: |-
+    “这场盛世，
+    由我开始，
+    由你结束。”
+  editorial: false
+  fields:
+    - cell: B72
+      text: "45877"
+      url: null
+    - cell: C72
+      text: |-
+        “这场盛世，
+        由我开始，
+        由你结束。”
+      url: null
+    - cell: E72
+      text: 🍑解说2008北京奥运会开幕式
+      url: null
+    - cell: F72
+      text: 🍉为开幕式热场
+      url: null
+    - cell: G72
+      text: 🍑 https://b23.tv/cj30c5h
+      url: null
+    - cell: H72
+      text: 🍉（碎片）https://b23.tv/egTzdYc
+      url: null
+    - cell: I72
+      text: ""
+      url: null
+      image: /assets/archive/image31.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/cj30c5h
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/egTzdYc
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image31.jpeg
+  checks: []
+- id: t073
+  row: 73
+  year: 2008
+  date: 8月24日
+  title: 周涛为闭幕式热场
+  tags:
+    - zhou
+    - dong
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑为闭幕式热场
+    - label: 董卿
+      text: 🍉解说2008年北京奥运会闭幕式
+  observation: |-
+    “这场盛世，
+    由我开始，
+    由你结束。”
+  editorial: false
+  fields:
+    - cell: B73
+      text: "45893"
+      url: null
+    - cell: E73
+      text: 🍑为闭幕式热场
+      url: null
+    - cell: F73
+      text: 🍉解说2008年北京奥运会闭幕式
+      url: null
+    - cell: G73
+      text: https://b23.tv/9YpXa2D
+      url: https://b23.tv/9YpXa2D
+  inherited_fields:
+    - cell: C72
+      text: |-
+        “这场盛世，
+        由我开始，
+        由你结束。”
+      url: null
+  sources:
+    - url: https://b23.tv/9YpXa2D
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t074
+  row: 74
+  year: 2009
+  date: 1月
+  title: 周涛升为央视文艺中心副主任
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑升为央视文艺中心副主任
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A74
+      text: 2009年
+      url: null
+    - cell: B74
+      text: 1月
+      url: null
+    - cell: E74
+      text: 🍑升为央视文艺中心副主任
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://ent.cctv.com/20090211/101737_20.shtml
+      label: 央视网 · 周涛
+      kind: source
+      origin: 补充公开来源
+      scope: 报道任命发生在2009年春节后，与原表一月表述有差异。
+  images: []
+  checks:
+    - 原表写1月，央视2009年2月报道写“牛年春节刚过”获任命。
+- id: t075
+  row: 75
+  year: 2009
+  date: 1月1日
+  title: 周涛朗读《你是人间四月天》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑朗读《你是人间四月天》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B75
+      text: "45658"
+      url: null
+    - cell: E75
+      text: 🍑朗读《你是人间四月天》
+      url: null
+    - cell: G75
+      text: https://b23.tv/JQUaHni
+      url: https://b23.tv/JQUaHni
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/JQUaHni
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t076
+  row: 76
+  year: 2009
+  date: 1月10日
+  title: 周涛董卿百花迎春同台
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉百花迎春同台
+  observation: 🍑黄梅戏
+  editorial: false
+  fields:
+    - cell: B76
+      text: "45667"
+      url: null
+    - cell: C76
+      text: 🍑黄梅戏
+      url: null
+    - cell: D76
+      text: 🍑🍉百花迎春同台
+      url: null
+    - cell: G76
+      text: 🍑http://t.cn/A6158BDw
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158BDw
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t077
+  row: 77
+  year: 2009
+  date: 1月25日
+  title: 周涛董卿第5次同台主持春晚
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第5次同台主持春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B77
+      text: "45682"
+      url: null
+    - cell: D77
+      text: 🍑🍉第5次同台主持春晚
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://ent.sina.com.cn/pc/2009-01-14/316/43/index.shtml
+      label: 新浪 · 2009央视春晚专题
+      kind: source
+      origin: 补充公开来源
+      scope: 2009年春晚图文及视频资料。
+  images: []
+  checks: []
+- id: t078
+  row: 78
+  year: 2009
+  date: 2月9日
+  title: 周涛董卿同台主持元宵晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持元宵晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B78
+      text: "45697"
+      url: null
+    - cell: D78
+      text: 🍑🍉同台主持元宵晚会
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://ent.cctv.com/20090209/108854_1.shtml
+      label: 央视网 · 2009元宵晚会图集
+      kind: source
+      origin: 补充公开来源
+      scope: 2009元宵晚会现场资料。
+  images: []
+  checks: []
+- id: t079
+  row: 79
+  year: 2009
+  date: 4月
+  title: 董卿从上戏硕士毕业（毕业汇报）
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉从上戏硕士毕业（毕业汇报）
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B79
+      text: 4月
+      url: null
+    - cell: F79
+      text: 🍉从上戏硕士毕业（毕业汇报）
+      url: null
+    - cell: G79
+      text: https://b23.tv/QxvvcJX
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/QxvvcJX
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://tv.cctv.com/2016/03/31/ARTImBd1l7BLqbxhtsLDRI4D160331.shtml
+      label: 央视网 · 董卿个人信息
+      kind: source
+      origin: 补充公开来源
+      scope: 职业履历、金话筒获奖、上戏MFA毕业、国庆晚会与访学经历；私人生活不在此来源支持范围内。
+  images: []
+  checks: []
+- id: t080
+  row: 80
+  year: 2009
+  date: 5月
+  title: 原表线索记录 · 待核实
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉被拍与🐷同吃一个冰激凌
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B80
+      text: 5月
+      url: null
+    - cell: F80
+      text: 🍉被拍与🐷同吃一个冰激凌
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t081
+  row: 81
+  year: 2009
+  date: 6月27日录制     7月3日播出
+  title: 周涛董卿电影《寻找成龙》首映庆典
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉电影《寻找成龙》首映庆典
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B81
+      text: 6月27日录制     7月3日播出
+      url: null
+    - cell: D81
+      text: 🍑🍉电影《寻找成龙》首映庆典
+      url: null
+    - cell: G81
+      text: 🍑 https://b23.tv/h6De0PQ
+      url: null
+    - cell: H81
+      text: 🍉 https://b23.tv/VNV3HcI
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/h6De0PQ
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/VNV3HcI
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t082
+  row: 82
+  year: 2009
+  date: 7月17日
+  title: 《百花赋》中国文联成立60周年文艺晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 《百花赋》中国文联成立60周年文艺晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B82
+      text: "45855"
+      url: null
+    - cell: D82
+      text: 《百花赋》中国文联成立60周年文艺晚会
+      url: null
+    - cell: H82
+      text: 🍉http://t.cn/A6158dSZ
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dSZ
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t083
+  row: 83
+  year: 2009
+  date: 9月4日
+  title: 爱国歌曲大家唱展演晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 爱国歌曲大家唱展演晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B83
+      text: "45904"
+      url: null
+    - cell: D83
+      text: 爱国歌曲大家唱展演晚会
+      url: null
+    - cell: G83
+      text: http://t.cn/A6158da9
+      url: http://t.cn/A6158da9
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158da9
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t084
+  row: 84
+  year: 2009
+  date: 9月20日
+  title: 《我们共同走过》 庆祝人民政协成立60周年文艺演出
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 《我们共同走过》 庆祝人民政协成立60周年文艺演出
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B84
+      text: "45920"
+      url: null
+    - cell: D84
+      text: 《我们共同走过》 庆祝人民政协成立60周年文艺演出
+      url: null
+    - cell: G84
+      text: https://b23.tv/OS5JlUr
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/OS5JlUr
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t085
+  row: 85
+  year: 2009
+  date: 9月29日
+  title: 国庆60周年盛大文艺晚会《祖国万岁》
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 国庆60周年盛大文艺晚会《祖国万岁》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B85
+      text: "45929"
+      url: null
+    - cell: D85
+      text: 国庆60周年盛大文艺晚会《祖国万岁》
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://tv.cctv.com/2016/03/31/ARTImBd1l7BLqbxhtsLDRI4D160331.shtml
+      label: 央视网 · 董卿个人信息
+      kind: source
+      origin: 补充公开来源
+      scope: 职业履历、金话筒获奖、上戏MFA毕业、国庆晚会与访学经历；私人生活不在此来源支持范围内。
+  images: []
+  checks: []
+- id: t086
+  row: 86
+  year: 2009
+  date: 10月
+  title: 周涛董卿“为祖国喝彩”庆祝新中国成立60周年全国电视文艺节目展播
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉“为祖国喝彩”庆祝新中国成立60周年全国电视文艺节目展播
+  observation: 握手
+  editorial: false
+  fields:
+    - cell: B86
+      text: 10月
+      url: null
+    - cell: C86
+      text: 握手
+      url: null
+    - cell: D86
+      text: 🍑🍉“为祖国喝彩”庆祝新中国成立60周年全国电视文艺节目展播
+      url: null
+    - cell: G86
+      text: 11:53握手 https://b23.tv/7sDmiu1
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/7sDmiu1
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t087
+  row: 87
+  year: 2009
+  date: 10月
+  title: 董卿欢乐中国行•魅力淮南
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉欢乐中国行•魅力淮南
+  observation: ""
+  editorial: false
+  fields:
+    - cell: F87
+      text: 🍉欢乐中国行•魅力淮南
+      url: null
+    - cell: G87
+      text: https://b23.tv/9AbjUsA
+      url: null
+  inherited_fields:
+    - cell: B86
+      text: 10月
+      url: null
+  sources:
+    - url: https://b23.tv/9AbjUsA
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t088
+  row: 88
+  year: 2010
+  date: 1月17日
+  title: 周涛董卿百花迎春同台
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉百花迎春同台
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A88
+      text: 2010年
+      url: null
+    - cell: B88
+      text: "45674"
+      url: null
+    - cell: D88
+      text: 🍑🍉百花迎春同台
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.cflac.org.cn/zt/2010-01/17/content_18788344.htm
+      label: 中国文联 · 百花迎春演出现场
+      kind: source
+      origin: 补充公开来源
+      scope: 图注明确列出董卿、周涛等主持人。
+  images: []
+  checks: []
+- id: t089
+  row: 89
+  year: 2010
+  date: 2月13日
+  title: 周涛董卿第6次同台主持春晚
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第6次同台主持春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B89
+      text: "45701"
+      url: null
+    - cell: D89
+      text: 🍑🍉第6次同台主持春晚
+      url: null
+    - cell: G89
+      text: https://b23.tv/1vhSWiV
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/1vhSWiV
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t090
+  row: 90
+  year: 2010
+  date: 2月28日
+  title: 周涛董卿同台主持元宵晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持元宵晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B90
+      text: "45716"
+      url: null
+    - cell: D90
+      text: 🍑🍉同台主持元宵晚会
+      url: null
+    - cell: G90
+      text: 🍑http://t.cn/A6158daM
+      url: null
+    - cell: H90
+      text: 🍉http://t.cn/A6158daN
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daM
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158daN
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t091
+  row: 91
+  year: 2010
+  date: 4月11日
+  title: 周涛董卿第十四届cctv青年歌手电视大赛奖开赛仪式
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第十四届cctv青年歌手电视大赛奖开赛仪式
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B91
+      text: "45758"
+      url: null
+    - cell: D91
+      text: 🍑🍉第十四届cctv青年歌手电视大赛奖开赛仪式
+      url: null
+    - cell: G91
+      text: 🍑https://b23.tv/vIfq6OB
+      url: null
+    - cell: H91
+      text: 整期 https://b23.tv/ExW2Qfn
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/vIfq6OB
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/ExW2Qfn
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t092
+  row: 92
+  year: 2010
+  date: 4月20日
+  title: 情系玉树 大爱无疆——抗震救灾大型募捐活动特别节目
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 情系玉树 大爱无疆——抗震救灾大型募捐活动特别节目
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B92
+      text: "45767"
+      url: null
+    - cell: D92
+      text: 情系玉树 大爱无疆——抗震救灾大型募捐活动特别节目
+      url: null
+    - cell: G92
+      text: 🍑http://t.cn/A6158dap
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dap
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t093
+  row: 93
+  year: 2010
+  date: 5月21日播出
+  title: 董卿上周涛的节目《欢声笑语》
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍉上🍑的节目《欢声笑语》
+  observation: “吻手礼”
+  editorial: false
+  fields:
+    - cell: B93
+      text: 5月21日播出
+      url: null
+    - cell: C93
+      text: “吻手礼”
+      url: null
+    - cell: D93
+      text: 🍉上🍑的节目《欢声笑语》
+      url: null
+    - cell: G93
+      text: https://b23.tv/c2g6VfZ
+      url: https://b23.tv/c2g6VfZ
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/c2g6VfZ
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t094
+  row: 94
+  year: 2010
+  date: 6月6日
+  title: 周涛董卿心连心艺术团湖北黄冈演出
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉心连心艺术团湖北黄冈演出
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B94
+      text: "45814"
+      url: null
+    - cell: D94
+      text: 🍑🍉心连心艺术团湖北黄冈演出
+      url: null
+    - cell: G94
+      text: 🍑 http://t.cn/A6158dam
+      url: null
+    - cell: H94
+      text: 🍉http://t.cn/A6158dSw
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dam
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158dSw
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t095
+  row: 95
+  year: 2010
+  date: 8月
+  title: 周涛升任大型节目中心副主任
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑升任大型节目中心副主任
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B95
+      text: 8月
+      url: null
+    - cell: E95
+      text: 🍑升任大型节目中心副主任
+      url: null
+    - cell: G95
+      text: >-
+        https://news.sina.cn/sa/2010-07-21/detail-ikftpnny4321179.d.html?sinawapsharesource=newsapp&wm=3200_0024
+      url: >-
+        https://news.sina.cn/sa/2010-07-21/detail-ikftpnny4321179.d.html?sinawapsharesource=newsapp&wm=3200_0024
+  inherited_fields: []
+  sources:
+    - url: >-
+        https://news.sina.cn/sa/2010-07-21/detail-ikftpnny4321179.d.html?sinawapsharesource=newsapp&wm=3200_0024
+      label: news.sina.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t096
+  row: 96
+  year: 2010
+  date: 8月21日
+  title: 心连心艺术团深圳特区演出
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 心连心艺术团深圳特区演出
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B96
+      text: "45890"
+      url: null
+    - cell: D96
+      text: 心连心艺术团深圳特区演出
+      url: null
+    - cell: H96
+      text: 🍉http://t.cn/A6158da6
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158da6
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t097
+  row: 97
+  year: 2010
+  date: 9月
+  title: 董卿主持第十届CCTV-MTV音乐盛典发布会
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持第十届CCTV-MTV音乐盛典发布会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B97
+      text: 9月
+      url: null
+    - cell: F97
+      text: 🍉主持第十届CCTV-MTV音乐盛典发布会
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://ent.sina.com.cn/y/2010-09-07/03003078366.shtml
+      label: 新浪 · 音乐盛典发布会
+      kind: source
+      origin: 补充公开来源
+      scope: 9月6日发布会出席及主持阵容。
+  images: []
+  checks: []
+- id: t098
+  row: 98
+  year: 2010
+  date: 9月6日
+  title: 董卿主持第十届CCTV-MTV音乐盛典发布会
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持第十届CCTV-MTV音乐盛典发布会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B98
+      text: "45906"
+      url: null
+    - cell: F98
+      text: 🍉主持第十届CCTV-MTV音乐盛典发布会
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://ent.sina.com.cn/y/2010-09-07/03003078366.shtml
+      label: 新浪 · 音乐盛典发布会
+      kind: source
+      origin: 补充公开来源
+      scope: 9月6日发布会出席及主持阵容。
+  images: []
+  checks: []
+- id: t099
+  row: 99
+  year: 2011
+  date: 2月2日
+  title: 周涛董卿第7次同台主持春晚
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第7次同台主持春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A99
+      text: 2011年
+      url: null
+    - cell: B99
+      text: "45690"
+      url: null
+    - cell: D99
+      text: 🍑🍉第7次同台主持春晚
+      url: null
+    - cell: G99
+      text: http://t.cn/A6158daS
+      url: http://t.cn/A6158daS
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daS
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t100
+  row: 100
+  year: 2011
+  date: 2月17日
+  title: 周涛董卿同台主持元宵晚会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持元宵晚会
+  observation: 车里🍉摸🍑后背
+  editorial: false
+  fields:
+    - cell: B100
+      text: "45705"
+      url: null
+    - cell: C100
+      text: 车里🍉摸🍑后背
+      url: null
+    - cell: D100
+      text: 🍑🍉同台主持元宵晚会
+      url: null
+    - cell: G100
+      text: 🍑http://t.cn/A6158daf
+      url: null
+    - cell: H100
+      text: 🍉http://t.cn/A6158daj
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daf
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158daj
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t101
+  row: 101
+  year: 2011
+  date: 3月18日
+  title: 周涛代班我要上春晚
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑代班我要上春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B101
+      text: "45734"
+      url: null
+    - cell: E101
+      text: 🍑代班我要上春晚
+      url: null
+    - cell: G101
+      text: 🍑 https://b23.tv/cI0sCFC
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/cI0sCFC
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t102
+  row: 102
+  year: 2011
+  date: 5月1日
+  title: 周涛董卿同台主持庆祝五一国际劳动节文艺晚会——劳动颂歌
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持庆祝五一国际劳动节文艺晚会——劳动颂歌
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B102
+      text: "45778"
+      url: null
+    - cell: D102
+      text: 🍑🍉同台主持庆祝五一国际劳动节文艺晚会——劳动颂歌
+      url: null
+    - cell: G102
+      text: 全集http://t.cn/A6158da1
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158da1
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t103
+  row: 103
+  year: 2011
+  date: 5月11日
+  title: 周涛董卿同台主持中国奇迹——纪念抗击汶川特大地震三周年大型专题文艺晚会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持中国奇迹——纪念抗击汶川特大地震三周年大型专题文艺晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B103
+      text: "45788"
+      url: null
+    - cell: D103
+      text: 🍑🍉同台主持中国奇迹——纪念抗击汶川特大地震三周年大型专题文艺晚会
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t104
+  row: 104
+  year: 2011
+  date: 日期未详
+  title: 周涛董卿共同录制《生活就是舞台》宣传片
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉共同录制《生活就是舞台》宣传片
+  observation: ""
+  editorial: false
+  fields:
+    - cell: D104
+      text: 🍑🍉共同录制《生活就是舞台》宣传片
+      url: null
+    - cell: G104
+      text: https://b23.tv/8onqOEV
+      url: https://b23.tv/8onqOEV
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/8onqOEV
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t105
+  row: 105
+  year: 2011
+  date: 6月27日-7月6日
+  title: 周涛董卿综艺频道放歌九十年庆祝建党九十周年十集文艺专题片
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉综艺频道放歌九十年庆祝建党九十周年十集文艺专题片
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B105
+      text: 6月27日-7月6日
+      url: null
+    - cell: D105
+      text: 🍑🍉综艺频道放歌九十年庆祝建党九十周年十集文艺专题片
+      url: null
+    - cell: G105
+      text: 🍑https://b23.tv/6eLPEof
+      url: null
+    - cell: H105
+      text: 全集 https://b23.tv/9EjGYFA
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/6eLPEof
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/9EjGYFA
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t106
+  row: 106
+  year: 2011
+  date: 7月12日录制     7月30日播出
+  title: 周涛董卿心连心艺术团河北涉县慰问演出
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉心连心艺术团河北涉县慰问演出
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B106
+      text: 7月12日录制     7月30日播出
+      url: null
+    - cell: D106
+      text: 🍑🍉心连心艺术团河北涉县慰问演出
+      url: null
+    - cell: G106
+      text: 🍑https://b23.tv/IDQ4Rkl
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/IDQ4Rkl
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t107
+  row: 107
+  year: 2011
+  date: 9月12日
+  title: 周涛董卿万家邀明月
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉万家邀明月
+  observation: 🍉五指张开喊🍑
+  editorial: false
+  fields:
+    - cell: B107
+      text: "45912"
+      url: null
+    - cell: C107
+      text: 🍉五指张开喊🍑
+      url: null
+    - cell: D107
+      text: 🍑🍉万家邀明月
+      url: null
+    - cell: G107
+      text: 🍑https://b23.tv/utVBbcN
+      url: null
+    - cell: H107
+      text: 🍉碎片 https://b23.tv/R5hi8sU
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/utVBbcN
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/R5hi8sU
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t108
+  row: 108
+  year: 2011
+  date: 9月12日
+  title: 周涛董卿《带上月光上路》
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉《带上月光上路》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: D108
+      text: 🍑🍉《带上月光上路》
+      url: null
+    - cell: G108
+      text: MV+花絮 https://b23.tv/lbpI7Dn
+      url: null
+    - cell: H108
+      text: live https://b23.tv/w53ihR1
+      url: null
+  inherited_fields:
+    - cell: B107
+      text: "45912"
+      url: null
+  sources:
+    - url: https://b23.tv/lbpI7Dn
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/w53ihR1
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t109
+  row: 109
+  year: 2011
+  date: 12月31日
+  title: 周涛董卿同台主持《启航2012》
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持《启航2012》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B109
+      text: "46022"
+      url: null
+    - cell: D109
+      text: 🍑🍉同台主持《启航2012》
+      url: null
+    - cell: G109
+      text: 🍑http://t.cn/A6158dal
+      url: null
+    - cell: H109
+      text: ""
+      url: null
+      image: /assets/archive/image117.jpeg
+    - cell: I109
+      text: 终于不隔人了！！！！（你们两个的眼神都要拉丝了）
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dal
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image117.jpeg
+  checks: []
+- id: t110
+  row: 110
+  year: 2012
+  date: 1月12日
+  title: 周涛董卿百花迎春同台
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉百花迎春同台
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A110
+      text: 2012年
+      url: null
+    - cell: B110
+      text: "45669"
+      url: null
+    - cell: D110
+      text: 🍑🍉百花迎春同台
+      url: null
+    - cell: G110
+      text: 🍑https://b23.tv/DUqwMhj
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/DUqwMhj
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t111
+  row: 111
+  year: 2012
+  date: 1月22日
+  title: 周涛礼服已做好，但被临时撤下 下基层
+  tags:
+    - zhou
+    - dong
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑礼服已做好，但被临时撤下 下基层
+    - label: 董卿
+      text: 🍉主持春晚  5套礼服
+  observation: |-
+    🍑下基层和小孩儿摆手很快，听到🍉的声音迅速回头，而在🍑看向电视的一瞬间屏幕里的🍉拿着话筒的手抖了；
+    🍑走时一步三回头，对电视屏幕依依不舍，此时电视上播的是🍉的主持画面
+  editorial: false
+  fields:
+    - cell: B111
+      text: "45679"
+      url: null
+    - cell: C111
+      text: |-
+        🍑下基层和小孩儿摆手很快，听到🍉的声音迅速回头，而在🍑看向电视的一瞬间屏幕里的🍉拿着话筒的手抖了；
+        🍑走时一步三回头，对电视屏幕依依不舍，此时电视上播的是🍉的主持画面
+      url: null
+    - cell: E111
+      text: 🍑礼服已做好，但被临时撤下 下基层
+      url: null
+    - cell: F111
+      text: 🍉主持春晚  5套礼服
+      url: null
+    - cell: G111
+      text: 🍑https://b23.tv/Cb0A4Sl
+      url: null
+    - cell: H111
+      text: 🍉https://b23.tv/gGPuuKk
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/Cb0A4Sl
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/gGPuuKk
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t112
+  row: 112
+  year: 2012
+  date: 2月23日
+  title: 22届星光奖颁奖晚会 董卿介绍周涛
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 22届星光奖颁奖晚会 🍉介绍🍑
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B112
+      text: "45711"
+      url: null
+    - cell: D112
+      text: 22届星光奖颁奖晚会 🍉介绍🍑
+      url: null
+    - cell: H112
+      text: |-
+        在第8分钟左右
+         🍉https://b23.tv/SkvhcYS
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/SkvhcYS
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t113
+  row: 113
+  year: 2012
+  date: 2月25日
+  title: 金话筒奖（不同台 台上台下）
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 金话筒奖（不同台 台上台下）
+  observation: 眼神、表情很好品
+  editorial: false
+  fields:
+    - cell: B113
+      text: "45713"
+      url: null
+    - cell: C113
+      text: 眼神、表情很好品
+      url: null
+    - cell: D113
+      text: 金话筒奖（不同台 台上台下）
+      url: null
+    - cell: G113
+      text: 🍑http://t.cn/A61VoMRp
+      url: null
+    - cell: H113
+      text: 🍉http://t.cn/A61VoMRN
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A61VoMRp
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A61VoMRN
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t114
+  row: 114
+  year: 2012
+  date: 5月23日
+  title: 周涛董卿为人民放歌延安讲话70周年
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉为人民放歌延安讲话70周年
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B114
+      text: "45800"
+      url: null
+    - cell: D114
+      text: 🍑🍉为人民放歌延安讲话70周年
+      url: null
+    - cell: G114
+      text: https://b23.tv/9SVo7oM
+      url: https://b23.tv/9SVo7oM
+    - cell: H114
+      text: https://b23.tv/G6nc2KP
+      url: https://b23.tv/G6nc2KP
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/9SVo7oM
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/G6nc2KP
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t115
+  row: 115
+  year: 2012
+  date: 6月30日
+  title: 周涛董卿 庆祝香港回归15周年文艺晚会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉 庆祝香港回归15周年文艺晚会
+  observation: 烟花论
+  editorial: false
+  fields:
+    - cell: B115
+      text: "45838"
+      url: null
+    - cell: C115
+      text: 烟花论
+      url: null
+    - cell: D115
+      text: 🍑🍉 庆祝香港回归15周年文艺晚会
+      url: null
+    - cell: G115
+      text: https://b23.tv/HSvhXbS
+      url: https://b23.tv/HSvhXbS
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/HSvhXbS
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t116
+  row: 116
+  year: 2012
+  date: 9月28日-30日
+  title: 周涛在香港主持第十三届香江明月夜——大型中秋音乐会
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑在香港主持第十三届香江明月夜——大型中秋音乐会
+  observation: 烟花论
+  editorial: false
+  fields:
+    - cell: B116
+      text: 9月28日-30日
+      url: null
+    - cell: E116
+      text: 🍑在香港主持第十三届香江明月夜——大型中秋音乐会
+      url: null
+  inherited_fields:
+    - cell: C115
+      text: 烟花论
+      url: null
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t117
+  row: 117
+  year: 2012
+  date: 国庆期间
+  title: 董卿后来在《挑战不可能》中提到 “10月1日的晚上 我在香港维多利亚港看到了最美的烟花”
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: 🍉后来在《挑战不可能》中提到 “10月1日的晚上 我在香港维多利亚港看到了最美的烟花”
+    - label: 周涛
+      text: 🍑10月1日至10月10日无工作安排 且前后有赶进度的嫌疑
+    - label: 董卿
+      text: 🍉9月30日至10月13日无工作安排 且前后有赶进度的嫌疑
+  observation: 烟花论
+  editorial: true
+  fields:
+    - cell: B117
+      text: 国庆期间
+      url: null
+    - cell: D117
+      text: 🍉后来在《挑战不可能》中提到 “10月1日的晚上 我在香港维多利亚港看到了最美的烟花”
+      url: null
+    - cell: E117
+      text: 🍑10月1日至10月10日无工作安排 且前后有赶进度的嫌疑
+      url: null
+    - cell: F117
+      text: 🍉9月30日至10月13日无工作安排 且前后有赶进度的嫌疑
+      url: null
+    - cell: G117
+      text: 2:51 https://tv.cctv.cn/v/v1/VIDEYOkjf4CGjRqtlieZVUk3180121.html
+      url: https://tv.cctv.cn/v/v1/VIDEYOkjf4CGjRqtlieZVUk3180121.html
+    - cell: H117
+      text: ""
+      url: null
+      image: /assets/archive/image17.png
+    - cell: I117
+      text: ""
+      url: null
+      image: /assets/archive/image54.jpeg
+    - cell: J117
+      text: 编者的分析帖https://weibo.com/7773817526/5135786960225756
+      url: null
+  inherited_fields:
+    - cell: C115
+      text: 烟花论
+      url: null
+  sources:
+    - url: https://tv.cctv.cn/v/v1/VIDEYOkjf4CGjRqtlieZVUk3180121.html
+      label: tv.cctv.cn
+      kind: video
+      origin: 原表链接
+    - url: https://weibo.com/7773817526/5135786960225756
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image17.png
+    - /assets/archive/image54.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t118
+  row: 118
+  year: 2012
+  date: 10月1日播出
+  title: 周涛董卿为祖国放歌“五个一工程”颁奖晚会  周涛颁奖词宣读人 董卿主持人
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉为祖国放歌“五个一工程”颁奖晚会  🍑颁奖词宣读人 🍉主持人
+  observation: 眼神拉丝
+  editorial: false
+  fields:
+    - cell: B118
+      text: 10月1日播出
+      url: null
+    - cell: C118
+      text: 眼神拉丝
+      url: null
+    - cell: D118
+      text: 🍑🍉为祖国放歌“五个一工程”颁奖晚会  🍑颁奖词宣读人 🍉主持人
+      url: null
+    - cell: G118
+      text: https://b23.tv/BGGDw1o
+      url: https://b23.tv/BGGDw1o
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/BGGDw1o
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t119
+  row: 119
+  year: 2012
+  date: 11月7日
+  title: 领航中国——喜迎党的十八大胜利召开
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: |-
+        领航中国——喜迎党的十八大胜利召开
+        大型专题文艺晚会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B119
+      text: "45968"
+      url: null
+    - cell: D119
+      text: |-
+        领航中国——喜迎党的十八大胜利召开
+        大型专题文艺晚会
+      url: null
+    - cell: G119
+      text: 🍑https://b23.tv/XI3rJxD
+      url: null
+    - cell: H119
+      text: 🍉https://b23.tv/kWOSNhu
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/XI3rJxD
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/kWOSNhu
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t120
+  row: 120
+  year: 2012
+  date: 12月7日
+  title: 董卿接受采访《石军有约》 “幸福就是降低标准”
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉接受采访《石军有约》 “幸福就是降低标准”
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B120
+      text: "45998"
+      url: null
+    - cell: F120
+      text: 🍉接受采访《石军有约》 “幸福就是降低标准”
+      url: null
+    - cell: G120
+      text: https://v.douyin.com/iPGaLqRB/
+      url: https://v.douyin.com/iPGaLqRB/
+  inherited_fields: []
+  sources:
+    - url: https://v.douyin.com/iPGaLqRB/
+      label: v.douyin.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t121
+  row: 121
+  year: 2013
+  date: 1月13日
+  title: 周涛董卿同台主持百花迎春
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持百花迎春
+  observation: “爱是想要触碰却又收回的手”
+  editorial: false
+  fields:
+    - cell: A121
+      text: 2013年
+      url: null
+    - cell: B121
+      text: "45670"
+      url: null
+    - cell: C121
+      text: “爱是想要触碰却又收回的手”
+      url: null
+    - cell: D121
+      text: 🍑🍉同台主持百花迎春
+      url: null
+    - cell: G121
+      text: http://t.cn/A6158daa
+      url: http://t.cn/A6158daa
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daa
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t122
+  row: 122
+  year: 2013
+  date: 2月11日
+  title: 万家灯火平安夜——公安部春节电视文艺晚会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 万家灯火平安夜——公安部春节电视文艺晚会
+  observation: 🍑主动牵🍉的手
+  editorial: false
+  fields:
+    - cell: B122
+      text: "45699"
+      url: null
+    - cell: C122
+      text: 🍑主动牵🍉的手
+      url: null
+    - cell: D122
+      text: 万家灯火平安夜——公安部春节电视文艺晚会
+      url: null
+    - cell: G122
+      text: |
+        http://t.cn/A6158daW
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daW
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t123
+  row: 123
+  year: 2013
+  date: 4月22日
+  title: 周涛董卿共同录制赈灾歌曲《给我你的爱》MV上线
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉共同录制赈灾歌曲《给我你的爱》MV上线
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B123
+      text: "45769"
+      url: null
+    - cell: D123
+      text: 🍑🍉共同录制赈灾歌曲《给我你的爱》MV上线
+      url: null
+    - cell: G123
+      text: https://b23.tv/q0eVjtS
+      url: https://b23.tv/q0eVjtS
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/q0eVjtS
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t124
+  row: 124
+  year: 2013
+  date: 5月1日
+  title: 庆祝五一国际劳动节文艺晚会——中国美劳动美
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 庆祝五一国际劳动节文艺晚会——中国美劳动美
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B124
+      text: "45778"
+      url: null
+    - cell: D124
+      text: 庆祝五一国际劳动节文艺晚会——中国美劳动美
+      url: null
+    - cell: G124
+      text: 🍑http://t.cn/A6158daH
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daH
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t125
+  row: 125
+  year: 2013
+  date: 9月10日
+  title: 周涛董卿一起去北京雷锋小学看望儿童
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉一起去北京雷锋小学看望儿童
+  observation: |-
+    某主任疑似公号私用，
+    在微博博文中多次提到
+    “我家卿卿”，且对🍉提及的三本书记得清清楚楚（与其他主持人形成鲜明对比）
+  editorial: true
+  fields:
+    - cell: B125
+      text: "45910"
+      url: null
+    - cell: C125
+      text: |-
+        某主任疑似公号私用，
+        在微博博文中多次提到
+        “我家卿卿”，且对🍉提及的三本书记得清清楚楚（与其他主持人形成鲜明对比）
+      url: null
+    - cell: D125
+      text: 🍑🍉一起去北京雷锋小学看望儿童
+      url: null
+    - cell: G125
+      text: |-
+        https://weibo.com/u/3624478363
+
+
+
+
+
+
+        https://weibo.com/u/1898235637
+      url: https://weibo.com/u/3624478363
+    - cell: H125
+      text: ""
+      url: null
+      image: /assets/archive/image66.jpeg
+    - cell: I125
+      text: ""
+      url: null
+      image: /assets/archive/image67.jpeg
+    - cell: J125
+      text: ""
+      url: null
+      image: /assets/archive/image111.jpeg
+    - cell: K125
+      text: ""
+      url: null
+      image: /assets/archive/image112.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/u/3624478363
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/u/1898235637
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image66.jpeg
+    - /assets/archive/image67.jpeg
+    - /assets/archive/image111.jpeg
+    - /assets/archive/image112.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t126
+  row: 126
+  year: 2013
+  date: 12月14日
+  title: 周涛作为观察员参与董卿主持的《直通春晚》
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑作为观察员参与🍉主持的《直通春晚》
+  observation: 🍑🍉互喊名字、🍉黑脸
+  editorial: false
+  fields:
+    - cell: B126
+      text: "46005"
+      url: null
+    - cell: C126
+      text: 🍑🍉互喊名字、🍉黑脸
+      url: null
+    - cell: D126
+      text: 🍑作为观察员参与🍉主持的《直通春晚》
+      url: null
+    - cell: G126
+      text: http://t.cn/A6158dai
+      url: http://t.cn/A6158dai
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dai
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t127
+  row: 127
+  year: 2013
+  date: 12月31日
+  title: 周涛董卿同台主持启航2014
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持启航2014
+  observation: 跳舞对视、🍉走位、闪过三次的27、🍉靠近🍑、🍑后撤一步
+  editorial: false
+  fields:
+    - cell: B127
+      text: "46022"
+      url: null
+    - cell: C127
+      text: 跳舞对视、🍉走位、闪过三次的27、🍉靠近🍑、🍑后撤一步
+      url: null
+    - cell: D127
+      text: 🍑🍉同台主持启航2014
+      url: null
+    - cell: G127
+      text: http://t.cn/A6158dSy
+      url: http://t.cn/A6158dSy
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dSy
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t128
+  row: 128
+  year: 2014
+  date: 1月14日
+  title: 董卿为《中国谜语大会》出谜语
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: |-
+        🍉为《中国谜语大会》出谜语
+        服装上看是《启航2014》时录的
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A128
+      text: 2014年
+      url: null
+    - cell: B128
+      text: "45671"
+      url: null
+    - cell: F128
+      text: |-
+        🍉为《中国谜语大会》出谜语
+        服装上看是《启航2014》时录的
+      url: null
+    - cell: G128
+      text: ""
+      url: null
+      image: /assets/archive/image21.png
+    - cell: H128
+      text: |-
+        前图来自卿国卿城官网
+        www.dongqing527.com
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://kejiao.cntv.cn/special/zgmydh/
+      label: 央视网 · 中国谜语大会
+      kind: source
+      origin: 补充公开来源
+      scope: 董卿出题内容；录制时间推断未核实。
+  images:
+    - /assets/archive/image21.png
+  checks: []
+- id: t129
+  row: 129
+  year: 2014
+  date: 1月29日
+  title: 周涛董卿心连心艺术团慰问演出《东西南北闹新春》
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉心连心艺术团慰问演出《东西南北闹新春》
+    - label: 周涛
+      text: 🍑江西（带zzq）
+    - label: 董卿
+      text: 🍉海南
+  observation: |-
+    🍑作为制片人，
+    将🍉派往温暖的海南
+  editorial: false
+  fields:
+    - cell: B129
+      text: "45686"
+      url: null
+    - cell: C129
+      text: |-
+        🍑作为制片人，
+        将🍉派往温暖的海南
+      url: null
+    - cell: D129
+      text: 🍑🍉心连心艺术团慰问演出《东西南北闹新春》
+      url: null
+    - cell: E129
+      text: 🍑江西（带zzq）
+      url: null
+    - cell: F129
+      text: 🍉海南
+      url: null
+    - cell: G129
+      text: https://b23.tv/GCAtbKG
+      url: https://b23.tv/GCAtbKG
+    - cell: H129
+      text: 结尾🍑制作人 https://b23.tv/cZwnR8U
+      url: null
+    - cell: I129
+      text: ""
+      url: null
+      image: /assets/archive/image18.png
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/GCAtbKG
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/cZwnR8U
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image18.png
+  checks: []
+- id: t130
+  row: 130
+  year: 2014
+  date: 2月11日
+  title: 周涛主持《中国谜语大会》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持《中国谜语大会》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B130
+      text: "45699"
+      url: null
+    - cell: E130
+      text: 🍑主持《中国谜语大会》
+      url: null
+    - cell: G130
+      text: https://b23.tv/f0DQMDg
+      url: https://b23.tv/f0DQMDg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/f0DQMDg
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t131
+  row: 131
+  year: 2014
+  date: 2月12日
+  title: 周涛主持《中国谜语大会》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持《中国谜语大会》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B131
+      text: "45700"
+      url: null
+  inherited_fields:
+    - cell: E130
+      text: 🍑主持《中国谜语大会》
+      url: null
+    - cell: G130
+      text: https://b23.tv/f0DQMDg
+      url: https://b23.tv/f0DQMDg
+  sources:
+    - url: https://b23.tv/f0DQMDg
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t132
+  row: 132
+  year: 2014
+  date: 2月13日
+  title: 周涛主持《中国谜语大会》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持《中国谜语大会》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B132
+      text: "45701"
+      url: null
+  inherited_fields:
+    - cell: E130
+      text: 🍑主持《中国谜语大会》
+      url: null
+    - cell: G130
+      text: https://b23.tv/f0DQMDg
+      url: https://b23.tv/f0DQMDg
+  sources:
+    - url: https://b23.tv/f0DQMDg
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t133
+  row: 133
+  year: 2014
+  date: 4月4日
+  title: 董卿拍摄《大魔术师》宣传片
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: |-
+        🍉拍摄《大魔术师》宣传片
+        🍉这一年最后一次国内公开活动
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B133
+      text: "45751"
+      url: null
+    - cell: F133
+      text: |-
+        🍉拍摄《大魔术师》宣传片
+        🍉这一年最后一次国内公开活动
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t134
+  row: 134
+  year: 2014
+  date: 4月
+  title: 董卿赴美访学+生子
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉赴美访学+生子
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B134
+      text: 4月
+      url: null
+    - cell: F134
+      text: 🍉赴美访学+生子
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://tv.cctv.com/2016/03/31/ARTImBd1l7BLqbxhtsLDRI4D160331.shtml
+      label: 央视网 · 董卿个人信息
+      kind: source
+      origin: 补充公开来源
+      scope: 职业履历、金话筒获奖、上戏MFA毕业、国庆晚会与访学经历；私人生活不在此来源支持范围内。
+  images: []
+  checks: []
+- id: t135
+  row: 135
+  year: 2014
+  date: 6月3日
+  title: 董卿中国好声音美国赛区巅峰之夜 担当评委（美国）
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉中国好声音美国赛区巅峰之夜 担当评委（美国）
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B135
+      text: "45811"
+      url: null
+    - cell: F135
+      text: 🍉中国好声音美国赛区巅峰之夜 担当评委（美国）
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://culture.people.com.cn/n/2014/0607/c87423-25117106-2.html
+      label: 人民网 · 好声音美国赛区
+      kind: source
+      origin: 补充公开来源
+      scope: 董卿担任美国赛区评委。
+  images: []
+  checks: []
+- id: t136
+  row: 136
+  year: 2014
+  date: 7月19日
+  title: 周涛作为嘉宾参加了《大魔术师》的录制
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑作为嘉宾参加了《大魔术师》的录制
+  observation: 🍑戴着和🍉的宝格丽情侣对戒、卡地亚手镯。同时接手了原本是🍉的节目
+  editorial: true
+  fields:
+    - cell: B136
+      text: "45857"
+      url: null
+    - cell: C136
+      text: 🍑戴着和🍉的宝格丽情侣对戒、卡地亚手镯。同时接手了原本是🍉的节目
+      url: null
+    - cell: E136
+      text: 🍑作为嘉宾参加了《大魔术师》的录制
+      url: null
+    - cell: H136
+      text: https://weibo.com/5832275531/4828478786245615
+      url: https://weibo.com/5832275531/4828478786245615
+    - cell: I136
+      text: https://weibo.com/2612369607/3734042246041638
+      url: https://weibo.com/2612369607/3734042246041638
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/5832275531/4828478786245615
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/2612369607/3734042246041638
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t137
+  row: 137
+  year: 2015
+  date: 2月6日
+  title: 董卿回归 参与春晚彩排
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉回归 参与春晚彩排
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A137
+      text: 2015年
+      url: null
+    - cell: B137
+      text: "45694"
+      url: null
+    - cell: F137
+      text: 🍉回归 参与春晚彩排
+      url: null
+    - cell: G137
+      text: ""
+      url: null
+      image: /assets/archive/image22.jpeg
+    - cell: H137
+      text: 前图来自卿国卿城官网
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://media.people.com.cn/n/2015/0219/c14677-26583335.html
+      label: 人民网 · 董卿回归春晚
+      kind: source
+      origin: 补充公开来源
+      scope: 2015年回归春晚；不证明原表彩排精确日期。
+  images:
+    - /assets/archive/image22.jpeg
+  checks: []
+- id: t138
+  row: 138
+  year: 2015
+  date: 2月22日
+  title: 董卿美国第87届奥斯卡颁奖典礼红毯
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉美国第87届奥斯卡颁奖典礼红毯
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B138
+      text: "45710"
+      url: null
+    - cell: F138
+      text: 🍉美国第87届奥斯卡颁奖典礼红毯
+      url: null
+  inherited_fields:
+    - cell: G137
+      text: ""
+      url: null
+      image: /assets/archive/image22.jpeg
+    - cell: H137
+      text: 前图来自卿国卿城官网
+      url: null
+  sources: []
+  images:
+    - /assets/archive/image22.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t139
+  row: 139
+  year: 2015
+  date: 6月30日左右
+  title: 董卿回国
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉回国
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B139
+      text: 6月30日左右
+      url: null
+    - cell: F139
+      text: 🍉回国
+      url: null
+  inherited_fields:
+    - cell: H137
+      text: 前图来自卿国卿城官网
+      url: null
+  sources:
+    - url: https://www.xinhuanet.com/world/2015-07/01/c_127970261.htm
+      label: 新华网 · 董卿结束学业回国
+      kind: source
+      origin: 补充公开来源
+      scope: 2015年7月1日报道其回国及即将参与节目。
+  images: []
+  checks: []
+- id: t140
+  row: 140
+  year: 2015
+  date: 7月2日
+  title: 周涛为你读诗《预言》
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑为你读诗《预言》
+  observation: 🍑：“一定要走吗？请等我和你同行！”
+  editorial: false
+  fields:
+    - cell: B140
+      text: "45840"
+      url: null
+    - cell: C140
+      text: 🍑：“一定要走吗？请等我和你同行！”
+      url: null
+    - cell: E140
+      text: 🍑为你读诗《预言》
+      url: null
+    - cell: G140
+      text: https://mp.weixin.qq.com/s/T4XJ-ul080glf3BniscN4g
+      url: https://mp.weixin.qq.com/s/T4XJ-ul080glf3BniscN4g
+  inherited_fields:
+    - cell: H137
+      text: 前图来自卿国卿城官网
+      url: null
+  sources:
+    - url: https://mp.weixin.qq.com/s/T4XJ-ul080glf3BniscN4g
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t141
+  row: 141
+  year: 2015
+  date: 7月
+  title: 董卿开始录制《挑战不可能》（国内）
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉开始录制《挑战不可能》（国内）
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B141
+      text: 7月
+      url: null
+    - cell: F141
+      text: 🍉开始录制《挑战不可能》（国内）
+      url: null
+    - cell: G141
+      text: ""
+      url: null
+      image: /assets/archive/image23.jpeg
+  inherited_fields:
+    - cell: H137
+      text: 前图来自卿国卿城官网
+      url: null
+  sources:
+    - url: https://www.xinhuanet.com/world/2015-07/01/c_127970261.htm
+      label: 新华网 · 董卿结束学业回国
+      kind: source
+      origin: 补充公开来源
+      scope: 2015年7月1日报道其回国及即将参与节目。
+    - url: https://1118.cctv.com/2015/07/08/ARTI1436322198646898.shtml
+      label: 央视网 · 董卿重回央视
+      kind: source
+      origin: 补充公开来源
+      scope: 《挑战不可能》发布与节目安排。
+  images:
+    - /assets/archive/image23.jpeg
+  checks: []
+- id: t142
+  row: 142
+  year: 2015
+  date: 10月8日
+  title: 周涛主持一路有你：讲述警嫂故事
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持一路有你：讲述警嫂故事
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B142
+      text: "45938"
+      url: null
+    - cell: E142
+      text: 🍑主持一路有你：讲述警嫂故事
+      url: null
+    - cell: G142
+      text: https://b23.tv/mvsyjsw
+      url: https://b23.tv/mvsyjsw
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/mvsyjsw
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t143
+  row: 143
+  year: 2015
+  date: 11月8日
+  title: 周涛主持好记者讲好故事·价值观的故事
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持好记者讲好故事·价值观的故事
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B143
+      text: "45969"
+      url: null
+    - cell: E143
+      text: 🍑主持好记者讲好故事·价值观的故事
+      url: null
+    - cell: G143
+      text: https://b23.tv/0ZHb2RA
+      url: https://b23.tv/0ZHb2RA
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/0ZHb2RA
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t144
+  row: 144
+  year: 2015
+  date: 11月29日
+  title: 周涛董卿共筑中国梦歌曲演唱会
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉共筑中国梦歌曲演唱会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B144
+      text: "45990"
+      url: null
+    - cell: D144
+      text: 🍑🍉共筑中国梦歌曲演唱会
+      url: null
+    - cell: G144
+      text: 🍑https://b23.tv/Av2ZdPG
+      url: null
+    - cell: H144
+      text: 🍉https://b23.tv/QLlN224
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/Av2ZdPG
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/QLlN224
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t145
+  row: 145
+  year: 2016
+  date: |-
+    1月16日录制
+    2月8日播出
+  title: 周涛董卿同台主持百花迎春
+  tags:
+    - together
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持百花迎春
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A145
+      text: 2016年
+      url: null
+    - cell: B145
+      text: |-
+        1月16日录制
+        2月8日播出
+      url: null
+    - cell: D145
+      text: 🍑🍉同台主持百花迎春
+      url: null
+    - cell: G145
+      text: http://t.cn/A6158dar
+      url: http://t.cn/A6158dar
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dar
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t146
+  row: 146
+  year: 2016
+  date: 1月18日
+  title: 周涛董卿东西南北贺新春
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉东西南北贺新春
+  observation: 🍑总制片 🍉海南
+  editorial: false
+  fields:
+    - cell: B146
+      text: "45675"
+      url: null
+    - cell: C146
+      text: 🍑总制片 🍉海南
+      url: null
+    - cell: D146
+      text: 🍑🍉东西南北贺新春
+      url: null
+    - cell: G146
+      text: http://t.cn/A6158dau
+      url: http://t.cn/A6158dau
+    - cell: H146
+      text: 结尾🍑总制片人https://b23.tv/zcKkDob
+      url: null
+    - cell: I146
+      text: ""
+      url: null
+      image: /assets/archive/image24.png
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dau
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/zcKkDob
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image24.png
+  checks: []
+- id: t147
+  row: 147
+  year: 2016
+  date: |-
+    1月19日录制
+    2月9日播出
+  title: 周涛主持公安特别节目：忠诚的足迹
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持公安特别节目：忠诚的足迹
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B147
+      text: |-
+        1月19日录制
+        2月9日播出
+      url: null
+    - cell: E147
+      text: 🍑主持公安特别节目：忠诚的足迹
+      url: null
+    - cell: G147
+      text: https://b23.tv/xbcCQT1
+      url: https://b23.tv/xbcCQT1
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/xbcCQT1
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t148
+  row: 148
+  year: 2016
+  date: 2月7日
+  title: 周涛董卿第8次 也是最后一次同台主持春晚
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉第8次 也是最后一次同台主持春晚
+  observation: |-
+    🍑回归春晚
+    tq超话头像
+    礼服颜色和谐、色彩搭配
+    马甲事件（视频全无、仅剩部分照片）以及“以鹅传鹅”口述及聊天截图
+    春晚前新闻直播幕后故事，有“以鹅传鹅”道：🍑鞠了一躬，然后🍉脸色变差
+    以及对于马甲事件的“以鹅传鹅”的口述
+  editorial: true
+  fields:
+    - cell: B148
+      text: "45695"
+      url: null
+    - cell: C148
+      text: |-
+        🍑回归春晚
+        tq超话头像
+        礼服颜色和谐、色彩搭配
+        马甲事件（视频全无、仅剩部分照片）以及“以鹅传鹅”口述及聊天截图
+        春晚前新闻直播幕后故事，有“以鹅传鹅”道：🍑鞠了一躬，然后🍉脸色变差
+        以及对于马甲事件的“以鹅传鹅”的口述
+      url: null
+    - cell: D148
+      text: 🍑🍉第8次 也是最后一次同台主持春晚
+      url: null
+    - cell: G148
+      text: http://t.cn/A6158dSP
+      url: http://t.cn/A6158dSP
+    - cell: H148
+      text: 马甲时间图片，可仔细看图六https://weibo.com/7215835642/5051990935864169
+      url: null
+    - cell: I148
+      text: 马甲事件观看过视频的鹅的口述https://weibo.com/2674935944/5014105510907966
+      url: null
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158dSP
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: https://weibo.com/7215835642/5051990935864169
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/2674935944/5014105510907966
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t149
+  row: 149
+  year: 2016
+  date: 2月12日
+  title: 董卿主持的《中国诗词大会》开播
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉主持的《中国诗词大会》开播
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B149
+      text: "45700"
+      url: null
+    - cell: F149
+      text: 🍉主持的《中国诗词大会》开播
+      url: null
+    - cell: G149
+      text: ""
+      url: null
+      image: /assets/archive/image25.jpeg
+    - cell: H149
+      text: 中国诗词大会全集https://b23.tv/EANA3Vk
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/EANA3Vk
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image25.jpeg
+  checks: []
+- id: t150
+  row: 150
+  year: 2016
+  date: |-
+    2月21日录制
+    2月22日播出
+  title: 周涛董卿同台主持元宵晚会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉同台主持元宵晚会
+  observation: |-
+    红白似花嫁：
+    “相守一生，白头到老。”
+    惟愿周郎入梦来，不负如来不负卿。
+  editorial: true
+  fields:
+    - cell: B150
+      text: |-
+        2月21日录制
+        2月22日播出
+      url: null
+    - cell: C150
+      text: |-
+        红白似花嫁：
+        “相守一生，白头到老。”
+        惟愿周郎入梦来，不负如来不负卿。
+      url: null
+    - cell: D150
+      text: 🍑🍉同台主持元宵晚会
+      url: null
+    - cell: G150
+      text: http://t.cn/A6158daT
+      url: http://t.cn/A6158daT
+    - cell: H150
+      text: ""
+      url: null
+      image: /assets/archive/image119.jpeg
+    - cell: I150
+      text: ""
+      url: null
+      image: /assets/archive/image120.jpeg
+    - cell: J150
+      text: ""
+      url: null
+      image: /assets/archive/image121.jpeg
+    - cell: K150
+      text: ""
+      url: null
+      image: /assets/archive/image122.jpeg
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6158daT
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image119.jpeg
+    - /assets/archive/image120.jpeg
+    - /assets/archive/image121.jpeg
+    - /assets/archive/image122.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t151
+  row: 151
+  year: 2016
+  date: 3月3日-3月5日
+  title: 周涛参加全国政协十二届四次会议开幕式
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑参加全国政协十二届四次会议开幕式
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B151
+      text: 3月3日-3月5日
+      url: null
+    - cell: E151
+      text: 🍑参加全国政协十二届四次会议开幕式
+      url: null
+    - cell: G151
+      text: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+      url: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+  inherited_fields: []
+  sources:
+    - url: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+      label: tieba.baidu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t152
+  row: 152
+  year: 2016
+  date: 3月10日
+  title: 周涛参加全国政协十二届四次会议第二次全体会议
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑参加全国政协十二届四次会议第二次全体会议
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B152
+      text: "45726"
+      url: null
+    - cell: E152
+      text: 🍑参加全国政协十二届四次会议第二次全体会议
+      url: null
+  inherited_fields:
+    - cell: G151
+      text: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+      url: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+  sources:
+    - url: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+      label: tieba.baidu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t153
+  row: 153
+  year: 2016
+  date: 3月14日
+  title: 周涛参加全国政协十二届四次会议闭幕式
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑参加全国政协十二届四次会议闭幕式
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B153
+      text: "45730"
+      url: null
+    - cell: E153
+      text: 🍑参加全国政协十二届四次会议闭幕式
+      url: null
+  inherited_fields:
+    - cell: G151
+      text: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+      url: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+  sources:
+    - url: >-
+        https://tieba.baidu.com/p/4244487563?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1739964989&is_video=false&unique=2CA4FEE1ADD20A886F1C9F3DD4349976
+      label: tieba.baidu.com
+      kind: source
+      origin: 原表链接
+    - url: https://www.xinhuanet.com/politics/2016lh/zhibo/20160314b/
+      label: 新华网 · 全国政协闭幕会
+      kind: source
+      origin: 补充公开来源
+      scope: 仅核对会议日期为2016年3月14日，不独立证明个人出席。
+  images: []
+  checks:
+    - Excel数值的月日为3月12日；新华社会议直播记闭幕会为3月14日。原表日期保留。
+- id: t154
+  row: 154
+  year: 2016
+  date: 4月8日播出
+  title: 董卿在《中国诗词大会》第一季第九场提到《涛声依旧》
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉在《中国诗词大会》第一季第九场提到《涛声依旧》
+  observation: |-
+    🍉唱完上半句“月落乌啼 总是千年的风霜”后，怎么都不肯唱出下半句
+    “涛声依旧 不见当年的夜晚”
+  editorial: false
+  fields:
+    - cell: B154
+      text: 4月8日播出
+      url: null
+    - cell: C154
+      text: |-
+        🍉唱完上半句“月落乌啼 总是千年的风霜”后，怎么都不肯唱出下半句
+        “涛声依旧 不见当年的夜晚”
+      url: null
+    - cell: F154
+      text: 🍉在《中国诗词大会》第一季第九场提到《涛声依旧》
+      url: null
+    - cell: G154
+      text: ""
+      url: null
+      image: /assets/archive/image38.jpeg
+    - cell: H154
+      text: 完整版可在学习强国里观看
+      url: null
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image38.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t155
+  row: 155
+  year: 2016
+  date: 4月18日
+  title: 周涛防艾：浙江工业大学
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑防艾：浙江工业大学
+  observation: |-
+    1.戴宝格丽黑白情侣款
+    2.专家说不要进入txl这个圈子，🍑歪话筒，表情耐人寻味
+    3.专家：不要去试。🍑：那如果就是/试怎么办呢？
+    4.尴尬的笑声
+    5.🍑：假如你不是，不是真的有那个倾向的话，就别尝试，其实也没“那么好玩”
+    6.🍑：我想，我想啊，我想也没那么好玩
+    7.🍑紧急转移话题“来，我们来看下一个话题”
+  editorial: true
+  fields:
+    - cell: B155
+      text: "45765"
+      url: null
+    - cell: C155
+      text: |-
+        1.戴宝格丽黑白情侣款
+        2.专家说不要进入txl这个圈子，🍑歪话筒，表情耐人寻味
+        3.专家：不要去试。🍑：那如果就是/试怎么办呢？
+        4.尴尬的笑声
+        5.🍑：假如你不是，不是真的有那个倾向的话，就别尝试，其实也没“那么好玩”
+        6.🍑：我想，我想啊，我想也没那么好玩
+        7.🍑紧急转移话题“来，我们来看下一个话题”
+      url: null
+    - cell: E155
+      text: 🍑防艾：浙江工业大学
+      url: null
+    - cell: G155
+      text: 指路第三个视频9：54秒开始全程高能https://b23.tv/xJr4aAd
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/xJr4aAd
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t156
+  row: 156
+  year: 2016
+  date: 5月13日
+  title: 周涛为你读诗
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑为你读诗
+  observation: |-
+    诗的作者是txl，
+    且全诗用的都是“她”
+  editorial: true
+  fields:
+    - cell: B156
+      text: "45790"
+      url: null
+    - cell: C156
+      text: |-
+        诗的作者是txl，
+        且全诗用的都是“她”
+      url: null
+    - cell: E156
+      text: 🍑为你读诗
+      url: null
+    - cell: G156
+      text: https://mp.weixin.qq.com/s/Alw1aGWEgRtH702HOXZqqQ
+      url: https://mp.weixin.qq.com/s/Alw1aGWEgRtH702HOXZqqQ
+    - cell: H156
+      text: ""
+      url: null
+      image: /assets/archive/image19.png
+    - cell: I156
+      text: ""
+      url: null
+      image: /assets/archive/image20.png
+  inherited_fields: []
+  sources:
+    - url: https://mp.weixin.qq.com/s/Alw1aGWEgRtH702HOXZqqQ
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image19.png
+    - /assets/archive/image20.png
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t157
+  row: 157
+  year: 2016
+  date: 5月26日
+  title: 周涛董卿心连心艺术团嘉兴慰问演出
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉心连心艺术团嘉兴慰问演出
+  observation: |-
+    嘉兴的雨
+    “这儿，疼”
+    “这又是要去哪啊”
+    “就这么跟着你，来来回回的走了”
+    “录不了，这是你们的问题，和我的主持人无关”
+    🍑按在椅子上发白的手指
+    撑伞
+    后续据说是🍑去替🍉补录了
+  editorial: false
+  fields:
+    - cell: B157
+      text: "45803"
+      url: null
+    - cell: C157
+      text: |-
+        嘉兴的雨
+        “这儿，疼”
+        “这又是要去哪啊”
+        “就这么跟着你，来来回回的走了”
+        “录不了，这是你们的问题，和我的主持人无关”
+        🍑按在椅子上发白的手指
+        撑伞
+        后续据说是🍑去替🍉补录了
+      url: null
+    - cell: D157
+      text: 🍑🍉心连心艺术团嘉兴慰问演出
+      url: null
+    - cell: G157
+      text: cut  https://b23.tv/dQLyFVC
+      url: null
+    - cell: H157
+      text: 幕后http://t.cn/A6158dad
+      url: null
+    - cell: I157
+      text: ""
+      url: null
+      image: /assets/archive/image28.png
+    - cell: J157
+      text: ""
+      url: null
+      image: /assets/archive/image29.png
+    - cell: K157
+      text: ""
+      url: null
+      image: /assets/archive/image30.png
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/dQLyFVC
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158dad
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image28.png
+    - /assets/archive/image29.png
+    - /assets/archive/image30.png
+  checks: []
+- id: t158
+  row: 158
+  year: 2016
+  date: 6月18日
+  title: 周涛董卿伟大的旗帜
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: |-
+        🍑🍉伟大的旗帜
+
+        “时代有你，开天辟地！”
+  observation: |-
+    618盛世，现场百万机位，至今仍有没看过的视角
+    （🍑是总制片人，所以传出来的现场图和视频都是🍑默许的，董得都董）
+    一些名场面举例：
+    🍑给🍉指cp粉；四大的凝视；🍉特意转过身去脸对着🍑补妆；仪仗队+1；🍑收都收不住的笑；🍑突然别过去的脸（鹅的锐评：“🍑好像突然被空气打了一巴掌”）；🍑🍉互相上手，一个摸对方下巴，一个碰对方手臂
+    ……（数不完，根本数不完）
+  editorial: true
+  fields:
+    - cell: B158
+      text: "45826"
+      url: null
+    - cell: C158
+      text: >-
+        618盛世，现场百万机位，至今仍有没看过的视角
+
+        （🍑是总制片人，所以传出来的现场图和视频都是🍑默许的，董得都董）
+
+        一些名场面举例：
+
+        🍑给🍉指cp粉；四大的凝视；🍉特意转过身去脸对着🍑补妆；仪仗队+1；🍑收都收不住的笑；🍑突然别过去的脸（鹅的锐评：“🍑好像突然被空气打了一巴掌”）；🍑🍉互相上手，一个摸对方下巴，一个碰对方手臂
+
+        ……（数不完，根本数不完）
+      url: null
+    - cell: D158
+      text: |-
+        🍑🍉伟大的旗帜
+
+        “时代有你，开天辟地！”
+      url: null
+    - cell: G158
+      text: |-
+        爱久见人心 
+
+        https://b23.tv/dVJKbM9
+      url: null
+    - cell: H158
+      text: |-
+        勇
+
+        http://t.cn/A6158daB
+      url: null
+    - cell: I158
+      text: |-
+        唇语解读，结合“里面有个你都没跟我一起主持 那个改成 诶你说下次一起主持心连心的时候是不是就不用准备了”“你去说说他”后面是接🍉说下次就摔了，我更倾向于说“下次咱们这样诶”然后还没说完，就被🍉给打断了
+        https://weibo.com/6290473735/5062327961388929
+        https://weibo.com/2860135062/5029727213980807
+      url: null
+    - cell: J158
+      text: https://weibo.com/2860135062/5062498615822315
+      url: https://weibo.com/2860135062/5062498615822315
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/dVJKbM9
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158daB
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: https://weibo.com/6290473735/5062327961388929
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/2860135062/5029727213980807
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/2860135062/5062498615822315
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t160
+  row: 160
+  year: 2016
+  date: 9月22日
+  title: 原表线索记录 · 待核实
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 有人爆出🍑23日飞西安、🍉24日飞西安
+  observation: 疑似避嫌
+  editorial: true
+  fields:
+    - cell: B160
+      text: "45922"
+      url: null
+    - cell: C160
+      text: 疑似避嫌
+      url: null
+    - cell: D160
+      text: 有人爆出🍑23日飞西安、🍉24日飞西安
+      url: null
+    - cell: G160
+      text: https://weibo.com/5950156881/4022447457942207
+      url: https://weibo.com/5950156881/4022447457942207
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/5950156881/4022447457942207
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t161
+  row: 161
+  year: 2016
+  date: 9月23日
+  title: 原表线索记录 · 待核实
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉取消飞西安 改为29日飞上海
+  observation: 疑似避嫌
+  editorial: true
+  fields:
+    - cell: B161
+      text: "45923"
+      url: null
+    - cell: F161
+      text: 🍉取消飞西安 改为29日飞上海
+      url: null
+    - cell: G161
+      text: https://weibo.com/5950156881/4022825789027651
+      url: https://weibo.com/5950156881/4022825789027651
+    - cell: H161
+      text: https://weibo.com/5950156881/4025172225365137
+      url: https://weibo.com/5950156881/4025172225365137
+  inherited_fields:
+    - cell: C160
+      text: 疑似避嫌
+      url: null
+  sources:
+    - url: https://weibo.com/5950156881/4022825789027651
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/5950156881/4025172225365137
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t162
+  row: 162
+  year: 2016
+  date: 10月10日
+  title: 周涛参加《为你读诗》举办的「仲秋林园音乐诗宴」，
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑参加《为你读诗》举办的「仲秋林园音乐诗宴」，
+        在晚上的「烛光诗宴」活动中与
+        比利时钢琴家/作曲家/指挥家彼德利兹先生
+        共同演绎诗歌作品《经柳园而下》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B162
+      text: "45940"
+      url: null
+    - cell: E162
+      text: |-
+        🍑参加《为你读诗》举办的「仲秋林园音乐诗宴」，
+        在晚上的「烛光诗宴」活动中与
+        比利时钢琴家/作曲家/指挥家彼德利兹先生
+        共同演绎诗歌作品《经柳园而下》
+      url: null
+    - cell: G162
+      text: |-
+        https://mp.weixin.qq.com/s/AXClB_gjl_XwT32nMhiFgw
+
+        但是该篇微信推文在10月14日晚上21:53才发布
+      url: https://mp.weixin.qq.com/s/AXClB_gjl_XwT32nMhiFgw
+    - cell: H162
+      text: ""
+      url: null
+      image: /assets/archive/image71.jpeg
+    - cell: I162
+      text: https://b23.tv/2Qvqyei
+      url: https://b23.tv/2Qvqyei
+  inherited_fields: []
+  sources:
+    - url: https://mp.weixin.qq.com/s/AXClB_gjl_XwT32nMhiFgw
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+    - url: https://b23.tv/2Qvqyei
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image71.jpeg
+  checks: []
+- id: t163
+  row: 163
+  year: 2016
+  date: 10月11日
+  title: 董卿戴apm🎤手镯
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉戴apm🎤手镯
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B163
+      text: "45941"
+      url: null
+    - cell: F163
+      text: 🍉戴apm🎤手镯
+      url: null
+    - cell: G163
+      text: ""
+      url: null
+      image: /assets/archive/image26.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image26.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t164
+  row: 164
+  year: 2016
+  date: 11月
+  title: 董卿担任制作人、主持人的《朗读者》确定由北汽集团赞助
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉担任制作人、主持人的《朗读者》确定由北汽集团赞助
+  observation: 🍉的《朗读者》赞助商是🍑到北演后的合作伙伴
+  editorial: false
+  fields:
+    - cell: B164
+      text: 11月
+      url: null
+    - cell: C164
+      text: 🍉的《朗读者》赞助商是🍑到北演后的合作伙伴
+      url: null
+    - cell: F164
+      text: 🍉担任制作人、主持人的《朗读者》确定由北汽集团赞助
+      url: null
+    - cell: G164
+      text: >-
+        https://mp.weixin.qq.com/s?__biz=MzA4MjQxNjQzMA==&mid=2768344316&idx=1&sn=b10f95e0fc7d3377e549d0d90cb5d451&chksm=bf7332bd8804bbab0563d939e9725b1b26072eff8d5e1e1e7d0a5759336e2e2323bdbd0461d0&scene=27
+      url: >-
+        https://mp.weixin.qq.com/s?__biz=MzA4MjQxNjQzMA==&mid=2768344316&idx=1&sn=b10f95e0fc7d3377e549d0d90cb5d451&chksm=bf7332bd8804bbab0563d939e9725b1b26072eff8d5e1e1e7d0a5759336e2e2323bdbd0461d0&scene=27
+    - cell: H164
+      text: https://b23.tv/OglXdyo
+      url: null
+  inherited_fields: []
+  sources:
+    - url: >-
+        https://mp.weixin.qq.com/s?__biz=MzA4MjQxNjQzMA==&mid=2768344316&idx=1&sn=b10f95e0fc7d3377e549d0d90cb5d451&chksm=bf7332bd8804bbab0563d939e9725b1b26072eff8d5e1e1e7d0a5759336e2e2323bdbd0461d0&scene=27
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+    - url: https://b23.tv/OglXdyo
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t165
+  row: 165
+  year: 2016
+  date: 11月15日
+  title: 周涛离职 进入北演
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑离职 进入北演
+    - label: 董卿
+      text: |-
+        《我要上春晚》为🍉庆生，🍉含泪说出：
+        “年年岁岁花相似，岁岁年年人不同”
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B165
+      text: "45976"
+      url: null
+    - cell: E165
+      text: 🍑离职 进入北演
+      url: null
+    - cell: F165
+      text: |-
+        《我要上春晚》为🍉庆生，🍉含泪说出：
+        “年年岁岁花相似，岁岁年年人不同”
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.chinanews.com.cn/m/yl/2018/05-07/8507436.shtml
+      label: 中新网 · 周涛以新身份归来
+      kind: source
+      origin: 补充公开来源
+      scope: 2016年调入北京演艺集团。
+  images: []
+  checks: []
+- id: t166
+  row: 166
+  year: 2016
+  date: 11月30日
+  title: 周涛董卿参加中国文联第十次全国代表大会
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉参加中国文联第十次全国代表大会
+    - label: 周涛
+      text: 🍑戒指佩戴明显
+    - label: 董卿
+      text: 🍉手镯在毛衣折痕下，此为今年（2025年）一位鹅通过视频对比发现
+  observation: 🍑🍉戴apm情侣限量款手镯、戒指
+  editorial: true
+  fields:
+    - cell: B166
+      text: "45991"
+      url: null
+    - cell: C166
+      text: 🍑🍉戴apm情侣限量款手镯、戒指
+      url: null
+    - cell: D166
+      text: 🍑🍉参加中国文联第十次全国代表大会
+      url: null
+    - cell: E166
+      text: 🍑戒指佩戴明显
+      url: null
+    - cell: F166
+      text: 🍉手镯在毛衣折痕下，此为今年（2025年）一位鹅通过视频对比发现
+      url: null
+    - cell: G166
+      text: ""
+      url: null
+      image: /assets/archive/image27.png
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image27.png
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t167
+  row: 167
+  year: 2016
+  date: 12月2日
+  title: 周涛董卿最后一次同台 第九届文代会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉最后一次同台 第九届文代会
+  observation: |-
+    合照 🍑的apm  🍉背过去的手和红肿的双眼
+    （这里加个澄清，🍉拍照和晚会的衣服是一样的）
+  editorial: false
+  fields:
+    - cell: B167
+      text: "45993"
+      url: null
+    - cell: C167
+      text: |-
+        合照 🍑的apm  🍉背过去的手和红肿的双眼
+        （这里加个澄清，🍉拍照和晚会的衣服是一样的）
+      url: null
+    - cell: D167
+      text: 🍑🍉最后一次同台 第九届文代会
+      url: null
+    - cell: G167
+      text: http://t.cn/A6NOmW5A
+      url: http://t.cn/A6NOmW5A
+    - cell: H167
+      text: http://t.cn/A6158daY
+      url: http://t.cn/A6158daY
+  inherited_fields: []
+  sources:
+    - url: http://t.cn/A6NOmW5A
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158daY
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images: []
+  checks:
+    - 原表写“第九届文代会”，与同年另一条“第十次全国代表大会”不一致，届次待核。
+- id: t168
+  row: 168
+  year: 2016
+  date: 12月3日
+  title: 周涛董卿最后一次同台 第九届文代会
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑🍉最后一次同台 第九届文代会
+  observation: |-
+    合照 🍑的apm  🍉背过去的手和红肿的双眼
+    （这里加个澄清，🍉拍照和晚会的衣服是一样的）
+  editorial: false
+  fields:
+    - cell: B168
+      text: "45994"
+      url: null
+    - cell: I168
+      text: ""
+      url: null
+      image: /assets/archive/image41.png
+  inherited_fields:
+    - cell: C167
+      text: |-
+        合照 🍑的apm  🍉背过去的手和红肿的双眼
+        （这里加个澄清，🍉拍照和晚会的衣服是一样的）
+      url: null
+    - cell: D167
+      text: 🍑🍉最后一次同台 第九届文代会
+      url: null
+    - cell: G167
+      text: http://t.cn/A6NOmW5A
+      url: http://t.cn/A6NOmW5A
+    - cell: H167
+      text: http://t.cn/A6158daY
+      url: http://t.cn/A6158daY
+  sources:
+    - url: http://t.cn/A6NOmW5A
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+    - url: http://t.cn/A6158daY
+      label: 微博视频短链
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image41.png
+  checks: []
+- id: t170
+  row: 170
+  year: 2017
+  date: 1月1日
+  title: 周涛主持《紫燕衔春》2017新年民族音乐会 礼服是文代会那件
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑主持《紫燕衔春》2017新年民族音乐会 礼服是文代会那件
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A170
+      text: 2017年
+      url: null
+    - cell: B170
+      text: "45658"
+      url: null
+    - cell: E170
+      text: 🍑主持《紫燕衔春》2017新年民族音乐会 礼服是文代会那件
+      url: null
+    - cell: G170
+      text: ""
+      url: null
+      image: /assets/archive/image55.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image55.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t171
+  row: 171
+  year: 2017
+  date: 1月18日
+  title: 董卿《朗读者》节目签约仪式暨发布会
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉《朗读者》节目签约仪式暨发布会
+  observation: 🍉：“看过的书，走过的路，爱过的人。”
+  editorial: false
+  fields:
+    - cell: B171
+      text: "45675"
+      url: null
+    - cell: C171
+      text: 🍉：“看过的书，走过的路，爱过的人。”
+      url: null
+    - cell: F171
+      text: 🍉《朗读者》节目签约仪式暨发布会
+      url: null
+    - cell: G171
+      text: ""
+      url: null
+      image: /assets/archive/image46.jpeg
+    - cell: H171
+      text: " https://b23.tv/ZGNRqcz"
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/ZGNRqcz
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image46.jpeg
+  checks: []
+- id: t172
+  row: 172
+  year: 2017
+  date: 1月27日
+  title: 董卿最后一次主持春晚
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉最后一次主持春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B172
+      text: "45684"
+      url: null
+    - cell: F172
+      text: 🍉最后一次主持春晚
+      url: null
+    - cell: G172
+      text: https://b23.tv/KNZt5Pq
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/KNZt5Pq
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t173
+  row: 173
+  year: 2017
+  date: 1月28日
+  title: 董卿接受央视网微直播《@春晚》节目采访
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉接受央视网微直播《@春晚》节目采访
+  observation: |-
+    主持人提问：“今年春晚主持阵容与去年有什么不同？”
+    🍉先让kh回答，但kh去年根本没上春晚。最后🍉回答：“不同的就是今年我们迎来的是鸡年。”
+  editorial: false
+  fields:
+    - cell: B173
+      text: "45685"
+      url: null
+    - cell: C173
+      text: |-
+        主持人提问：“今年春晚主持阵容与去年有什么不同？”
+        🍉先让kh回答，但kh去年根本没上春晚。最后🍉回答：“不同的就是今年我们迎来的是鸡年。”
+      url: null
+    - cell: F173
+      text: 🍉接受央视网微直播《@春晚》节目采访
+      url: null
+    - cell: G173
+      text: ""
+      url: null
+      image: /assets/archive/image47.jpeg
+    - cell: H173
+      text: https://b23.tv/XfvDBSk
+      url: https://b23.tv/XfvDBSk
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/XfvDBSk
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image47.jpeg
+  checks: []
+- id: t174
+  row: 174
+  year: 2017
+  date: 2月17日
+  title: 央华出品话剧《情书》在上海东方艺术中心首演
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: |-
+        央华出品话剧《情书》在上海东方艺术中心首演
+        （女主名晓蕾 非🍑出演）
+  observation: 🍑画圆论中的起点
+  editorial: false
+  fields:
+    - cell: B174
+      text: "45705"
+      url: null
+    - cell: C174
+      text: 🍑画圆论中的起点
+      url: null
+    - cell: E174
+      text: |-
+        央华出品话剧《情书》在上海东方艺术中心首演
+        （女主名晓蕾 非🍑出演）
+      url: null
+    - cell: G174
+      text: ""
+      url: null
+      image: /assets/archive/image44.jpeg
+    - cell: H174
+      text: ""
+      url: null
+      image: /assets/archive/image40.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image44.jpeg
+    - /assets/archive/image40.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t175
+  row: 175
+  year: 2017
+  date: 2月18日
+  title: 董卿担任制作人、主持人的《朗读者》开播
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉担任制作人、主持人的《朗读者》开播
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B175
+      text: "45706"
+      url: null
+    - cell: F175
+      text: 🍉担任制作人、主持人的《朗读者》开播
+      url: null
+    - cell: G175
+      text: ""
+      url: null
+      image: /assets/archive/image33.jpeg
+    - cell: H175
+      text: 完整版可在学习强国里观看
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://culture.people.com.cn/GB/n1/2018/0507/c1013-29967669.html
+      label: 人民网 · 朗读者第二季
+      kind: source
+      origin: 补充公开来源
+      scope: 第一季2017年2月18日、第二季2018年5月5日首播。
+  images:
+    - /assets/archive/image33.jpeg
+  checks: []
+- id: t176
+  row: 176
+  year: 2017
+  date: 3月11日
+  title: n p在《朗读者》录制中曾提到“左手拦着周涛右手拦着董卿” 董卿表情管理失控 后来节目播出时这句话被董卿剪掉
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: n p在《朗读者》录制中曾提到“左手拦着🍑右手拦着🍉” 🍉表情管理失控 后来节目播出时这句话被🍉剪掉
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B176
+      text: "45727"
+      url: null
+    - cell: F176
+      text: n p在《朗读者》录制中曾提到“左手拦着🍑右手拦着🍉” 🍉表情管理失控 后来节目播出时这句话被🍉剪掉
+      url: null
+    - cell: G176
+      text: https://weibo.com/5963416006/4861404672426968
+      url: https://weibo.com/5963416006/4861404672426968
+    - cell: H176
+      text: ""
+      url: null
+      image: /assets/archive/image42.GIF
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/5963416006/4861404672426968
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image42.GIF
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t177
+  row: 177
+  year: 2017
+  date: |-
+    4月17日录制
+    4月23日播出
+  title: 《面对面》——董卿：永远成长（专访）
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 《面对面》——🍉：永远成长（专访）
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B177
+      text: |-
+        4月17日录制
+        4月23日播出
+      url: null
+    - cell: F177
+      text: 《面对面》——🍉：永远成长（专访）
+      url: null
+    - cell: G177
+      text: https://b23.tv/2FgtxM5
+      url: null
+    - cell: H177
+      text: ""
+      url: null
+      image: /assets/archive/image34.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/2FgtxM5
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image34.jpeg
+  checks: []
+- id: t178
+  row: 178
+  year: 2017
+  date: |-
+    5月19日演出
+    5月20电视播放
+  title: 周涛在“家在江苏”文艺演出中表演诗朗诵
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑在“家在江苏”文艺演出中表演诗朗诵
+  observation: 🍑穿和🍉的618情侣装
+  editorial: true
+  fields:
+    - cell: B178
+      text: |-
+        5月19日演出
+        5月20电视播放
+      url: null
+    - cell: C178
+      text: 🍑穿和🍉的618情侣装
+      url: null
+    - cell: E178
+      text: 🍑在“家在江苏”文艺演出中表演诗朗诵
+      url: null
+    - cell: G178
+      text: https://b23.tv/kGs2Dxu
+      url: https://b23.tv/kGs2Dxu
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/kGs2Dxu
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t179
+  row: 179
+  year: 2017
+  date: 5月23日
+  title: 《艺星青年——专访《朗读者》董卿》
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 《艺星青年——专访《朗读者》🍉》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B179
+      text: "45800"
+      url: null
+    - cell: F179
+      text: 《艺星青年——专访《朗读者》🍉》
+      url: null
+    - cell: G179
+      text: https://b23.tv/YzGBlV5
+      url: https://b23.tv/YzGBlV5
+    - cell: H179
+      text: ""
+      url: null
+      image: /assets/archive/image35.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/YzGBlV5
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image35.jpeg
+  checks: []
+- id: t180
+  row: 180
+  year: 2017
+  date: 6月9日、10日
+  title: 周涛结巴版 祝贺董卿的《朗读者》
+  tags:
+    - zhou
+    - together
+    - moments
+    - dong
+  summaries:
+    - label: 共同记录
+      text: 🍑结巴版 祝贺🍉的《朗读者》
+    - label: 周涛
+      text: 🍑总导演、主持首届北汽奥林匹克公园音乐季
+  observation: |-
+    在首场演出后采访环节记者提到《朗读者》，🍑：“我也真诚的祝贺🍉……”
+    主持礼服是16春晚同款
+  editorial: false
+  fields:
+    - cell: B180
+      text: 6月9日、10日
+      url: null
+    - cell: C180
+      text: |-
+        在首场演出后采访环节记者提到《朗读者》，🍑：“我也真诚的祝贺🍉……”
+        主持礼服是16春晚同款
+      url: null
+    - cell: D180
+      text: 🍑结巴版 祝贺🍉的《朗读者》
+      url: null
+    - cell: E180
+      text: 🍑总导演、主持首届北汽奥林匹克公园音乐季
+      url: null
+    - cell: G180
+      text: https://b23.tv/Qr29tUk
+      url: https://b23.tv/Qr29tUk
+    - cell: H180
+      text: 微纪录片https://b23.tv/1J5HLEN
+      url: null
+    - cell: I180
+      text: ""
+      url: null
+      image: /assets/archive/image32.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/Qr29tUk
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/1J5HLEN
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image32.jpeg
+  checks: []
+- id: t181
+  row: 181
+  year: 2017
+  date: 6月24日
+  title: 周涛成都经典汇讲座：遇见更好的自己
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑成都经典汇讲座：遇见更好的自己
+  observation: 🍑名场面：“可能你特别爱一个人，忽然有一天你接到了一份结婚请柬，但是新郎或新娘根本就不是你。”
+  editorial: false
+  fields:
+    - cell: B181
+      text: "45832"
+      url: null
+    - cell: C181
+      text: 🍑名场面：“可能你特别爱一个人，忽然有一天你接到了一份结婚请柬，但是新郎或新娘根本就不是你。”
+      url: null
+    - cell: E181
+      text: 🍑成都经典汇讲座：遇见更好的自己
+      url: null
+    - cell: G181
+      text: https://b23.tv/CVFuiAo
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/CVFuiAo
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t182
+  row: 182
+  year: 2017
+  date: 6月26日
+  title: 周涛参加北汽新能源发布会
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑参加北汽新能源发布会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B182
+      text: "45834"
+      url: null
+    - cell: E182
+      text: 🍑参加北汽新能源发布会
+      url: null
+    - cell: G182
+      text: https://b23.tv/q8VVGQO
+      url: https://b23.tv/q8VVGQO
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/q8VVGQO
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t183
+  row: 183
+  year: 2017
+  date: 11月3日
+  title: 周涛导演《魅力中国城》六安
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑导演《魅力中国城》六安
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B183
+      text: "45964"
+      url: null
+    - cell: E183
+      text: 🍑导演《魅力中国城》六安
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t184
+  row: 184
+  year: 2017
+  date: 12月7日
+  title: 董卿被聘为北京世园会首位形象大使
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: |-
+        🍉被聘为北京世园会首位形象大使
+        首个个人专栏《草木卿缘》
+  observation: “植物力量”是🍉朗读的植物故事，“卿之藏书”是🍉推荐与植物相关的书籍。——摘自卿国卿城官博
+  editorial: false
+  fields:
+    - cell: B184
+      text: "45998"
+      url: null
+    - cell: C184
+      text: “植物力量”是🍉朗读的植物故事，“卿之藏书”是🍉推荐与植物相关的书籍。——摘自卿国卿城官博
+      url: null
+    - cell: F184
+      text: |-
+        🍉被聘为北京世园会首位形象大使
+        首个个人专栏《草木卿缘》
+      url: null
+    - cell: G184
+      text: https://weibo.com/5933359384/4182405139251411
+      url: https://weibo.com/5933359384/4182405139251411
+    - cell: H184
+      text: ""
+      url: null
+      image: /assets/archive/image37.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/5933359384/4182405139251411
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image37.jpeg
+  checks: []
+- id: t185
+  row: 185
+  year: 2018
+  date: 3月23日
+  title: 原表线索记录 · 待核实
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑发生日微博 附图有一束花 被扒出花店在🦁家附近
+        （19年删除）
+  observation: |-
+    对应2020年3月27日🎺事件，
+    建议联系起来一起观看
+  editorial: true
+  fields:
+    - cell: A185
+      text: 2018年
+      url: null
+    - cell: B185
+      text: "45739"
+      url: null
+    - cell: C185
+      text: |-
+        对应2020年3月27日🎺事件，
+        建议联系起来一起观看
+      url: null
+    - cell: E185
+      text: |-
+        🍑发生日微博 附图有一束花 被扒出花店在🦁家附近
+        （19年删除）
+      url: null
+    - cell: G185
+      text: ""
+      url: null
+      image: /assets/archive/image43.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image43.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t186
+  row: 186
+  year: 2018
+  date: 4月1日
+  title: 周涛主演话剧《情书》在山西保利大剧院首演
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑主演话剧《情书》在山西保利大剧院首演
+  observation: 🍑版《情书》女主更名为路佳佳
+  editorial: false
+  fields:
+    - cell: B186
+      text: "45748"
+      url: null
+    - cell: C186
+      text: 🍑版《情书》女主更名为路佳佳
+      url: null
+    - cell: E186
+      text: 🍑主演话剧《情书》在山西保利大剧院首演
+      url: null
+    - cell: G186
+      text: http://www.chnjinju.com/m/view.php?aid=7874
+      url: http://www.chnjinju.com/m/view.php?aid=7874
+    - cell: H186
+      text: ""
+      url: null
+      image: /assets/archive/image36.jpeg
+  inherited_fields: []
+  sources:
+    - url: http://www.chnjinju.com/m/view.php?aid=7874
+      label: www.chnjinju.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image36.jpeg
+  checks: []
+- id: t187
+  row: 187
+  year: 2018
+  date: 4月3日
+  title: 第31届电视剧“飞天奖”第25届电视文艺“星光奖”颁奖典礼直播
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: |-
+        第31届电视剧“飞天奖”第25届电视文艺“星光奖”颁奖典礼直播
+        《朗读者》第一季、《中国诗词大会》第二季获星光奖电视文艺栏目大奖
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B187
+      text: "45750"
+      url: null
+    - cell: F187
+      text: |-
+        第31届电视剧“飞天奖”第25届电视文艺“星光奖”颁奖典礼直播
+        《朗读者》第一季、《中国诗词大会》第二季获星光奖电视文艺栏目大奖
+      url: null
+    - cell: G187
+      text: |-
+        https://b23.tv/An9R9gr
+        （🍉cut）
+      url: null
+    - cell: H187
+      text: ""
+      url: null
+      image: /assets/archive/image39.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/An9R9gr
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image39.jpeg
+  checks: []
+- id: t188
+  row: 188
+  year: 2018
+  date: 5月5日
+  title: 董卿《朗读者第二季》开播
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉《朗读者第二季》开播
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B188
+      text: "45782"
+      url: null
+    - cell: F188
+      text: 🍉《朗读者第二季》开播
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://culture.people.com.cn/GB/n1/2018/0507/c1013-29967669.html
+      label: 人民网 · 朗读者第二季
+      kind: source
+      origin: 补充公开来源
+      scope: 第一季2017年2月18日、第二季2018年5月5日首播。
+  images: []
+  checks: []
+- id: t191
+  row: 191
+  year: 2018
+  date: 6月2日
+  title: 董卿担任《魅力中国城》广东肇庆特邀嘉宾
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉担任《魅力中国城》广东肇庆特邀嘉宾
+  observation: |-
+    🐑的节目《魅力中国城》🍑做导演，🍉做助阵嘉宾，大概有十分钟的出场。
+    但后来 《魅力中国城》中的🍑🍉皆未放出
+  editorial: false
+  fields:
+    - cell: B191
+      text: "45810"
+      url: null
+    - cell: C191
+      text: |-
+        🐑的节目《魅力中国城》🍑做导演，🍉做助阵嘉宾，大概有十分钟的出场。
+        但后来 《魅力中国城》中的🍑🍉皆未放出
+      url: null
+    - cell: F191
+      text: 🍉担任《魅力中国城》广东肇庆特邀嘉宾
+      url: null
+    - cell: G191
+      text: ""
+      url: null
+      image: /assets/archive/image45.jpeg
+    - cell: H191
+      text: 前图来自卿国卿城官网
+      url: null
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image45.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t192
+  row: 192
+  year: 2018
+  date: 6月15日
+  title: 周涛导演《魅力中国城》，栏目组调研平凉市
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑导演《魅力中国城》，栏目组调研平凉市
+  observation: |-
+    🐑的节目《魅力中国城》🍑做导演，🍉做助阵嘉宾，大概有十分钟的出场。
+    但后来 《魅力中国城》中的🍑🍉皆未放出
+  editorial: false
+  fields:
+    - cell: B192
+      text: "45823"
+      url: null
+    - cell: E192
+      text: 🍑导演《魅力中国城》，栏目组调研平凉市
+      url: null
+    - cell: G192
+      text: 新闻https://m.163.com/dy/article/DQT08IM20524AAK4.html?spss=adap_pc
+      url: null
+    - cell: H192
+      text: >-
+        贴吧https://tieba.baidu.com/p/5750830295?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1740028196&is_video=false&unique=7FACD80F936DB83C3961832B7F75D18E
+      url: null
+  inherited_fields:
+    - cell: C191
+      text: |-
+        🐑的节目《魅力中国城》🍑做导演，🍉做助阵嘉宾，大概有十分钟的出场。
+        但后来 《魅力中国城》中的🍑🍉皆未放出
+      url: null
+  sources:
+    - url: https://m.163.com/dy/article/DQT08IM20524AAK4.html?spss=adap_pc
+      label: m.163.com
+      kind: source
+      origin: 原表链接
+    - url: >-
+        https://tieba.baidu.com/p/5750830295?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1740028196&is_video=false&unique=7FACD80F936DB83C3961832B7F75D18E
+      label: tieba.baidu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t193
+  row: 193
+  year: 2018
+  date: 6月27日
+  title: 周涛为你读诗：《纪伯伦与玛丽情书集》节选
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑为你读诗：《纪伯伦与玛丽情书集》节选
+  observation: 🍑：“在我的整个生平中，我结识了一位女性，她给我以充分的思想自由和精神自由，为我提供了让我成为‘我’的机会。这位女性就是你。”
+  editorial: false
+  fields:
+    - cell: B193
+      text: "45835"
+      url: null
+    - cell: C193
+      text: 🍑：“在我的整个生平中，我结识了一位女性，她给我以充分的思想自由和精神自由，为我提供了让我成为‘我’的机会。这位女性就是你。”
+      url: null
+    - cell: E193
+      text: 🍑为你读诗：《纪伯伦与玛丽情书集》节选
+      url: null
+    - cell: F193
+      text: https://mp.weixin.qq.com/s/YaAh6CZvTnHj8kodyVIywQ
+      url: https://mp.weixin.qq.com/s/YaAh6CZvTnHj8kodyVIywQ
+  inherited_fields: []
+  sources:
+    - url: https://mp.weixin.qq.com/s/YaAh6CZvTnHj8kodyVIywQ
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t194
+  row: 194
+  year: 2018
+  date: 8月8日
+  title: 周涛发布2008年北京奥运会十周年纪念微博
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑发布2008年北京奥运会十周年纪念微博
+  observation: |-
+    🍑微博“青山在，人未老”
+    对应🍉微信名：山外青山
+  editorial: true
+  fields:
+    - cell: B194
+      text: "45877"
+      url: null
+    - cell: C194
+      text: |-
+        🍑微博“青山在，人未老”
+        对应🍉微信名：山外青山
+      url: null
+    - cell: E194
+      text: 🍑发布2008年北京奥运会十周年纪念微博
+      url: null
+    - cell: F194
+      text: https://weibo.com/6405308384/4270669087008696
+      url: https://weibo.com/6405308384/4270669087008696
+    - cell: G194
+      text: ""
+      url: null
+      image: /assets/archive/image51.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6405308384/4270669087008696
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image51.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t195
+  row: 195
+  year: 2018
+  date: 8月10日、11日
+  title: 周涛导演《魅力中国城》平凉第一轮竞演进场演练
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑导演《魅力中国城》平凉第一轮竞演进场演练
+  observation: 但后来 《魅力中国城》中的🍑🍉皆未放出
+  editorial: false
+  fields:
+    - cell: B195
+      text: 8月10日、11日
+      url: null
+    - cell: C195
+      text: 但后来 《魅力中国城》中的🍑🍉皆未放出
+      url: null
+    - cell: E195
+      text: 🍑导演《魅力中国城》平凉第一轮竞演进场演练
+      url: null
+    - cell: G195
+      text: https://mr.baidu.com/r/1yivw7UOYTK?f=cp&rs=1182252516&ruk=WsaDwijwSdDQUaamf9heoA&u=652a9e68c829e57e
+      url: https://mr.baidu.com/r/1yivw7UOYTK?f=cp&rs=1182252516&ruk=WsaDwijwSdDQUaamf9heoA&u=652a9e68c829e57e
+    - cell: H195
+      text: >-
+        https://tieba.baidu.com/p/5837621777?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1740028284&is_video=false&unique=6E1E4E792557BB6A9431C02E535BA9CE
+      url: >-
+        https://tieba.baidu.com/p/5837621777?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1740028284&is_video=false&unique=6E1E4E792557BB6A9431C02E535BA9CE
+  inherited_fields: []
+  sources:
+    - url: https://mr.baidu.com/r/1yivw7UOYTK?f=cp&rs=1182252516&ruk=WsaDwijwSdDQUaamf9heoA&u=652a9e68c829e57e
+      label: mr.baidu.com
+      kind: source
+      origin: 原表链接
+    - url: >-
+        https://tieba.baidu.com/p/5837621777?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.78.1.1&st=1740028284&is_video=false&unique=6E1E4E792557BB6A9431C02E535BA9CE
+      label: tieba.baidu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t196
+  row: 196
+  year: 2018
+  date: 日期未详
+  title: 周涛导演《魅力中国城》白银市
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑导演《魅力中国城》白银市
+  observation: 但后来 《魅力中国城》中的🍑🍉皆未放出
+  editorial: false
+  fields:
+    - cell: E196
+      text: 🍑导演《魅力中国城》白银市
+      url: null
+    - cell: G196
+      text: 时间不知，参考http://www.bjpag.com/nopub/jdcc/ysmj/202006/t20200602_1334.html
+      url: null
+  inherited_fields:
+    - cell: C195
+      text: 但后来 《魅力中国城》中的🍑🍉皆未放出
+      url: null
+  sources:
+    - url: http://www.bjpag.com/nopub/jdcc/ysmj/202006/t20200602_1334.html
+      label: www.bjpag.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t197
+  row: 197
+  year: 2018
+  date: 9月23日
+  title: 周涛为你读诗《人世间最美的图景》
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑为你读诗《人世间最美的图景》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B197
+      text: "45923"
+      url: null
+    - cell: E197
+      text: 🍑为你读诗《人世间最美的图景》
+      url: null
+    - cell: G197
+      text: https://mp.weixin.qq.com/s/IUCFmbWlYKqHZB7i3YI0gw
+      url: https://mp.weixin.qq.com/s/IUCFmbWlYKqHZB7i3YI0gw
+  inherited_fields: []
+  sources:
+    - url: https://mp.weixin.qq.com/s/IUCFmbWlYKqHZB7i3YI0gw
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t198
+  row: 198
+  year: 2018
+  date: 10月29日
+  title: 周涛导演、主持《第五届佛教论坛开幕式暨主题演出》播出
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑导演、主持《第五届佛教论坛开幕式暨主题演出》播出
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B198
+      text: "45959"
+      url: null
+    - cell: E198
+      text: 🍑导演、主持《第五届佛教论坛开幕式暨主题演出》播出
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t199
+  row: 199
+  year: 2019
+  date: |-
+    2月28日录制
+    3月22日播出
+  title: 董卿湖南卫视《声临其境》第二季第9期 作为np的助阵嘉宾
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉湖南卫视《声临其境》第二季第9期 作为np的助阵嘉宾
+  observation: |-
+    🍉姐姐论：
+    🍉在《声临其境》第二季中说：“我想说，姐姐，这么多年，你没有看错人”
+  editorial: false
+  fields:
+    - cell: A199
+      text: 2019年
+      url: null
+    - cell: B199
+      text: |-
+        2月28日录制
+        3月22日播出
+      url: null
+    - cell: C199
+      text: |-
+        🍉姐姐论：
+        🍉在《声临其境》第二季中说：“我想说，姐姐，这么多年，你没有看错人”
+      url: null
+    - cell: F199
+      text: 🍉湖南卫视《声临其境》第二季第9期 作为np的助阵嘉宾
+      url: null
+    - cell: G199
+      text: ""
+      url: null
+      image: /assets/archive/image48.jpeg
+    - cell: H199
+      text: ""
+      url: null
+      image: /assets/archive/image49.jpeg
+    - cell: I199
+      text: " https://b23.tv/Kd9cLR5"
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/Kd9cLR5
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image48.jpeg
+    - /assets/archive/image49.jpeg
+  checks: []
+- id: t200
+  row: 200
+  year: 2019
+  date: 4月21日
+  title: 董卿参加麦家新书《人生海海》发布会
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉参加麦家新书《人生海海》发布会
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B200
+      text: "45768"
+      url: null
+    - cell: F200
+      text: 🍉参加麦家新书《人生海海》发布会
+      url: null
+    - cell: G200
+      text: ""
+      url: null
+      image: /assets/archive/image50.jpeg
+    - cell: H200
+      text: " https://b23.tv/he0EwRV"
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/he0EwRV
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image50.jpeg
+  checks: []
+- id: t201
+  row: 201
+  year: 2019
+  date: 5月6日左右
+  title: 原表线索记录 · 待核实
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑删除2018年3月23日生日微博
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B201
+      text: 5月6日左右
+      url: null
+    - cell: E201
+      text: 🍑删除2018年3月23日生日微博
+      url: null
+    - cell: G201
+      text: 据超话🎺评论区的鹅所说
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t202
+  row: 202
+  year: 2019
+  date: 5月20日
+  title: 周涛发布表白信
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑发布表白信
+  observation: |-
+    🍑520微博表白信
+    （且编辑三次，疑似想卡点没成功，最后只好无奈放弃/hhh）
+  editorial: true
+  fields:
+    - cell: B202
+      text: "45797"
+      url: null
+    - cell: C202
+      text: |-
+        🍑520微博表白信
+        （且编辑三次，疑似想卡点没成功，最后只好无奈放弃/hhh）
+      url: null
+    - cell: E202
+      text: 🍑发布表白信
+      url: null
+    - cell: G202
+      text: https://weibo.com/6405308384/4373997787042013
+      url: https://weibo.com/6405308384/4373997787042013
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6405308384/4373997787042013
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t203
+  row: 203
+  year: 2019
+  date: 10月13日
+  title: 董卿《故事里的中国》开播
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉《故事里的中国》开播
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B203
+      text: "45943"
+      url: null
+    - cell: F203
+      text: 🍉《故事里的中国》开播
+      url: null
+    - cell: G203
+      text: >-
+        https://mr.baidu.com/r/1yiDbbPOCVq?f=cp&u=de98f9aa01662c1a&urlext=%7B%22cuid%22%3A%22_u22a_Og28l0OHa50OvNtjuG2igSO-fgluvT8g832tlq8Hf60u2EtgfVQu0Pk3aQ9_0mA%22%7D
+      url: null
+  inherited_fields: []
+  sources:
+    - url: >-
+        https://mr.baidu.com/r/1yiDbbPOCVq?f=cp&u=de98f9aa01662c1a&urlext=%7B%22cuid%22%3A%22_u22a_Og28l0OHa50OvNtjuG2igSO-fgluvT8g832tlq8Hf60u2EtgfVQu0Pk3aQ9_0mA%22%7D
+      label: mr.baidu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t204
+  row: 204
+  year: 2019
+  date: 10月26日
+  title: 董卿担任评委的《2019主持人大赛》开播
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉担任评委的《2019主持人大赛》开播
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B204
+      text: "45956"
+      url: null
+    - cell: F204
+      text: 🍉担任评委的《2019主持人大赛》开播
+      url: null
+    - cell: G204
+      text: >-
+        https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2656815327&idx=3&sn=d9ee8e2c4dd6125386ae7c84c1ef2e58&chksm=7a6135394d16bc2f9d1c31d0e05d72d7ac5a0ab2308500c87e9a5f677aebcf741e8be450ca9b&scene=27
+      url: >-
+        https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2656815327&idx=3&sn=d9ee8e2c4dd6125386ae7c84c1ef2e58&chksm=7a6135394d16bc2f9d1c31d0e05d72d7ac5a0ab2308500c87e9a5f677aebcf741e8be450ca9b&scene=27
+  inherited_fields: []
+  sources:
+    - url: >-
+        https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2656815327&idx=3&sn=d9ee8e2c4dd6125386ae7c84c1ef2e58&chksm=7a6135394d16bc2f9d1c31d0e05d72d7ac5a0ab2308500c87e9a5f677aebcf741e8be450ca9b&scene=27
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t205
+  row: 205
+  year: 2019
+  date: 12月18日
+  title: 周涛官宣加盟湖南卫视《声临其境》第三季
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑官宣加盟湖南卫视《声临其境》第三季
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B205
+      text: "46009"
+      url: null
+    - cell: E205
+      text: 🍑官宣加盟湖南卫视《声临其境》第三季
+      url: null
+    - cell: G205
+      text: ""
+      url: null
+      image: /assets/archive/image52.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://www.thepaper.cn/newsDetail_forward_5294471
+      label: 澎湃新闻 · 声临其境第三季
+      kind: source
+      origin: 补充公开来源
+      scope: 周涛加盟节目主持。
+  images:
+    - /assets/archive/image52.jpeg
+  checks: []
+- id: t206
+  row: 206
+  year: 2019
+  date: 12月28日
+  title: 周涛声临其境第三季第一期
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑声临其境第三季第一期
+  observation: 🍑配音追捕“杜邱（DQ）先生，我喜欢你”
+  editorial: false
+  fields:
+    - cell: B206
+      text: "46019"
+      url: null
+    - cell: C206
+      text: 🍑配音追捕“杜邱（DQ）先生，我喜欢你”
+      url: null
+    - cell: E206
+      text: 🍑声临其境第三季第一期
+      url: null
+    - cell: G206
+      text: https://b23.tv/lpW8cLs
+      url: https://b23.tv/lpW8cLs
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/lpW8cLs
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t207
+  row: 207
+  year: 2020
+  date: 1月1日
+  title: 周涛为你读诗《到2020》
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑为你读诗《到2020》
+    - label: 董卿
+      text: 🍉主持《启航2020》
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A207
+      text: 2020年
+      url: null
+    - cell: B207
+      text: "45658"
+      url: null
+    - cell: E207
+      text: 🍑为你读诗《到2020》
+      url: null
+    - cell: F207
+      text: 🍉主持《启航2020》
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t208
+  row: 208
+  year: 2020
+  date: 2月22日
+  title: 周涛《声临其境》因疫情原因改为线上录制
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑《声临其境》因疫情原因改为线上录制
+  observation: |-
+    🍑录制背景的福字疑似上海迪士尼购买
+    🍑“我们年轻人都是这么谈恋爱的”笑得开心灿烂
+  editorial: true
+  fields:
+    - cell: B208
+      text: "45710"
+      url: null
+    - cell: C208
+      text: |-
+        🍑录制背景的福字疑似上海迪士尼购买
+        🍑“我们年轻人都是这么谈恋爱的”笑得开心灿烂
+      url: null
+    - cell: E208
+      text: 🍑《声临其境》因疫情原因改为线上录制
+      url: null
+    - cell: G208
+      text: https://mbd.baidu.com/ma/s/ZN88CH4E
+      url: https://mbd.baidu.com/ma/s/ZN88CH4E
+  inherited_fields: []
+  sources:
+    - url: https://mbd.baidu.com/ma/s/ZN88CH4E
+      label: mbd.baidu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t211
+  row: 211
+  year: 2020
+  date: 3月27日
+  title: 原表线索记录 · 待核实
+  tags:
+    - together
+    - moments
+    - zhou
+    - dong
+  summaries:
+    - label: 共同记录
+      text: |-
+        0：46一个不知名用户在tq超话发帖，表示花从概率角度来说可能不是🍉送的，是cyy送的，删除原因也是因为cyy。
+        并在评论中提出2019年5月20日的微博是写给🍉的表白信                       
+        后被鹅根据其语言风格推测此用户疑似🍑小号
+  observation: >-
+    🎺事件
+
+    1.25年据不方便透露信息人员表示，花似乎真的有可能不是🍉送的，至于为什么，就不方便透露了
+
+    2.20年不知名用户与25年人员表述结论相同，即花不是🍉送的
+
+    3.评论中该不知名用户引用王国维的《人间词话》，且该书🍑推荐过。同时该用户说话语气相较于鹅显得老成。
+
+    4.时间：3月27日，327一直以来默认是属于鹅的纪念日，且《致橡树》写于（1977年）3月27日
+
+    5.“最近不方便用大号，小号还改不了名字”、“超话里发🔪会不会不合适”等一系列话都存在不寻常之处，具体可参考后面链接分析
+
+    6.“董小朋友”“这位朋友也好可爱”
+
+    7.假设花不是🍉送的，那就更绝了。评论里该不知名用户说“她很少上微博（至少是大号）......表白信，很绝”这段话可以说是滴水不漏地站在🍑的角度说的，如果这个🎺真的不是🍑，那么这个人也是很有实力了，简直是要素齐全：“岁数大、去花店问问老板、低调死了、发评论配图”等习惯。
+  editorial: true
+  fields:
+    - cell: B211
+      text: "45743"
+      url: null
+    - cell: C211
+      text: >-
+        🎺事件
+
+        1.25年据不方便透露信息人员表示，花似乎真的有可能不是🍉送的，至于为什么，就不方便透露了
+
+        2.20年不知名用户与25年人员表述结论相同，即花不是🍉送的
+
+        3.评论中该不知名用户引用王国维的《人间词话》，且该书🍑推荐过。同时该用户说话语气相较于鹅显得老成。
+
+        4.时间：3月27日，327一直以来默认是属于鹅的纪念日，且《致橡树》写于（1977年）3月27日
+
+        5.“最近不方便用大号，小号还改不了名字”、“超话里发🔪会不会不合适”等一系列话都存在不寻常之处，具体可参考后面链接分析
+
+        6.“董小朋友”“这位朋友也好可爱”
+
+        7.假设花不是🍉送的，那就更绝了。评论里该不知名用户说“她很少上微博（至少是大号）......表白信，很绝”这段话可以说是滴水不漏地站在🍑的角度说的，如果这个🎺真的不是🍑，那么这个人也是很有实力了，简直是要素齐全：“岁数大、去花店问问老板、低调死了、发评论配图”等习惯。
+      url: null
+    - cell: D211
+      text: |-
+        0：46一个不知名用户在tq超话发帖，表示花从概率角度来说可能不是🍉送的，是cyy送的，删除原因也是因为cyy。
+        并在评论中提出2019年5月20日的微博是写给🍉的表白信                       
+        后被鹅根据其语言风格推测此用户疑似🍑小号
+      url: null
+    - cell: G211
+      text: https://weibo.com/6092857197/4486889136272093
+      url: https://weibo.com/6092857197/4486889136272093
+    - cell: H211
+      text: 🎺此帖发言合集https://weibo.com/7773817526/5136142737606721
+      url: null
+    - cell: I211
+      text: ""
+      url: null
+      image: /assets/archive/image53.jpeg
+    - cell: J211
+      text: |-
+        锤手机型号https://weibo.com/7552843395/5121036257596370
+        小号分析帖https://weibo.com/6214521071/5084517154423455
+        https://weibo.com/6214521071/5084517259805297
+        小号分析帖建立在无法确定花是否是🍉送的前提下
+      url: null
+    - cell: K211
+      text: |-
+        小号发布其他内容
+        https://weibo.com/7737693022/5134838411821722
+        https://weibo.com/7390113926/5135208591131538
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6092857197/4486889136272093
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/7773817526/5136142737606721
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/7552843395/5121036257596370
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/6214521071/5084517154423455
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/6214521071/5084517259805297
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/7737693022/5134838411821722
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/7390113926/5135208591131538
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image53.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t212
+  row: 212
+  year: 2020
+  date: 6月6日
+  title: 周涛拼多多直播首秀
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑拼多多直播首秀
+  observation: |-
+    海南酒店事件＋P30手机型号+🏳️‍🌈裤子
+    女主持人提问🍑住没住过海南酒店，🍑说“没有一块钱住过”（央视名嘴又嘴瓢）
+    🍑的磕巴＋微妙表情
+    🍑在介绍华为P30时，提到自己家里也有一台，而🎺事件的发博手机型号正是华为P30
+    🍑直播时穿的裤子被扒出有🏳️‍🌈元素
+  editorial: true
+  fields:
+    - cell: B212
+      text: "45814"
+      url: null
+    - cell: C212
+      text: |-
+        海南酒店事件＋P30手机型号+🏳️‍🌈裤子
+        女主持人提问🍑住没住过海南酒店，🍑说“没有一块钱住过”（央视名嘴又嘴瓢）
+        🍑的磕巴＋微妙表情
+        🍑在介绍华为P30时，提到自己家里也有一台，而🎺事件的发博手机型号正是华为P30
+        🍑直播时穿的裤子被扒出有🏳️‍🌈元素
+      url: null
+    - cell: E212
+      text: 🍑拼多多直播首秀
+      url: null
+    - cell: G212
+      text: https://b23.tv/W8Ri80w
+      url: https://b23.tv/W8Ri80w
+    - cell: H212
+      text: https://weibo.com/6131164951/5099305587972218
+      url: https://weibo.com/6131164951/5099305587972218
+    - cell: I212
+      text: |-
+        海南事件视频指路0:44
+        https://b23.tv/5YPUmE4
+      url: null
+    - cell: J212
+      text: P30事件分析帖https://weibo.com/7552843395/5121036257596370
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/W8Ri80w
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://weibo.com/6131164951/5099305587972218
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://b23.tv/5YPUmE4
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://weibo.com/7552843395/5121036257596370
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t213
+  row: 213
+  year: 2020
+  date: 7月22日
+  title: 周涛在【为你读诗】上朗读了《散步二十四节气》——大暑
+  tags:
+    - zhou
+    - dong
+  summaries:
+    - label: 周涛
+      text: 🍑在【为你读诗】上朗读了《散步二十四节气》——大暑
+    - label: 董卿
+      text: |-
+        《朗读者第三季》的杀青仪式
+        在北京国家中影数字制作基地举行
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B213
+      text: "45860"
+      url: null
+    - cell: E213
+      text: 🍑在【为你读诗】上朗读了《散步二十四节气》——大暑
+      url: null
+    - cell: F213
+      text: |-
+        《朗读者第三季》的杀青仪式
+        在北京国家中影数字制作基地举行
+      url: null
+    - cell: G213
+      text: ""
+      url: null
+      image: /assets/archive/image88.jpeg
+    - cell: H213
+      text: ""
+      url: null
+      image: /assets/archive/image89.jpeg
+    - cell: I213
+      text: ""
+      url: null
+      image: /assets/archive/image91.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image88.jpeg
+    - /assets/archive/image89.jpeg
+    - /assets/archive/image91.jpeg
+  checks:
+    - 原表归入2020年并写《朗读者第三季》杀青；日期和季次暂未获得可靠资料确认。
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t214
+  row: 214
+  year: 2020
+  date: 8月9日
+  title: 周涛北京青年报文化视频直播栏目《后台》专访
+  tags:
+    - zhou
+    - dong
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑北京青年报文化视频直播栏目《后台》专访
+    - label: 董卿
+      text: 🍉《你好生活》
+  observation: |-
+    🍑被问到“为什么要参加《声临其境》”时又结巴了
+    小尼提到“山外青山”对应🍉微信名
+  editorial: true
+  fields:
+    - cell: B214
+      text: "45878"
+      url: null
+    - cell: C214
+      text: |-
+        🍑被问到“为什么要参加《声临其境》”时又结巴了
+        小尼提到“山外青山”对应🍉微信名
+      url: null
+    - cell: E214
+      text: 🍑北京青年报文化视频直播栏目《后台》专访
+      url: null
+    - cell: F214
+      text: 🍉《你好生活》
+      url: null
+    - cell: G214
+      text: 🍑https://b23.tv/0xiGs7H
+      url: null
+    - cell: H214
+      text: 🍉https://b23.tv/kcO1HTj
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/0xiGs7H
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://b23.tv/kcO1HTj
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t215
+  row: 215
+  year: 2020
+  date: 8月25日
+  title: 周涛原海报有手势，后不知为何突然更换海报，
+  tags:
+    - zhou
+    - dong
+    - moments
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑原海报有手势，后不知为何突然更换海报，
+        更换后新海报无手势
+    - label: 董卿
+      text: 🍉在央视七夕新媒体直播，做了这个手势
+  observation: 换海报事件
+  editorial: true
+  fields:
+    - cell: B215
+      text: "45894"
+      url: null
+    - cell: C215
+      text: 换海报事件
+      url: null
+    - cell: E215
+      text: |-
+        🍑原海报有手势，后不知为何突然更换海报，
+        更换后新海报无手势
+      url: null
+    - cell: F215
+      text: 🍉在央视七夕新媒体直播，做了这个手势
+      url: null
+    - cell: G215
+      text: 手势图片与海报前后对比https://weibo.com/7659389225/5011144691417426
+      url: null
+    - cell: H215
+      text: 七夕直播视频https://weibo.com/1827861545/4541852412545861
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/7659389225/5011144691417426
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/1827861545/4541852412545861
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t216
+  row: 216
+  year: 2020
+  date: 9月26日
+  title: 周涛抖音首秀
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑抖音首秀
+  observation: |-
+    董小姐事件
+    1.所有选品都是🍑认真选的：董小姐薯片
+    2.🍑亲自认证“董小姐C位”
+    3.读董小姐、吃董小姐，🍑羞涩的表情（怪喜欢董小姐的哈）
+  editorial: true
+  fields:
+    - cell: B216
+      text: "45926"
+      url: null
+    - cell: C216
+      text: |-
+        董小姐事件
+        1.所有选品都是🍑认真选的：董小姐薯片
+        2.🍑亲自认证“董小姐C位”
+        3.读董小姐、吃董小姐，🍑羞涩的表情（怪喜欢董小姐的哈）
+      url: null
+    - cell: E216
+      text: 🍑抖音首秀
+      url: null
+    - cell: G216
+      text: https://b23.tv/FawoM83
+      url: https://b23.tv/FawoM83
+    - cell: H216
+      text: 董小姐薯片 🍑娇羞部分https://weibo.com/7435310260/5119955139824133
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/FawoM83
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+    - url: https://weibo.com/7435310260/5119955139824133
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t217
+  row: 217
+  year: 2020
+  date: 9月28日
+  title: 周涛第32届中国电视飞天奖
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑第32届中国电视飞天奖
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B217
+      text: "45928"
+      url: null
+    - cell: E217
+      text: 🍑第32届中国电视飞天奖
+      url: null
+    - cell: G217
+      text: https://b23.tv/plTOt7x
+      url: https://b23.tv/plTOt7x
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/plTOt7x
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t218
+  row: 218
+  year: 2020
+  date: 10月16日
+  title: 周涛京东文学盛典
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑京东文学盛典
+  observation: 🍑：“你的气质里藏着你走过的路，读过的书和爱过的人”
+  editorial: false
+  fields:
+    - cell: B218
+      text: "45946"
+      url: null
+    - cell: C218
+      text: 🍑：“你的气质里藏着你走过的路，读过的书和爱过的人”
+      url: null
+    - cell: E218
+      text: 🍑京东文学盛典
+      url: null
+    - cell: G218
+      text: https://b23.tv/EyL5AwE
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/EyL5AwE
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t219
+  row: 219
+  year: 2020
+  date: 11月27日
+  title: 周涛嘉兴主持奥山华东樾里系3.0产品发布会
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑嘉兴主持奥山华东樾里系3.0产品发布会
+  observation: 嘉兴“同台”
+  editorial: false
+  fields:
+    - cell: B219
+      text: "45988"
+      url: null
+    - cell: C219
+      text: 嘉兴“同台”
+      url: null
+    - cell: E219
+      text: 🍑嘉兴主持奥山华东樾里系3.0产品发布会
+      url: null
+    - cell: H219
+      text: ""
+      url: null
+      image: /assets/archive/image118.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image118.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+- id: t220
+  row: 220
+  year: 2021
+  date: 6月14日
+  title: 周涛上海《情书》发布会
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑上海《情书》发布会
+  observation: |-
+    主持人即将cue下一环节，🍑出声打断，并说“《情书》在上海演出是画了我心里的一个圆”
+    导演用上海起哄，🍑耳朵瞬间变红害羞低头
+  editorial: false
+  fields:
+    - cell: A220
+      text: 2021年
+      url: null
+    - cell: B220
+      text: "45822"
+      url: null
+    - cell: C220
+      text: |-
+        主持人即将cue下一环节，🍑出声打断，并说“《情书》在上海演出是画了我心里的一个圆”
+        导演用上海起哄，🍑耳朵瞬间变红害羞低头
+      url: null
+    - cell: E220
+      text: 🍑上海《情书》发布会
+      url: null
+    - cell: G220
+      text: https://video.weibo.com/show?fid=1034:5118682725285937
+      url: https://video.weibo.com/show?fid=1034:5118682725285937
+    - cell: H220
+      text: ""
+      url: null
+      image: /assets/archive/image90.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://video.weibo.com/show?fid=1034:5118682725285937
+      label: video.weibo.com
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image90.jpeg
+  checks: []
+- id: t221
+  row: 221
+  year: 2021
+  date: 10月9日
+  title: 《朗读者》第二期播出
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 《朗读者》第二期播出
+  observation: 《朗读者》第二期提前播出：“你会爱ta很久吗？”
+  editorial: false
+  fields:
+    - cell: B221
+      text: "45939"
+      url: null
+    - cell: C221
+      text: 《朗读者》第二期提前播出：“你会爱ta很久吗？”
+      url: null
+    - cell: F221
+      text: 《朗读者》第二期播出
+      url: null
+    - cell: G221
+      text: https://weibo.com/1827861545/4690458678132957
+      url: https://weibo.com/1827861545/4690458678132957
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/1827861545/4690458678132957
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t222
+  row: 222
+  year: 2021
+  date: 10月10日
+  title: 周涛上海情书演出部分片段
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑上海情书演出部分片段
+  observation: 🍑《情书》上海站封箱
+  editorial: false
+  fields:
+    - cell: B222
+      text: "45940"
+      url: null
+    - cell: C222
+      text: 🍑《情书》上海站封箱
+      url: null
+    - cell: E222
+      text: 🍑上海情书演出部分片段
+      url: null
+    - cell: G222
+      text: https://b23.tv/5thHGXk
+      url: https://b23.tv/5thHGXk
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/5thHGXk
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t223
+  row: 223
+  year: 2021
+  date: 10月15日
+  title: 董卿参加了中国时尚盛典，作为压轴发布嘉宾发表演讲
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: 🍉参加了中国时尚盛典，作为压轴发布嘉宾发表演讲
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B223
+      text: "45945"
+      url: null
+    - cell: F223
+      text: 🍉参加了中国时尚盛典，作为压轴发布嘉宾发表演讲
+      url: null
+    - cell: G223
+      text: " https://b23.tv/0eWFswm"
+      url: null
+    - cell: H223
+      text: ""
+      url: null
+      image: /assets/archive/image97.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://b23.tv/0eWFswm
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images:
+    - /assets/archive/image97.jpeg
+  checks: []
+- id: t224
+  row: 224
+  year: 2021
+  date: |-
+    12月24日
+    （保利文化公众号
+    推文发布时间）
+  title: 周涛调入保利文化集团股份有限公司，出任艺术总监
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑调入保利文化集团股份有限公司，出任艺术总监
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B224
+      text: |-
+        12月24日
+        （保利文化公众号
+        推文发布时间）
+      url: null
+    - cell: E224
+      text: 🍑调入保利文化集团股份有限公司，出任艺术总监
+      url: null
+    - cell: G224
+      text: https://mp.weixin.qq.com/s/ljQSgudOdKzVlkIEg3B-DQ
+      url: https://mp.weixin.qq.com/s/ljQSgudOdKzVlkIEg3B-DQ
+    - cell: H224
+      text: ""
+      url: null
+      image: /assets/archive/image98.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://mp.weixin.qq.com/s/ljQSgudOdKzVlkIEg3B-DQ
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image98.jpeg
+  checks: []
+- id: t225
+  row: 225
+  year: 2021
+  date: 12月底
+  title: 原表线索记录 · 待核实
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: mcl出事，🍉淡出荧幕
+  observation: ""
+  editorial: true
+  fields:
+    - cell: B225
+      text: 12月底
+      url: null
+    - cell: F225
+      text: mcl出事，🍉淡出荧幕
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t226
+  row: 226
+  year: 2022
+  date: 2月10日
+  title: 董卿参加上海市曹鹏公益基金会、上海曹鹏音乐中心
+  tags:
+    - dong
+  summaries:
+    - label: 董卿
+      text: |-
+        🍉参加上海市曹鹏公益基金会、上海曹鹏音乐中心
+        联合在「爱•咖啡」举办的读书会，
+        并朗诵了日本作家新美南吉的作品《去年的树》。
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A226
+      text: 2022年
+      url: null
+    - cell: B226
+      text: "45698"
+      url: null
+    - cell: F226
+      text: |-
+        🍉参加上海市曹鹏公益基金会、上海曹鹏音乐中心
+        联合在「爱•咖啡」举办的读书会，
+        并朗诵了日本作家新美南吉的作品《去年的树》。
+      url: null
+    - cell: G226
+      text: https://weibo.com/1827861545/4736774515720411
+      url: https://weibo.com/1827861545/4736774515720411
+    - cell: H226
+      text: ""
+      url: null
+      image: /assets/archive/image95.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/1827861545/4736774515720411
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image95.jpeg
+  checks: []
+- id: t227
+  row: 227
+  year: 2022
+  date: 10月8日
+  title: 周涛担任安徽省第十五届运动会开闭幕式总导演
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑担任安徽省第十五届运动会开闭幕式总导演
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B227
+      text: "45938"
+      url: null
+    - cell: E227
+      text: 🍑担任安徽省第十五届运动会开闭幕式总导演
+      url: null
+    - cell: G227
+      text: https://weibo.com/6405308384/4831109379265152
+      url: https://weibo.com/6405308384/4831109379265152
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6405308384/4831109379265152
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: t228
+  row: 228
+  year: 2022
+  date: 10月
+  title: 周涛升任保利演出有限公司董事长
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑升任保利演出有限公司董事长
+  observation: ""
+  editorial: false
+  fields:
+    - cell: B228
+      text: 10月
+      url: null
+    - cell: E228
+      text: 🍑升任保利演出有限公司董事长
+      url: null
+  inherited_fields: []
+  sources:
+    - url: https://www.iq.com/actor-info/%E5%91%A8%E6%B6%9B-zhou-tao-214380105?lang=zh_cn
+      label: 爱奇艺 · 周涛人物资料
+      kind: source
+      origin: 补充公开来源
+      scope: 董事长职务可核对，2022年10月任命时间尚待官方材料。
+  images: []
+  checks: []
+- id: t229
+  row: 229
+  year: 2023
+  date: 3月22日
+  title: 原表线索记录 · 待核实
+  tags:
+    - dong
+    - together
+    - moments
+    - zhou
+  summaries:
+    - label: 共同记录
+      text: 🍑过生日 🍉特意飞北京
+    - label: 董卿
+      text: 🍉飞北京
+  observation: |-
+    🍉飞北京陪🍑过生日！！
+
+    妈妈妈咪复婚之年！！
+  editorial: true
+  fields:
+    - cell: A229
+      text: 2023年
+      url: null
+    - cell: B229
+      text: "45738"
+      url: null
+    - cell: C229
+      text: |-
+        🍉飞北京陪🍑过生日！！
+
+        妈妈妈咪复婚之年！！
+      url: null
+    - cell: D229
+      text: 🍑过生日 🍉特意飞北京
+      url: null
+    - cell: F229
+      text: 🍉飞北京
+      url: null
+    - cell: G229
+      text: ""
+      url: null
+      image: /assets/archive/image92.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image92.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t230
+  row: 230
+  year: 2023
+  date: 3月23日
+  title: 周涛过生日 董卿特意飞北京
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: 🍑过生日 🍉特意飞北京
+    - label: 周涛
+      text: |-
+        🍑生日发博“一起吃蛋糕 甜甜蜜蜜” 
+        主语省略 且笑容格外灿烂 画风与往年截然不同 
+        dy发的生日视频 拍摄人倒影像极了🍉 
+    - label: 董卿
+      text: 🍉返回上海
+  observation: |-
+    🍉飞北京陪🍑过生日！！
+
+    妈妈妈咪复婚之年！！
+  editorial: true
+  fields:
+    - cell: B230
+      text: "45739"
+      url: null
+    - cell: E230
+      text: |-
+        🍑生日发博“一起吃蛋糕 甜甜蜜蜜” 
+        主语省略 且笑容格外灿烂 画风与往年截然不同 
+        dy发的生日视频 拍摄人倒影像极了🍉 
+      url: null
+    - cell: F230
+      text: 🍉返回上海
+      url: null
+    - cell: G230
+      text: https://weibo.com/6405308384/4882393578344862
+      url: https://weibo.com/6405308384/4882393578344862
+  inherited_fields:
+    - cell: C229
+      text: |-
+        🍉飞北京陪🍑过生日！！
+
+        妈妈妈咪复婚之年！！
+      url: null
+    - cell: D229
+      text: 🍑过生日 🍉特意飞北京
+      url: null
+  sources:
+    - url: https://weibo.com/6405308384/4882393578344862
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t231
+  row: 231
+  year: 2024
+  date: 5月4日
+  title: zzq生日，四大聚会
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: |-
+        zzq生日，四大聚会
+        （妈妈妈咪就这样美美复婚（和鹅✌🏻✌🏻✌🏻）
+    - label: 周涛
+      text: 🍑应该是于4月11日参加zzq生日聚会
+    - label: 董卿
+      text: 🍉应该是于4月11日参加zzq生日聚会
+  observation: zzq在微博上发了合照视频
+  editorial: true
+  fields:
+    - cell: A231
+      text: 2024年
+      url: null
+    - cell: B231
+      text: "45781"
+      url: null
+    - cell: C231
+      text: zzq在微博上发了合照视频
+      url: null
+    - cell: D231
+      text: |-
+        zzq生日，四大聚会
+        （妈妈妈咪就这样美美复婚（和鹅✌🏻✌🏻✌🏻）
+      url: null
+    - cell: E231
+      text: 🍑应该是于4月11日参加zzq生日聚会
+      url: null
+    - cell: F231
+      text: 🍉应该是于4月11日参加zzq生日聚会
+      url: null
+    - cell: G231
+      text: https://weibo.com/2644204001/5030099445617223
+      url: https://weibo.com/2644204001/5030099445617223
+    - cell: H231
+      text: ""
+      url: null
+      image: /assets/archive/image102.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/2644204001/5030099445617223
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image102.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t232
+  row: 232
+  year: 2024
+  date: 5月5日
+  title: zzq生日，四大聚会
+  tags:
+    - zhou
+    - dong
+    - together
+    - moments
+  summaries:
+    - label: 共同记录
+      text: |-
+        zzq生日，四大聚会
+        （妈妈妈咪就这样美美复婚（和鹅✌🏻✌🏻✌🏻）
+    - label: 周涛
+      text: 🍑应该是于4月11日参加zzq生日聚会
+    - label: 董卿
+      text: 🍉应该是于4月11日参加zzq生日聚会
+  observation: |-
+    五四合照！！！！！！
+    🍉🍑不隔人！！！
+  editorial: false
+  fields:
+    - cell: B232
+      text: "45782"
+      url: null
+    - cell: C232
+      text: |-
+        五四合照！！！！！！
+        🍉🍑不隔人！！！
+      url: null
+    - cell: G232
+      text: https://weibo.com/2644204001/5030718516758418
+      url: https://weibo.com/2644204001/5030718516758418
+    - cell: H232
+      text: ""
+      url: null
+      image: /assets/archive/image100.jpeg
+    - cell: I232
+      text: ""
+      url: null
+      image: /assets/archive/image101.jpeg
+  inherited_fields:
+    - cell: D231
+      text: |-
+        zzq生日，四大聚会
+        （妈妈妈咪就这样美美复婚（和鹅✌🏻✌🏻✌🏻）
+      url: null
+    - cell: E231
+      text: 🍑应该是于4月11日参加zzq生日聚会
+      url: null
+    - cell: F231
+      text: 🍉应该是于4月11日参加zzq生日聚会
+      url: null
+  sources:
+    - url: https://weibo.com/2644204001/5030718516758418
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image100.jpeg
+    - /assets/archive/image101.jpeg
+  checks: []
+- id: t233
+  row: 233
+  year: 2024
+  date: 12月6日
+  title: 周涛发了条微博，那天节气是大雪，
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑发了条微博，那天节气是大雪，
+        而大雪到来的时间是晚上的11：17，也就是23：17。
+  observation: 🍑再次化身节气博主
+  editorial: true
+  fields:
+    - cell: B233
+      text: "45997"
+      url: null
+    - cell: C233
+      text: 🍑再次化身节气博主
+      url: null
+    - cell: E233
+      text: |-
+        🍑发了条微博，那天节气是大雪，
+        而大雪到来的时间是晚上的11：17，也就是23：17。
+      url: null
+    - cell: G233
+      text: ""
+      url: null
+      image: /assets/archive/image68.jpeg
+    - cell: H233
+      text: ""
+      url: null
+      image: /assets/archive/image69.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image68.jpeg
+    - /assets/archive/image69.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t234
+  row: 234
+  year: 2025
+  date: 1月8日
+  title: 周涛官宣加盟2025年山东春晚
+  tags:
+    - zhou
+  summaries:
+    - label: 周涛
+      text: 🍑官宣加盟2025年山东春晚
+  observation: ""
+  editorial: false
+  fields:
+    - cell: A234
+      text: 2025年
+      url: null
+    - cell: B234
+      text: "45665"
+      url: null
+    - cell: E234
+      text: 🍑官宣加盟2025年山东春晚
+      url: null
+    - cell: G234
+      text: ""
+      url: null
+      image: /assets/archive/image93.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://news.iqilu.com/shandong/yuanchuang/2025/0108/5765632.shtml
+      label: 齐鲁网 · 2025山东春晚
+      kind: source
+      origin: 补充公开来源
+      scope: 2025年1月8日官宣加盟。
+  images:
+    - /assets/archive/image93.jpeg
+  checks: []
+- id: t235
+  row: 235
+  year: 2025
+  date: 1月29日
+  title: 周涛发新年贺岁微博
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑发新年贺岁微博
+  observation: 🍑胸针和🍉16年春晚戴的耳饰是一样的
+  editorial: true
+  fields:
+    - cell: B235
+      text: "45686"
+      url: null
+    - cell: C235
+      text: 🍑胸针和🍉16年春晚戴的耳饰是一样的
+      url: null
+    - cell: E235
+      text: 🍑发新年贺岁微博
+      url: null
+    - cell: G235
+      text: ""
+      url: null
+      image: /assets/archive/image94.jpeg
+    - cell: H235
+      text: https://weibo.com/6567923349/5128172322950003
+      url: https://weibo.com/6567923349/5128172322950003
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6567923349/5128172322950003
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image94.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t236
+  row: 236
+  year: 2025
+  date: 2月18日
+  title: 原表编者观察
+  tags:
+    - moments
+  summaries: []
+  observation: |-
+    超话有鹅发帖🎺以前的微博博文
+    重点摘录：
+    “不是不想同台，而是不敢。”
+    “渡苍生易，渡自己难。”
+  editorial: true
+  fields:
+    - cell: B236
+      text: "45706"
+      url: null
+    - cell: C236
+      text: |-
+        超话有鹅发帖🎺以前的微博博文
+        重点摘录：
+        “不是不想同台，而是不敢。”
+        “渡苍生易，渡自己难。”
+      url: null
+  inherited_fields: []
+  sources: []
+  images: []
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t237
+  row: 237
+  year: 2025
+  date: 3月19日
+  title: 周涛参加了北京时装周
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑参加了北京时装周
+  observation: |-
+    🍑北京时装周穿618时与🍉同台主持时的鞋子，
+    Tiffany手链与🍉是情侣款
+  editorial: true
+  fields:
+    - cell: B237
+      text: "45735"
+      url: null
+    - cell: C237
+      text: |-
+        🍑北京时装周穿618时与🍉同台主持时的鞋子，
+        Tiffany手链与🍉是情侣款
+      url: null
+    - cell: E237
+      text: 🍑参加了北京时装周
+      url: null
+    - cell: G237
+      text: ""
+      url: null
+      image: /assets/archive/image79.jpeg
+    - cell: H237
+      text: ""
+      url: null
+      image: /assets/archive/image80.jpeg
+    - cell: I237
+      text: ""
+      url: null
+      image: /assets/archive/image81.jpeg
+    - cell: J237
+      text: ""
+      url: null
+      image: /assets/archive/image82.jpeg
+    - cell: K237
+      text: ""
+      url: null
+      image: /assets/archive/image83.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image79.jpeg
+    - /assets/archive/image80.jpeg
+    - /assets/archive/image81.jpeg
+    - /assets/archive/image82.jpeg
+    - /assets/archive/image83.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t238
+  row: 238
+  year: 2025
+  date: 3月20日
+  title: 董卿现身上海中学义卖活动
+  tags:
+    - dong
+    - moments
+  summaries:
+    - label: 董卿
+      text: 🍉现身上海中学义卖活动
+  observation: |-
+    🍉摊位的立牌下面的字：
+    相隔并不遥远，相爱即刻连接
+    （感觉一语双关，既是说给🍑的也是送给粉丝的……毕竟这次🍉都没抗拒合影，谁来都让拍）
+  editorial: true
+  fields:
+    - cell: B238
+      text: "45736"
+      url: null
+    - cell: C238
+      text: |-
+        🍉摊位的立牌下面的字：
+        相隔并不遥远，相爱即刻连接
+        （感觉一语双关，既是说给🍑的也是送给粉丝的……毕竟这次🍉都没抗拒合影，谁来都让拍）
+      url: null
+    - cell: F238
+      text: 🍉现身上海中学义卖活动
+      url: null
+    - cell: G238
+      text: ""
+      url: null
+      image: /assets/archive/image77.jpeg
+    - cell: H238
+      text: ""
+      url: null
+      image: /assets/archive/image78.jpeg
+    - cell: I238
+      text: ""
+      url: null
+      image: /assets/archive/image75.jpeg
+    - cell: J238
+      text: ""
+      url: null
+      image: /assets/archive/image76.jpeg
+    - cell: K238
+      text: ""
+      url: null
+      image: /assets/archive/image86.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image77.jpeg
+    - /assets/archive/image78.jpeg
+    - /assets/archive/image75.jpeg
+    - /assets/archive/image76.jpeg
+    - /assets/archive/image86.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t239
+  row: 239
+  year: 2025
+  date: 3月23日
+  title: 周涛上午10:01发了生日微博，空降超话，在线半个多小时
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: |-
+        🍑上午10:01发了生日微博，空降超话，在线半个多小时
+        下午15:23发了生日视频，17秒，
+        保存之后有5秒的水印，就会变成23秒。
+  observation: |-
+    🍑上午发的生日微博搞了个微博抽奖（天老爷，再也不蛐蛐轴套不会玩智能手机了）编辑了两次，查看记录可以看见两次编辑时间是10:23和10:27（又幸福了姐/.）
+    下午15:23微博发的生日视频有17秒，但是保存下来就变成了23秒（哎哟老周你，演都不演了）
+  editorial: true
+  fields:
+    - cell: B239
+      text: "45739"
+      url: null
+    - cell: C239
+      text: |-
+        🍑上午发的生日微博搞了个微博抽奖（天老爷，再也不蛐蛐轴套不会玩智能手机了）编辑了两次，查看记录可以看见两次编辑时间是10:23和10:27（又幸福了姐/.）
+        下午15:23微博发的生日视频有17秒，但是保存下来就变成了23秒（哎哟老周你，演都不演了）
+      url: null
+    - cell: E239
+      text: |-
+        🍑上午10:01发了生日微博，空降超话，在线半个多小时
+        下午15:23发了生日视频，17秒，
+        保存之后有5秒的水印，就会变成23秒。
+      url: null
+    - cell: G239
+      text: ""
+      url: null
+      image: /assets/archive/image72.jpeg
+    - cell: H239
+      text: ""
+      url: null
+      image: /assets/archive/image73.jpeg
+    - cell: I239
+      text: ""
+      url: null
+      image: /assets/archive/image74.png
+    - cell: J239
+      text: ""
+      url: null
+      image: /assets/archive/image84.jpeg
+    - cell: K239
+      text: ""
+      url: null
+      image: /assets/archive/image85.jpeg
+  inherited_fields: []
+  sources: []
+  images:
+    - /assets/archive/image72.jpeg
+    - /assets/archive/image73.jpeg
+    - /assets/archive/image74.png
+    - /assets/archive/image84.jpeg
+    - /assets/archive/image85.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t240
+  row: 240
+  year: 2025
+  date: 3月23日
+  title: 原表编者观察
+  tags:
+    - moments
+  summaries: []
+  observation: |-
+    晚上22:47 zzq发了微博，是他分别与🍑和🍉的合影
+    虽然没有合照，但是有🍉近照（推测是三月十几号左右的）（感谢厨子做的饭，站哥上大分！）
+  editorial: true
+  fields:
+    - cell: C240
+      text: |-
+        晚上22:47 zzq发了微博，是他分别与🍑和🍉的合影
+        虽然没有合照，但是有🍉近照（推测是三月十几号左右的）（感谢厨子做的饭，站哥上大分！）
+      url: null
+    - cell: G240
+      text: ""
+      url: null
+      image: /assets/archive/image96.jpeg
+  inherited_fields:
+    - cell: B239
+      text: "45739"
+      url: null
+  sources: []
+  images:
+    - /assets/archive/image96.jpeg
+  checks:
+    - 尚未找到可确认本条全部细节的可靠公开链接；原表文字与配图保留，待补充核实。
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t241
+  row: 241
+  year: 2025
+  date: 4月3日
+  title: 周涛发了微博，文案是：昨天的帧帧瞬间📸
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑发了微博，文案是：昨天的帧帧瞬间📸
+  observation: |-
+    4月1日愚人节站姐团建，有位站姐发了🍉的照片，文案是“你与世界，都是帧帧瞬间～”，
+    然后4月3日🍑发的微博文案就是“昨天的帧帧瞬间📸”
+    （这位站姐同时发了🍑和🍉的照片，发在🍑个超的文案是：时光与风 皆是页页诗篇
+    两句话读起来非常押韵啊～甚至可以组成对联了～）
+  editorial: true
+  fields:
+    - cell: B241
+      text: "45750"
+      url: null
+    - cell: C241
+      text: |-
+        4月1日愚人节站姐团建，有位站姐发了🍉的照片，文案是“你与世界，都是帧帧瞬间～”，
+        然后4月3日🍑发的微博文案就是“昨天的帧帧瞬间📸”
+        （这位站姐同时发了🍑和🍉的照片，发在🍑个超的文案是：时光与风 皆是页页诗篇
+        两句话读起来非常押韵啊～甚至可以组成对联了～）
+      url: null
+    - cell: E241
+      text: 🍑发了微博，文案是：昨天的帧帧瞬间📸
+      url: null
+    - cell: G241
+      text: https://weibo.com/6405308384/5151392399625955
+      url: https://weibo.com/6405308384/5151392399625955
+    - cell: H241
+      text: https://weibo.com/3147651810/5150543592818351
+      url: https://weibo.com/3147651810/5150543592818351
+    - cell: I241
+      text: https://weibo.com/7773817526/5151403325787630
+      url: https://weibo.com/7773817526/5151403325787630
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6405308384/5151392399625955
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/3147651810/5150543592818351
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+    - url: https://weibo.com/7773817526/5151403325787630
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。
+- id: t242
+  row: 242
+  year: 2025
+  date: 4月25日
+  title: 周涛发了微博，文案是：分享点新鲜照片🤗 ​​​
+  tags:
+    - zhou
+    - moments
+  summaries:
+    - label: 周涛
+      text: 🍑发了微博，文案是：分享点新鲜照片🤗 ​​​
+  observation: 🍑发的微博小表情🍉有一张同款，且都戴着蜻蜓胸针
+  editorial: true
+  fields:
+    - cell: B242
+      text: "45772"
+      url: null
+    - cell: C242
+      text: 🍑发的微博小表情🍉有一张同款，且都戴着蜻蜓胸针
+      url: null
+    - cell: E242
+      text: 🍑发了微博，文案是：分享点新鲜照片🤗 ​​​
+      url: null
+    - cell: G242
+      text: https://weibo.com/6405308384/5159447039838822
+      url: https://weibo.com/6405308384/5159447039838822
+    - cell: H242
+      text: ""
+      url: null
+      image: /assets/archive/image115.jpeg
+  inherited_fields: []
+  sources:
+    - url: https://weibo.com/6405308384/5159447039838822
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image115.jpeg
+  checks:
+    - 本条含原表编者解读或未证实线索，请与公开报道区分；不据此判断私人关系。

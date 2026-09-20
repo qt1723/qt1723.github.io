@@ -1,5 +1,0 @@
-<% const p = site.data.profile; const published = p.publications.filter(item => item.status === "published"); %>
-<section id="education" class="content-section reveal">
-  <div class="section-heading"><h2>Education<span>.</span></h2></div>
-  <div class="timeline"><% p.education.forEach(item => { %><article class="timeline-item"><div class="timeline-date"><%= item.period %></div><div class="timeline-body"><h3><%= item.degree %></h3><p class="institution"><%= item.institution %></p><p class="muted"><%= item.location %></p><ul><% item.details.forEach(detail => { %><li><%= detail %></li><% }); %></ul></div></article><% }); %></div>
-</section>

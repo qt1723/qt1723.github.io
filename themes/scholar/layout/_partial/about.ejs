@@ -1,5 +1,0 @@
-<% const p = site.data.profile; const published = p.publications.filter(item => item.status === "published"); %>
-<section id="about" class="content-section reveal">
-  <div class="section-heading"><h2>Background<span>.</span></h2></div>
-  <div class="about-grid"><div class="prose"><% p.about.forEach(paragraph => { %><p><%= paragraph %></p><% }); %></div><aside class="at-a-glance"><span class="small-label">AT A GLANCE</span><div><strong><%= published.length %></strong><span>Journal publications</span></div><div><strong><%= p.research.length.toString().padStart(2,'0') %></strong><span>Research directions</span></div><a href="https://orcid.org/<%= p.contact.orcid %>" target="_blank" rel="noopener">ORCID profile ↗</a></aside></div>
-</section>

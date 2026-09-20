@@ -1,0 +1,1711 @@
+- id: i-zhou-5
+  person: zhou
+  date: 日期未详
+  year: null
+  title: 周涛——采访合集
+  description: ""
+  fields:
+    - cell: B5
+      text: 周涛——采访合集
+      url: null
+    - cell: C5
+      text: https://b23.tv/9fCReKF
+      url: https://b23.tv/9fCReKF
+  sources:
+    - url: https://b23.tv/9fCReKF
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-6
+  person: zhou
+  date: "1998"
+  year: 1998
+  title: 周涛 新朋老友聚花城 （1998年）
+  description: ""
+  fields:
+    - cell: B6
+      text: 周涛 新朋老友聚花城 （1998年）
+      url: null
+    - cell: C6
+      text: https://docs.qq.com/doc/DVnBqWWdPRmFaZ0pm#
+      url: https://docs.qq.com/doc/DVnBqWWdPRmFaZ0pm#
+    - cell: D6
+      text: ""
+      url: null
+      image: /assets/archive/image114.jpeg
+  sources:
+    - url: https://docs.qq.com/doc/DVnBqWWdPRmFaZ0pm#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image114.jpeg
+  checks: []
+- id: i-zhou-7
+  person: zhou
+  date: "2000"
+  year: 2000
+  title: 撞入综艺大观的幸运女人——与周涛聊周涛  （2000年8月）
+  description: ""
+  fields:
+    - cell: B7
+      text: 撞入综艺大观的幸运女人——与周涛聊周涛  （2000年8月）
+      url: null
+    - cell: C7
+      text: https://docs.qq.com/doc/DVmF2V0xuWk9rTE9B
+      url: https://docs.qq.com/doc/DVmF2V0xuWk9rTE9B
+  sources:
+    - url: https://docs.qq.com/doc/DVmF2V0xuWk9rTE9B
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-8
+  person: zhou
+  date: "2002"
+  year: 2002
+  title: 人物专访：周涛——想做个大气女人2002-02-26解放日报
+  description: ""
+  fields:
+    - cell: B8
+      text: 人物专访：周涛——想做个大气女人2002-02-26解放日报
+      url: null
+    - cell: C8
+      text: https://docs.qq.com/doc/DVmtJY3pnUU5XWXVr#
+      url: https://docs.qq.com/doc/DVmtJY3pnUU5XWXVr#
+    - cell: D8
+      text: ""
+      url: null
+      image: /assets/archive/image116.jpeg
+  sources:
+    - url: https://docs.qq.com/doc/DVmtJY3pnUU5XWXVr#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image116.jpeg
+  checks: []
+- id: i-zhou-9
+  person: zhou
+  date: "2002"
+  year: 2002
+  title: 周涛：安安静静地走来、又安安静静地走开 2002年04月29日21:08新浪娱乐
+  description: ""
+  fields:
+    - cell: B9
+      text: 周涛：安安静静地走来、又安安静静地走开 2002年04月29日21:08新浪娱乐
+      url: null
+    - cell: C9
+      text: http://ent.sina.com.cn
+      url: http://ent.sina.com.cn
+  sources:
+    - url: http://ent.sina.com.cn
+      label: ent.sina.com.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 原表链接仅指向新浪娱乐首页，尚缺文章直达地址。
+- id: i-zhou-10
+  person: zhou
+  date: "2002"
+  year: 2002
+  title: 西部情缘（2002年5月）
+  description: ""
+  fields:
+    - cell: B10
+      text: 西部情缘（2002年5月）
+      url: null
+    - cell: C10
+      text: https://kdocs.cn/l/cpYo3EvNFMum
+      url: https://kdocs.cn/l/cpYo3EvNFMum
+  sources:
+    - url: https://kdocs.cn/l/cpYo3EvNFMum
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-11
+  person: zhou
+  date: "2003"
+  year: 2003
+  title: 名人与交通-周涛从心随车走到车随心动《汽车与安全》第一期（2003-06-12）
+  description: ""
+  fields:
+    - cell: B11
+      text: 名人与交通-周涛从心随车走到车随心动《汽车与安全》第一期（2003-06-12）
+      url: null
+    - cell: C11
+      text: https://docs.qq.com/doc/DVk15ZHRwbUtqbGhL#
+      url: https://docs.qq.com/doc/DVk15ZHRwbUtqbGhL#
+    - cell: D11
+      text: ""
+      url: null
+      image: /assets/archive/image58.png
+    - cell: E11
+      text: ""
+      url: null
+      image: /assets/archive/image59.png
+  sources:
+    - url: https://docs.qq.com/doc/DVk15ZHRwbUtqbGhL#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image58.png
+    - /assets/archive/image59.png
+  checks: []
+- id: i-zhou-12
+  person: zhou
+  date: "2003"
+  year: 2003
+  title: 《飞扬Lady——我的风派女友》周涛—风韵女友 2003-08
+  description: ""
+  fields:
+    - cell: B12
+      text: 《飞扬Lady——我的风派女友》周涛—风韵女友 2003-08
+      url: null
+    - cell: C12
+      text: https://docs.qq.com/pdf/DVk1EakxQWXNoYnpI
+      url: https://docs.qq.com/pdf/DVk1EakxQWXNoYnpI
+  sources:
+    - url: https://docs.qq.com/pdf/DVk1EakxQWXNoYnpI
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-13
+  person: zhou
+  date: "2006"
+  year: 2006
+  title: 周涛：“妈妈”主持别样红（2006-1-13之后）
+  description: ""
+  fields:
+    - cell: B13
+      text: 周涛：“妈妈”主持别样红（2006-1-13之后）
+      url: null
+    - cell: C13
+      text: https://kdocs.cn/l/cmZpkkS2ddDn
+      url: https://kdocs.cn/l/cmZpkkS2ddDn
+  sources:
+    - url: https://kdocs.cn/l/cmZpkkS2ddDn
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-14
+  person: zhou
+  date: "2008"
+  year: 2008
+  title: 周涛|2008年奥运会开幕式前小采访
+  description: ""
+  fields:
+    - cell: B14
+      text: 周涛|2008年奥运会开幕式前小采访
+      url: null
+    - cell: C14
+      text: https://b23.tv/jZZeWZW
+      url: https://b23.tv/jZZeWZW
+  sources:
+    - url: https://b23.tv/jZZeWZW
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-15
+  person: zhou
+  date: "2008"
+  year: 2008
+  title: 周涛讲座《亲历奥运》 20080928
+  description: ""
+  fields:
+    - cell: B15
+      text: 周涛讲座《亲历奥运》 20080928
+      url: null
+    - cell: C15
+      text: " https://b23.tv/Jj3P2Zz"
+      url: null
+  sources:
+    - url: https://b23.tv/Jj3P2Zz
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-16
+  person: zhou
+  date: 日期未详
+  year: null
+  title: 周涛： 我主导自己的人生
+  description: ""
+  fields:
+    - cell: B16
+      text: 周涛： 我主导自己的人生
+      url: null
+    - cell: C16
+      text: http://www.womenofchina.com/renwu/2020/1109/1171.html
+      url: http://www.womenofchina.com/renwu/2020/1109/1171.html
+    - cell: D16
+      text: https://mp.weixin.qq.com/s/Pv_8TYSN0mUtGT5NIBgNiA
+      url: https://mp.weixin.qq.com/s/Pv_8TYSN0mUtGT5NIBgNiA
+  sources:
+    - url: http://www.womenofchina.com/renwu/2020/1109/1171.html
+      label: www.womenofchina.com
+      kind: source
+      origin: 原表链接
+    - url: https://mp.weixin.qq.com/s/Pv_8TYSN0mUtGT5NIBgNiA
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-17
+  person: zhou
+  date: "2016"
+  year: 2016
+  title: 周涛|防艾美好青春我做主——浙江工业大（2016）
+  description: ""
+  fields:
+    - cell: B17
+      text: 周涛|防艾美好青春我做主——浙江工业大（2016）
+      url: null
+    - cell: C17
+      text: https://b23.tv/LFrTccx
+      url: https://b23.tv/LFrTccx
+  sources:
+    - url: https://b23.tv/LFrTccx
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-18
+  person: zhou
+  date: "2017"
+  year: 2017
+  title: 周涛|成都经典汇讲座：遇见更好的自己（2017-06-24）
+  description: ""
+  fields:
+    - cell: B18
+      text: 周涛|成都经典汇讲座：遇见更好的自己（2017-06-24）
+      url: null
+    - cell: C18
+      text: https://b23.tv/nxRjy41
+      url: https://b23.tv/nxRjy41
+  sources:
+    - url: https://b23.tv/nxRjy41
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-19
+  person: zhou
+  date: "2017"
+  year: 2017
+  title: 好久不见｜周涛：每个主持人都会被遗忘，和董卿是很好的朋友（2017-06-27）
+  description: ""
+  fields:
+    - cell: B19
+      text: 好久不见｜周涛：每个主持人都会被遗忘，和董卿是很好的朋友（2017-06-27）
+      url: null
+    - cell: C19
+      text: https://mp.weixin.qq.com/s/kHjR0NqHp9BRz-g0I-w7qA
+      url: https://mp.weixin.qq.com/s/kHjR0NqHp9BRz-g0I-w7qA
+  sources:
+    - url: https://mp.weixin.qq.com/s/kHjR0NqHp9BRz-g0I-w7qA
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-20
+  person: zhou
+  date: "2017"
+  year: 2017
+  title: 《新时代之歌》北京新闻采访（2017-12-02）
+  description: ""
+  fields:
+    - cell: B20
+      text: 《新时代之歌》北京新闻采访（2017-12-02）
+      url: null
+    - cell: C20
+      text: https://weibo.com/1799312475/4180616775544907（无完整版）
+      url: null
+  sources:
+    - url: https://weibo.com/1799312475/4180616775544907
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-21
+  person: zhou
+  date: "2017"
+  year: 2017
+  title: 周涛|新闻、采访、幕后 大乱炖（2017-12-20更新）
+  description: ""
+  fields:
+    - cell: B21
+      text: 周涛|新闻、采访、幕后 大乱炖（2017-12-20更新）
+      url: null
+    - cell: C21
+      text: https://b23.tv/YJjYbsA
+      url: https://b23.tv/YJjYbsA
+  sources:
+    - url: https://b23.tv/YJjYbsA
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-22
+  person: zhou
+  date: "2018"
+  year: 2018
+  title: 每日文艺采访（2018）
+  description: ""
+  fields:
+    - cell: B22
+      text: 每日文艺采访（2018）
+      url: null
+    - cell: C22
+      text: >-
+        https://www.bilibili.com/video/BV1Hz421Y7wm/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      url: >-
+        https://www.bilibili.com/video/BV1Hz421Y7wm/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+  sources:
+    - url: >-
+        https://www.bilibili.com/video/BV1Hz421Y7wm/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-23
+  person: zhou
+  date: "2018"
+  year: 2018
+  title: 周涛｜2018奥林匹克音乐季新华网采访（2018）
+  description: ""
+  fields:
+    - cell: B23
+      text: 周涛｜2018奥林匹克音乐季新华网采访（2018）
+      url: null
+    - cell: C23
+      text: >-
+        https://www.bilibili.com/video/BV1gs41137BQ/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      url: >-
+        https://www.bilibili.com/video/BV1gs41137BQ/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+  sources:
+    - url: >-
+        https://www.bilibili.com/video/BV1gs41137BQ/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-24
+  person: zhou
+  date: "2018"
+  year: 2018
+  title: 周涛：不向往少女感，自带妈妈体质 （2018-05-07）
+  description: ""
+  fields:
+    - cell: B24
+      text: 周涛：不向往少女感，自带妈妈体质 （2018-05-07）
+      url: null
+    - cell: C24
+      text: https://docs.qq.com/doc/DVmRLc0xyR3FNeUti#
+      url: https://docs.qq.com/doc/DVmRLc0xyR3FNeUti#
+  sources:
+    - url: https://docs.qq.com/doc/DVmRLc0xyR3FNeUti#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-25
+  person: zhou
+  date: "2018"
+  year: 2018
+  title: 《每日文娱播报》独家对话：周涛 （2018年7月采访）
+  description: ""
+  fields:
+    - cell: B25
+      text: 《每日文娱播报》独家对话：周涛 （2018年7月采访）
+      url: null
+    - cell: C25
+      text: https://b23.tv/Bu8oC8y
+      url: https://b23.tv/Bu8oC8y
+  sources:
+    - url: https://b23.tv/Bu8oC8y
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-27
+  person: zhou
+  date: "2018"
+  year: 2018
+  title: 环球人物：周涛开腔｜从央视台柱到话剧女主，我希望大家忘记我是主持人​​​​（2018-07-20）
+  description: ""
+  fields:
+    - cell: B27
+      text: 环球人物：周涛开腔｜从央视台柱到话剧女主，我希望大家忘记我是主持人​​​​（2018-07-20）
+      url: null
+    - cell: C27
+      text: https://weibo.com/6580582777/4263884783575352
+      url: https://weibo.com/6580582777/4263884783575352
+  sources:
+    - url: https://weibo.com/6580582777/4263884783575352
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-28
+  person: zhou
+  date: "2019"
+  year: 2019
+  title: 周涛｜新华网采访（2019-09）
+  description: ""
+  fields:
+    - cell: B28
+      text: 周涛｜新华网采访（2019-09）
+      url: null
+    - cell: C28
+      text: >-
+        https://www.bilibili.com/video/BV1c7411E7dR/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      url: >-
+        https://www.bilibili.com/video/BV1c7411E7dR/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+  sources:
+    - url: >-
+        https://www.bilibili.com/video/BV1c7411E7dR/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-29
+  person: zhou
+  date: "2020"
+  year: 2020
+  title: 周涛｜每日文娱播报百花迎春（2020-01-14）
+  description: ""
+  fields:
+    - cell: B29
+      text: 周涛｜每日文娱播报百花迎春（2020-01-14）
+      url: null
+    - cell: C29
+      text: >-
+        https://www.bilibili.com/video/BV14J411J7Rf/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      url: >-
+        https://www.bilibili.com/video/BV14J411J7Rf/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+  sources:
+    - url: >-
+        https://www.bilibili.com/video/BV14J411J7Rf/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-30
+  person: zhou
+  date: "2020"
+  year: 2020
+  title: 周涛：照顾好自己和家人         2020-2-4
+  description: ""
+  fields:
+    - cell: B30
+      text: 周涛：照顾好自己和家人         2020-2-4
+      url: null
+    - cell: C30
+      text: >-
+        https://article.xuexi.cn/articles/index.html?study_style_id=video_default&source=share&art_id=11010283288556957778&item_id=11010283288556957778&share_to=wx_single
+      url: >-
+        https://article.xuexi.cn/articles/index.html?study_style_id=video_default&source=share&art_id=11010283288556957778&item_id=11010283288556957778&share_to=wx_single
+  sources:
+    - url: >-
+        https://article.xuexi.cn/articles/index.html?study_style_id=video_default&source=share&art_id=11010283288556957778&item_id=11010283288556957778&share_to=wx_single
+      label: article.xuexi.cn
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-31
+  person: zhou
+  date: "2020"
+  year: 2020
+  title: 周涛｜新华网采访 尝试新领域 全心投入 有挑战有突破有意思（2020-2-16）
+  description: ""
+  fields:
+    - cell: B31
+      text: 周涛｜新华网采访 尝试新领域 全心投入 有挑战有突破有意思（2020-2-16）
+      url: null
+    - cell: C31
+      text: " https://b23.tv/33Ygw15    "
+      url: null
+  sources:
+    - url: https://b23.tv/33Ygw15
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-32
+  person: zhou
+  date: "2020"
+  year: 2020
+  title: 周涛｜北京青年报文化视频直播栏目《后台》专访（2020-08-09）
+  description: ""
+  fields:
+    - cell: B32
+      text: 周涛｜北京青年报文化视频直播栏目《后台》专访（2020-08-09）
+      url: null
+    - cell: C32
+      text: " https://www.bilibili.com/video/BV1wv411i7TM/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500"
+      url: null
+  sources:
+    - url: >-
+        https://www.bilibili.com/video/BV1wv411i7TM/?share_source=copy_web&vd_source=175b233b1503ddb9624cf747ccf39500
+      label: www.bilibili.com
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-33
+  person: zhou
+  date: "2020"
+  year: 2020
+  title: 未来讲堂｜骆宾王《咏鹅》诵读：周涛（2020-9-2）
+  description: ""
+  fields:
+    - cell: B33
+      text: 未来讲堂｜骆宾王《咏鹅》诵读：周涛（2020-9-2）
+      url: null
+    - cell: C33
+      text: https://mp.weixin.qq.com/s/m1u_8UXS8Xs-lqKaTWeu1Q
+      url: https://mp.weixin.qq.com/s/m1u_8UXS8Xs-lqKaTWeu1Q
+  sources:
+    - url: https://mp.weixin.qq.com/s/m1u_8UXS8Xs-lqKaTWeu1Q
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-34
+  person: zhou
+  date: "2021"
+  year: 2021
+  title: 电视指南|专访周涛：当现实照耀梦想（2021-12-16）
+  description: ""
+  fields:
+    - cell: B34
+      text: 电视指南|专访周涛：当现实照耀梦想（2021-12-16）
+      url: null
+    - cell: C34
+      text: https://docs.qq.com/doc/DVmhaeExPTUxnSXBi#
+      url: https://docs.qq.com/doc/DVmhaeExPTUxnSXBi#
+    - cell: D34
+      text: |-
+        《情书》背景音乐是《玫瑰》
+
+        链接在右边，配着音乐看剧本更有感觉
+      url: null
+    - cell: E34
+      text: https://b23.tv/INLlJbE
+      url: https://b23.tv/INLlJbE
+  sources:
+    - url: https://docs.qq.com/doc/DVmhaeExPTUxnSXBi#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+    - url: https://b23.tv/INLlJbE
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-35
+  person: zhou
+  date: "2021"
+  year: 2021
+  title: 周涛去哪儿了        2021-12-25
+  description: ""
+  fields:
+    - cell: B35
+      text: 周涛去哪儿了        2021-12-25
+      url: null
+    - cell: C35
+      text: https://mp.weixin.qq.com/s/GSSIUFdch55G2dMtvNfcgA
+      url: https://mp.weixin.qq.com/s/GSSIUFdch55G2dMtvNfcgA
+  sources:
+    - url: https://mp.weixin.qq.com/s/GSSIUFdch55G2dMtvNfcgA
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-36
+  person: zhou
+  date: "2021"
+  year: 2021
+  title: 周涛：走过大千世界，最感念的是与家人同行    （2021-12-27 ）
+  description: ""
+  fields:
+    - cell: B36
+      text: 周涛：走过大千世界，最感念的是与家人同行    （2021-12-27 ）
+      url: null
+    - cell: C36
+      text: https://weibo.com/ttarticle/x/m/show#/id=2309634719098302169380&_wb_client_=1
+      url: https://weibo.com/ttarticle/x/m/show#/id=2309634719098302169380&_wb_client_=1
+  sources:
+    - url: https://weibo.com/ttarticle/x/m/show#/id=2309634719098302169380&_wb_client_=1
+      label: weibo.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-37
+  person: zhou
+  date: "2022"
+  year: 2022
+  title: 周涛话剧《情书》剧本  2022-3-4
+  description: ""
+  fields:
+    - cell: B37
+      text: 周涛话剧《情书》剧本  2022-3-4
+      url: null
+    - cell: C37
+      text: https://kdocs.cn/l/cqYnPaQ6OsA9
+      url: https://kdocs.cn/l/cqYnPaQ6OsA9
+  sources:
+    - url: https://kdocs.cn/l/cqYnPaQ6OsA9
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-38
+  person: zhou
+  date: "2023"
+  year: 2023
+  title: 独家专访周涛：我还在奔赴生命更鲜活绚烂的表达   2023-10-23
+  description: ""
+  fields:
+    - cell: B38
+      text: 独家专访周涛：我还在奔赴生命更鲜活绚烂的表达   2023-10-23
+      url: null
+    - cell: C38
+      text: >-
+        https://article.xuexi.cn/articles/index.html?art_id=4230566060848451888&item_id=4230566060848451888&study_style_id=feeds_opaque&t=1697991500927&showmenu=false&ref_read_id=1c85fa53-a460-4156-8339-960bf4b6d1b7&pid=&ptype=-1&source=share&share_to=wx_single
+      url: >-
+        https://article.xuexi.cn/articles/index.html?art_id=4230566060848451888&item_id=4230566060848451888&study_style_id=feeds_opaque&t=1697991500927&showmenu=false&ref_read_id=1c85fa53-a460-4156-8339-960bf4b6d1b7&pid=&ptype=-1&source=share&share_to=wx_single
+  sources:
+    - url: >-
+        https://article.xuexi.cn/articles/index.html?art_id=4230566060848451888&item_id=4230566060848451888&study_style_id=feeds_opaque&t=1697991500927&showmenu=false&ref_read_id=1c85fa53-a460-4156-8339-960bf4b6d1b7&pid=&ptype=-1&source=share&share_to=wx_single
+      label: article.xuexi.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-39
+  person: zhou
+  date: "2023"
+  year: 2023
+  title: 周涛：从容之路      2023-10-24
+  description: ""
+  fields:
+    - cell: B39
+      text: 周涛：从容之路      2023-10-24
+      url: null
+    - cell: C39
+      text: https://mp.weixin.qq.com/s/8eQrghGxJQV5BU1fo0VLTg
+      url: https://mp.weixin.qq.com/s/8eQrghGxJQV5BU1fo0VLTg
+  sources:
+    - url: https://mp.weixin.qq.com/s/8eQrghGxJQV5BU1fo0VLTg
+      label: mp.weixin.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-zhou-40
+  person: zhou
+  date: "2024"
+  year: 2024
+  title: 【北京台《每天都有戏》全网独家专访央视原著名主持人周涛时间到-哔哩哔哩】 2024
+  description: ""
+  fields:
+    - cell: B40
+      text: 【北京台《每天都有戏》全网独家专访央视原著名主持人周涛时间到-哔哩哔哩】 2024
+      url: null
+    - cell: C40
+      text: https://b23.tv/cQcK4k7
+      url: https://b23.tv/cQcK4k7
+  sources:
+    - url: https://b23.tv/cQcK4k7
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-5
+  person: dong
+  date: "2000"
+  year: 2000
+  title: 骑士董卿《上海电视》2000 05 B刊
+  description: ""
+  fields:
+    - cell: H5
+      text: 骑士董卿《上海电视》2000 05 B刊
+      url: null
+    - cell: I5
+      text: https://docs.qq.com/doc/DVnNXWENRSFpGbVpT#
+      url: https://docs.qq.com/doc/DVnNXWENRSFpGbVpT#
+    - cell: J5
+      text: ""
+      url: null
+      image: /assets/archive/image123.jpeg
+  sources:
+    - url: https://docs.qq.com/doc/DVnNXWENRSFpGbVpT#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image123.jpeg
+  checks: []
+- id: i-dong-6
+  person: dong
+  date: "2005"
+  year: 2005
+  title: 2005年董卿做客搜狐聊天室访谈
+  description: ""
+  fields:
+    - cell: H6
+      text: 2005年董卿做客搜狐聊天室访谈
+      url: null
+    - cell: I6
+      text: |-
+
+        https://docs.qq.com/doc/DVkdQY2R5eENJSnNB
+      url: null
+  sources:
+    - url: https://docs.qq.com/doc/DVkdQY2R5eENJSnNB
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-7
+  person: dong
+  date: "2005"
+  year: 2005
+  title: 2005董卿：重新归零 “痛并幸福着”
+  description: ""
+  fields:
+    - cell: H7
+      text: 2005董卿：重新归零 “痛并幸福着”
+      url: null
+    - cell: I7
+      text: https://docs.qq.com/doc/DVnJGdHZmc0thUVVN#
+      url: https://docs.qq.com/doc/DVnJGdHZmc0thUVVN#
+  sources:
+    - url: https://docs.qq.com/doc/DVnJGdHZmc0thUVVN#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-8
+  person: dong
+  date: "2005"
+  year: 2005
+  title: 光环背后看董卿 20050408
+  description: “我没有安全区 靠谁都不如靠自己”
+  fields:
+    - cell: G8
+      text: “我没有安全区 靠谁都不如靠自己”
+      url: null
+    - cell: H8
+      text: 光环背后看董卿 20050408
+      url: null
+    - cell: I8
+      text: |-
+
+        https://docs.qq.com/doc/DVmR6ZEtUQ09tU0pa#
+      url: null
+  sources:
+    - url: https://docs.qq.com/doc/DVmR6ZEtUQ09tU0pa#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-9
+  person: dong
+  date: "2005"
+  year: 2005
+  title: 董卿 我喜欢压力下的充分释放 《中国青年》2005
+  description: ""
+  fields:
+    - cell: H9
+      text: 董卿 我喜欢压力下的充分释放 《中国青年》2005
+      url: null
+    - cell: I9
+      text: https://docs.qq.com/doc/DVmxGcUhSUkxnWExD#
+      url: https://docs.qq.com/doc/DVmxGcUhSUkxnWExD#
+  sources:
+    - url: https://docs.qq.com/doc/DVmxGcUhSUkxnWExD#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-10
+  person: dong
+  date: "2009"
+  year: 2009
+  title: 董卿：做一个可持续发展的主持人       2009-3-6
+  description: ""
+  fields:
+    - cell: H10
+      text: 董卿：做一个可持续发展的主持人       2009-3-6
+      url: null
+    - cell: I10
+      text: https://yule.sohu.com/20090306/n262638423.shtml
+      url: https://yule.sohu.com/20090306/n262638423.shtml
+  sources:
+    - url: https://yule.sohu.com/20090306/n262638423.shtml
+      label: yule.sohu.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-11
+  person: dong
+  date: "2009"
+  year: 2009
+  title: 董卿回首经历：得到的“财富”远远超流过的泪——《新闻晚报》20090306
+  description: ""
+  fields:
+    - cell: H11
+      text: 董卿回首经历：得到的“财富”远远超流过的泪——《新闻晚报》20090306
+      url: null
+    - cell: I11
+      text: https://docs.qq.com/doc/DVkZveFpseE1xcmxr#
+      url: https://docs.qq.com/doc/DVkZveFpseE1xcmxr#
+  sources:
+    - url: https://docs.qq.com/doc/DVkZveFpseE1xcmxr#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-12
+  person: dong
+  date: "2006"
+  year: 2006
+  title: 董卿：寂寞烟花——《LADY格调》2006
+  description: ""
+  fields:
+    - cell: H12
+      text: 董卿：寂寞烟花——《LADY格调》2006
+      url: null
+    - cell: I12
+      text: https://docs.qq.com/doc/DVmp5c0dvRWFxQ0NW#
+      url: https://docs.qq.com/doc/DVmp5c0dvRWFxQ0NW#
+  sources:
+    - url: https://docs.qq.com/doc/DVmp5c0dvRWFxQ0NW#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-13
+  person: dong
+  date: "2007"
+  year: 2007
+  title: 董卿 我要自己趋近完美  2007年2月
+  description: ""
+  fields:
+    - cell: H13
+      text: 董卿 我要自己趋近完美  2007年2月
+      url: null
+    - cell: I13
+      text: https://docs.qq.com/doc/DVkFZQnRScnBHeVNW#
+      url: https://docs.qq.com/doc/DVkFZQnRScnBHeVNW#
+  sources:
+    - url: https://docs.qq.com/doc/DVkFZQnRScnBHeVNW#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-14
+  person: dong
+  date: "2008"
+  year: 2008
+  title: 董卿 当家不容易 法制晚报2008
+  description: ""
+  fields:
+    - cell: H14
+      text: 董卿 当家不容易 法制晚报2008
+      url: null
+    - cell: I14
+      text: https://docs.qq.com/doc/DVk1pSXhUU3VxVXhI#
+      url: https://docs.qq.com/doc/DVk1pSXhUU3VxVXhI#
+  sources:
+    - url: https://docs.qq.com/doc/DVk1pSXhUU3VxVXhI#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-15
+  person: dong
+  date: "2008"
+  year: 2008
+  title: 董卿 2008年12月《青年心理》
+  description: ""
+  fields:
+    - cell: H15
+      text: 董卿 2008年12月《青年心理》
+      url: null
+    - cell: I15
+      text: |-
+
+        https://docs.qq.com/doc/DVnF5VWZqbmRPVG94#
+      url: null
+    - cell: J15
+      text: ""
+      url: null
+      image: /assets/archive/image57.jpeg
+    - cell: K15
+      text: ""
+      url: null
+      image: /assets/archive/image56.jpeg
+  sources:
+    - url: https://docs.qq.com/doc/DVnF5VWZqbmRPVG94#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image57.jpeg
+    - /assets/archive/image56.jpeg
+  checks: []
+- id: i-dong-16
+  person: dong
+  date: "2009"
+  year: 2009
+  title: 董卿：几天不读书就像几天不洗澡——《东方早报》2009年3月6日
+  description: ""
+  fields:
+    - cell: H16
+      text: 董卿：几天不读书就像几天不洗澡——《东方早报》2009年3月6日
+      url: null
+    - cell: I16
+      text: https://docs.qq.com/doc/DVmZ2emJOV3RmcW1G#
+      url: https://docs.qq.com/doc/DVmZ2emJOV3RmcW1G#
+  sources:
+    - url: https://docs.qq.com/doc/DVmZ2emJOV3RmcW1G#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-17
+  person: dong
+  date: "2010"
+  year: 2010
+  title: 优家画报  董卿 愿做瞬间灿烂的烟花20100320
+  description: ""
+  fields:
+    - cell: H17
+      text: 优家画报  董卿 愿做瞬间灿烂的烟花20100320
+      url: null
+    - cell: I17
+      text: https://docs.qq.com/doc/DVmpBRU9tRmdJdkxh#
+      url: https://docs.qq.com/doc/DVmpBRU9tRmdJdkxh#
+  sources:
+    - url: https://docs.qq.com/doc/DVmpBRU9tRmdJdkxh#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-18
+  person: dong
+  date: "2010"
+  year: 2010
+  title: 董卿——春晚六年时尚成长史--《北京青年周刊》20100318
+  description: ""
+  fields:
+    - cell: H18
+      text: 董卿——春晚六年时尚成长史--《北京青年周刊》20100318
+      url: null
+    - cell: I18
+      text: https://docs.qq.com/doc/DVkNteU1wWnF2YXFw#
+      url: https://docs.qq.com/doc/DVkNteU1wWnF2YXFw#
+  sources:
+    - url: https://docs.qq.com/doc/DVkNteU1wWnF2YXFw#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-19
+  person: dong
+  date: "2011"
+  year: 2011
+  title: 董卿：主持春晚，吃苦也值  《申江都市导报》20110118
+  description: ""
+  fields:
+    - cell: H19
+      text: 董卿：主持春晚，吃苦也值  《申江都市导报》20110118
+      url: null
+    - cell: I19
+      text: https://docs.qq.com/doc/DVnpHRnJDVndsWUZj#
+      url: https://docs.qq.com/doc/DVnpHRnJDVndsWUZj#
+  sources:
+    - url: https://docs.qq.com/doc/DVnpHRnJDVndsWUZj#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-20
+  person: dong
+  date: "2011"
+  year: 2011
+  title: 是什么成就了董卿——《解放日报》20110408
+  description: ""
+  fields:
+    - cell: H20
+      text: 是什么成就了董卿——《解放日报》20110408
+      url: null
+    - cell: I20
+      text: https://docs.qq.com/doc/DVkNncUNqeHhvYkF0#
+      url: https://docs.qq.com/doc/DVkNncUNqeHhvYkF0#
+  sources:
+    - url: https://docs.qq.com/doc/DVkNncUNqeHhvYkF0#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-21
+  person: dong
+  date: "2011"
+  year: 2011
+  title: "董卿获“德艺双馨”称号:每年春晚后吃速冻饺子          2011年08月08日 "
+  description: ""
+  fields:
+    - cell: H21
+      text: "董卿获“德艺双馨”称号:每年春晚后吃速冻饺子          2011年08月08日 "
+      url: null
+    - cell: I21
+      text: https://www.chinanews.com.cn/cul/2011/08-08/3241616.shtml
+      url: https://www.chinanews.com.cn/cul/2011/08-08/3241616.shtml
+  sources:
+    - url: https://www.chinanews.com.cn/cul/2011/08-08/3241616.shtml
+      label: www.chinanews.com.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-22
+  person: dong
+  date: "2012"
+  year: 2012
+  title: 改变，任何时候都不晚  《时尚健康》2012年9月
+  description: ""
+  fields:
+    - cell: H22
+      text: 改变，任何时候都不晚  《时尚健康》2012年9月
+      url: null
+    - cell: I22
+      text: https://docs.qq.com/doc/DVmttekpETW9zd1RZ#
+      url: https://docs.qq.com/doc/DVmttekpETW9zd1RZ#
+  sources:
+    - url: https://docs.qq.com/doc/DVmttekpETW9zd1RZ#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-23
+  person: dong
+  date: "2013"
+  year: 2013
+  title: 要么不，要么最——董卿十年 20130202
+  description: ""
+  fields:
+    - cell: H23
+      text: 要么不，要么最——董卿十年 20130202
+      url: null
+    - cell: I23
+      text: https://docs.qq.com/doc/DVkVBRW51Y0puckVu#
+      url: https://docs.qq.com/doc/DVkVBRW51Y0puckVu#
+  sources:
+    - url: https://docs.qq.com/doc/DVkVBRW51Y0puckVu#
+      label: docs.qq.com
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-24
+  person: dong
+  date: "2016"
+  year: 2016
+  title: 【董卿】（央视网版） 20161115 《我要上春晚》幕后 为董卿提前庆生
+  description: ""
+  fields:
+    - cell: H24
+      text: 【董卿】（央视网版） 20161115 《我要上春晚》幕后 为董卿提前庆生
+      url: null
+    - cell: I24
+      text: https://b23.tv/DWrgAxu
+      url: https://b23.tv/DWrgAxu
+  sources:
+    - url: https://b23.tv/DWrgAxu
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-26
+  person: dong
+  date: "2017"
+  year: 2017
+  title: "【董卿】20170215 《朗读者》媒体见面会 全程回顾  "
+  description: ""
+  fields:
+    - cell: H26
+      text: "【董卿】20170215 《朗读者》媒体见面会 全程回顾  "
+      url: null
+    - cell: I26
+      text: "  https://b23.tv/kdmbo35"
+      url: null
+  sources:
+    - url: https://b23.tv/kdmbo35
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-27
+  person: dong
+  date: "2017"
+  year: 2017
+  title: 董卿20170417《面对面》访谈
+  description: ""
+  fields:
+    - cell: H27
+      text: 董卿20170417《面对面》访谈
+      url: null
+    - cell: I27
+      text: https://b23.tv/MpQHNO5
+      url: https://b23.tv/MpQHNO5
+  sources:
+    - url: https://b23.tv/MpQHNO5
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-28
+  person: dong
+  date: "2017"
+  year: 2017
+  title: 【董卿】20170523大咖有话 人民日报直播访谈
+  description: ""
+  fields:
+    - cell: H28
+      text: 【董卿】20170523大咖有话 人民日报直播访谈
+      url: null
+    - cell: I28
+      text: https://b23.tv/EHZ26oz
+      url: https://b23.tv/EHZ26oz
+  sources:
+    - url: https://b23.tv/EHZ26oz
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-29
+  person: dong
+  date: "2017"
+  year: 2017
+  title: 【董卿】20170523 人民网 文艺星青年专访
+  description: ""
+  fields:
+    - cell: H29
+      text: 【董卿】20170523 人民网 文艺星青年专访
+      url: null
+    - cell: I29
+      text: https://b23.tv/aUzDRQJ
+      url: https://b23.tv/aUzDRQJ
+  sources:
+    - url: https://b23.tv/aUzDRQJ
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-30
+  person: dong
+  date: "2017"
+  year: 2017
+  title: "【董卿】20170613  文化传承与当代创新——中国电视节目自主创新高峰会 "
+  description: ""
+  fields:
+    - cell: H30
+      text: "【董卿】20170613  文化传承与当代创新——中国电视节目自主创新高峰会 "
+      url: null
+    - cell: I30
+      text: https://b23.tv/7L692FM
+      url: https://b23.tv/7L692FM
+  sources:
+    - url: https://b23.tv/7L692FM
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-31
+  person: dong
+  date: "2017"
+  year: 2017
+  title: 【董卿杂志访谈】（2017）
+  description: |-
+    在困难的后面依然是困难，但你总要想办法解决它，
+    很多时候，当你快要绝望时，可能希望就离得不远了。
+  fields:
+    - cell: G31
+      text: |-
+        在困难的后面依然是困难，但你总要想办法解决它，
+        很多时候，当你快要绝望时，可能希望就离得不远了。
+      url: null
+    - cell: H31
+      text: 【董卿杂志访谈】（2017）
+      url: null
+    - cell: I31
+      text: https://kdocs.cn/l/cted8VVBhRz1
+      url: https://kdocs.cn/l/cted8VVBhRz1
+  sources:
+    - url: https://kdocs.cn/l/cted8VVBhRz1
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-32
+  person: dong
+  date: 日期未详
+  year: null
+  title: 【回顾】董卿部分访谈
+  description: ""
+  fields:
+    - cell: H32
+      text: 【回顾】董卿部分访谈
+      url: null
+    - cell: I32
+      text: https://b23.tv/PzguVKI
+      url: https://b23.tv/PzguVKI
+  sources:
+    - url: https://b23.tv/PzguVKI
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-33
+  person: dong
+  date: 日期未详
+  year: null
+  title: 【董卿】真正的高贵，不是优于别人，而是优于自己
+  description: ""
+  fields:
+    - cell: H33
+      text: 【董卿】真正的高贵，不是优于别人，而是优于自己
+      url: null
+    - cell: I33
+      text: https://b23.tv/dWVxrn2
+      url: https://b23.tv/dWVxrn2
+  sources:
+    - url: https://b23.tv/dWVxrn2
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-34
+  person: dong
+  date: 日期未详
+  year: null
+  title: 【董卿】在法兰克福接受采访视频
+  description: ""
+  fields:
+    - cell: H34
+      text: 【董卿】在法兰克福接受采访视频
+      url: null
+    - cell: I34
+      text: " https://b23.tv/wLYXIXc"
+      url: null
+  sources:
+    - url: https://b23.tv/wLYXIXc
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-35
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 董卿20180906 中俄艺术家大联欢
+  description: ""
+  fields:
+    - cell: H35
+      text: 董卿20180906 中俄艺术家大联欢
+      url: null
+    - cell: I35
+      text: " https://b23.tv/2QrsZhC"
+      url: null
+  sources:
+    - url: https://b23.tv/2QrsZhC
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-36
+  person: dong
+  date: "2018"
+  year: 2018
+  title: "董卿 20181201 崇明人发展大会论坛 "
+  description: ""
+  fields:
+    - cell: H36
+      text: "董卿 20181201 崇明人发展大会论坛 "
+      url: null
+    - cell: I36
+      text: " https://b23.tv/OzS7czh"
+      url: null
+  sources:
+    - url: https://b23.tv/OzS7czh
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-37
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（20180426）《南方周末》｜董卿谈《朗读者》第二季
+  description: ""
+  fields:
+    - cell: H37
+      text: 【董卿杂志访谈】（20180426）《南方周末》｜董卿谈《朗读者》第二季
+      url: null
+    - cell: I37
+      text: " https://kdocs.cn/l/cmtH5uguiBXs\""
+      url: null
+  sources:
+    - url: https://kdocs.cn/l/cmtH5uguiBXs
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-38
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（201808）《人物》｜董卿 惯性奔跑
+  description: ""
+  fields:
+    - cell: H38
+      text: 【董卿杂志访谈】（201808）《人物》｜董卿 惯性奔跑
+      url: null
+    - cell: I38
+      text: https://kdocs.cn/l/ccp6TIyn8W48
+      url: https://kdocs.cn/l/ccp6TIyn8W48
+  sources:
+    - url: https://kdocs.cn/l/ccp6TIyn8W48
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-39
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（20180820）《三联生活周刊》｜董卿：除了刻苦我不会用其他方法去获取机会
+  description: ""
+  fields:
+    - cell: H39
+      text: 【董卿杂志访谈】（20180820）《三联生活周刊》｜董卿：除了刻苦我不会用其他方法去获取机会
+      url: null
+    - cell: I39
+      text: |-
+
+        https://kdocs.cn/l/cizi1urlWmAw
+      url: null
+  sources:
+    - url: https://kdocs.cn/l/cizi1urlWmAw
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-40
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（2018）《南方人物周刊》｜董卿 完美孤独者
+  description: ""
+  fields:
+    - cell: H40
+      text: 【董卿杂志访谈】（2018）《南方人物周刊》｜董卿 完美孤独者
+      url: null
+    - cell: I40
+      text: https://kdocs.cn/l/cfEfqLAu2ARE
+      url: https://kdocs.cn/l/cfEfqLAu2ARE
+  sources:
+    - url: https://kdocs.cn/l/cfEfqLAu2ARE
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-41
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（20180816）《南方人物周刊》｜董卿：我特别舍得把自己给出去
+  description: ""
+  fields:
+    - cell: H41
+      text: 【董卿杂志访谈】（20180816）《南方人物周刊》｜董卿：我特别舍得把自己给出去
+      url: null
+    - cell: I41
+      text: https://kdocs.cn/l/cbtY54bktUKO
+      url: https://kdocs.cn/l/cbtY54bktUKO
+  sources:
+    - url: https://kdocs.cn/l/cbtY54bktUKO
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-42
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（20180830）《北京青年周刊》|董卿：“我们去朗读吧！”｜COVER SHOOT
+  description: ""
+  fields:
+    - cell: H42
+      text: 【董卿杂志访谈】（20180830）《北京青年周刊》|董卿：“我们去朗读吧！”｜COVER SHOOT
+      url: null
+    - cell: I42
+      text: https://kdocs.cn/l/cqoZpN6YH6dY
+      url: https://kdocs.cn/l/cqoZpN6YH6dY
+  sources:
+    - url: https://kdocs.cn/l/cqoZpN6YH6dY
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-43
+  person: dong
+  date: "2018"
+  year: 2018
+  title: 【董卿杂志访谈】（20181101）《环球人物》｜与董卿共读先生们
+  description: ""
+  fields:
+    - cell: H43
+      text: 【董卿杂志访谈】（20181101）《环球人物》｜与董卿共读先生们
+      url: null
+    - cell: I43
+      text: https://kdocs.cn/l/ckihruNjdTeC
+      url: https://kdocs.cn/l/ckihruNjdTeC
+  sources:
+    - url: https://kdocs.cn/l/ckihruNjdTeC
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-dong-44
+  person: dong
+  date: "2020"
+  year: 2020
+  title: 【董卿杂志访谈】（2020）《24楼影院》｜时隔800天，她带着《朗读者》向光归来
+  description: ""
+  fields:
+    - cell: H44
+      text: 【董卿杂志访谈】（2020）《24楼影院》｜时隔800天，她带着《朗读者》向光归来
+      url: null
+    - cell: I44
+      text: https://kdocs.cn/l/ckHlnjK5Js5V
+      url: https://kdocs.cn/l/ckHlnjK5Js5V
+  sources:
+    - url: https://kdocs.cn/l/ckHlnjK5Js5V
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-together-6
+  person: together
+  date: "2006"
+  year: 2006
+  title: |-
+    2006春晚幕后，李咏采访
+    董卿、周涛、朱军
+  description: ""
+  fields:
+    - cell: N6
+      text: |-
+        2006春晚幕后，李咏采访
+        董卿、周涛、朱军
+      url: null
+    - cell: O6
+      text: https://b23.tv/IC8Gs5n
+      url: https://b23.tv/IC8Gs5n
+  sources:
+    - url: https://b23.tv/IC8Gs5n
+      label: b23.tv
+      kind: video
+      origin: 原表链接
+  images: []
+  checks: []
+- id: i-together-7
+  person: together
+  date: 2015 / 2016 / 2018 / 2020 / 2021
+  year: 2015
+  title: |-
+    2015，2016，2018，2020，2021
+    🍑微信公众号【为你读诗】
+  description: |-
+    “一定要走吗？请等我和你同行！”
+    《预言》何其芳，《家信》玛丽•奥利弗，《纪伯伦与玛丽情书集》（节选）纪伯伦、玛丽·哈斯凯勒，《你是人世间最美的图景》周公度
+  fields:
+    - cell: M7
+      text: |-
+        “一定要走吗？请等我和你同行！”
+        《预言》何其芳，《家信》玛丽•奥利弗，《纪伯伦与玛丽情书集》（节选）纪伯伦、玛丽·哈斯凯勒，《你是人世间最美的图景》周公度
+      url: null
+    - cell: N7
+      text: |-
+        2015，2016，2018，2020，2021
+        🍑微信公众号【为你读诗】
+      url: null
+    - cell: O7
+      text: https://kdocs.cn/l/ctXQzn8SQlQp
+      url: https://kdocs.cn/l/ctXQzn8SQlQp
+  sources:
+    - url: https://kdocs.cn/l/ctXQzn8SQlQp
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 原表归在共同访谈栏；本条为延伸阅读，并非已确认两人共同受访。
+- id: i-together-8
+  person: together
+  date: 2019 / 2020 / 2021
+  year: 2019
+  title: |-
+    2019，2020，2021
+    🍉微信公众号【为你读诗】
+    【为你读诗诗意乐园】
+  description: |-
+    无重点，纯商务。
+
+    想陶冶情操的可以看
+  fields:
+    - cell: M8
+      text: |-
+        无重点，纯商务。
+
+        想陶冶情操的可以看
+      url: null
+    - cell: N8
+      text: |-
+        2019，2020，2021
+        🍉微信公众号【为你读诗】
+        【为你读诗诗意乐园】
+      url: null
+    - cell: O8
+      text: https://kdocs.cn/l/cjgopwL5lKHO
+      url: https://kdocs.cn/l/cjgopwL5lKHO
+  sources:
+    - url: https://kdocs.cn/l/cjgopwL5lKHO
+      label: kdocs.cn
+      kind: source
+      origin: 原表链接
+  images: []
+  checks:
+    - 原表归在共同访谈栏；本条为延伸阅读，并非已确认两人共同受访。
+- id: i-together-10
+  person: together
+  date: "2021-07-06"
+  year: 2021
+  title: 全面提升城市软实力｜一杯海派咖啡里的城市留白
+  description: 全面提升城市软实力｜一杯海派咖啡里的城市留白
+  fields:
+    - cell: M10
+      text: 全面提升城市软实力｜一杯海派咖啡里的城市留白
+      url: null
+    - cell: N10
+      text: "44383"
+      url: null
+    - cell: O10
+      text: >-
+        https://article.xuexi.cn/articles/index.html?art_id=1886867270300046569&item_id=1886867270300046569&study_style_id=feeds_opaque&t=1625541366379&showmenu=false&ref_read_id=64f13019-6698-4d17-a26b-
+
+        9bcf1fcaddf4&pid=&ptype=-1&
+
+        source=share&share_to=wx_single
+      url: >-
+        https://article.xuexi.cn/articles/index.html?art_id=1886867270300046569&item_id=1886867270300046569&study_style_id=feeds_opaque&t=1625541366379&showmenu=false&ref_read_id=64f13019-6698-4d17-a26b-9bcf1fcaddf4&pid=&ptype=-1&source=share&share_to=wx_single
+    - cell: P10
+      text: ""
+      url: null
+      image: /assets/archive/image113.jpeg
+    - cell: Q10
+      text: |-
+        总觉得这个有点故事，偏偏是上海，偏偏是周涛，偏偏是情书。
+        北京女人对“海派韵味”的了解怎么会那么深呢？也只有上海女人才能对“海派韵味”了如指掌吧。
+      url: null
+  sources:
+    - url: >-
+        https://article.xuexi.cn/articles/index.html?art_id=1886867270300046569&item_id=1886867270300046569&study_style_id=feeds_opaque&t=1625541366379&showmenu=false&ref_read_id=64f13019-6698-4d17-a26b-9bcf1fcaddf4&pid=&ptype=-1&source=share&share_to=wx_single
+      label: article.xuexi.cn
+      kind: source
+      origin: 原表链接
+    - url: >-
+        https://article.xuexi.cn/articles/index.html?art_id=1886867270300046569&item_id=1886867270300046569&study_style_id=feeds_opaque&t=1625541366379&showmenu=false&ref_read_id=64f13019-6698-4d17-a26b-
+      label: article.xuexi.cn
+      kind: source
+      origin: 原表链接
+  images:
+    - /assets/archive/image113.jpeg
+  checks:
+    - 原表归在共同访谈栏；本条为延伸阅读，并非已确认两人共同受访。

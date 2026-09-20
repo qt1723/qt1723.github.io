@@ -1,5 +1,0 @@
-<% const p = site.data.profile; const published = p.publications.filter(item => item.status === "published"); %>
-<section id="research" class="content-section reveal">
-  <div class="section-heading"><h2>Research Interests<span>.</span></h2><p>From language to vision, towards a deeper understanding of sentiment.</p></div>
-  <div class="research-grid"><% p.research.forEach(item => { %><article class="research-card"><span class="card-number"><%= item.symbol %> <span aria-hidden="true">↗</span></span><h3><%= item.title %></h3><p><%= item.description %></p><div class="tags"><% item.tags.forEach(tag => { %><span><%= tag %></span><% }); %></div></article><% }); %></div>
-</section>
