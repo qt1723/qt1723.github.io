@@ -5,11 +5,13 @@ const usefulText=value=>{const key=compactText(value);if(!key)return false;if(!t
 const detailSummaries=item.summaries.filter(entry=>usefulText(entry.text));
 const usefulObservation=usefulText(item.observation)?item.observation:'';
 const extraSources=[...new Map(item.sources.filter(source=>source.kind!=='video').map(source=>[source.url,source])).values()];
+const textOnly=!item.images.length&&!item.sources.some(source=>source.kind==='video');
+const sourcesOnly=textOnly&&!detailSummaries.length&&!usefulObservation;
 const hasDetails=detailSummaries.length||usefulObservation||item.images.length||item.sources.some(source=>source.kind==='video')||extraSources.length;
 %>
-<article class="record" id="<%= item.id %>" data-record data-year="<%= item.year || 'unknown' %>" data-tags="<%= item.tags.join(' ') %>" data-search="<%= [item.title,...item.summaries.map(s=>s.text),item.observation].join(' ') %>">
+<article class="record <%= textOnly?'record-text-only':'' %>" id="<%= item.id %>" data-record data-year="<%= item.year || 'unknown' %>" data-tags="<%= item.tags.join(' ') %>" data-search="<%= [item.title,...item.summaries.map(s=>s.text),item.observation].join(' ') %>">
 <div class="record-date"><%= item.date %></div><div class="record-content"><% if(section==='timeline'){ %><div class="record-labels"><% item.tags.forEach(tag=>{ %><span class="tag tag-<%= tag %>"><%= tag_label(tag) %></span><% }) %></div><% } %><h3><a href="#<%= item.id %>"><%= item.title %></a></h3>
-<% if(hasDetails){ %><details class="record-details"><summary>展开记录<% if(item.sources.some(s=>s.kind==='video')){ %> · ▶ 视频<% } %><% if(item.images.length){ %> · <%= item.images.length %> 张配图<% } %></summary><div class="record-detail-body">
+<% if(sourcesOnly){ %><%- partial('_partial/sources',{item}) %><% }else if(hasDetails){ %><details class="record-details"><summary>展开记录<% if(item.sources.some(s=>s.kind==='video')){ %> · <svg class="icon-play" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M5 3.2c0-.6.6-.9 1.1-.6l7 4.8c.4.3.4.9 0 1.2l-7 4.8c-.5.3-1.1 0-1.1-.6Z"/></svg> 视频<% } %><% if(item.images.length){ %> · <%= item.images.length %> 张配图<% } %></summary><div class="record-detail-body">
 <% detailSummaries.forEach(s=>{ %><div class="transcription"><% if(section==='timeline'||section==='moments'){ %><span><%= s.label %></span><% } %><p><%= s.text %></p></div><% }) %>
 <% if(usefulObservation){ %><blockquote class="editor-note"><p><%= usefulObservation %></p></blockquote><% } %>
 <%- partial('_partial/media',{item}) %>

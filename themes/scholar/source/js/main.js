@@ -12,7 +12,7 @@ if(archive){
  let kind=['all','zhou','dong','together','moments'].includes(params.get('type'))?params.get('type'):'all';
  let pinnedYear=null;
  const eraFor=y=>y==='unknown'?'unknown':+y<1990?'1968-1989':+y<2000?'1990-1999':+y<2010?'2000-2009':+y<2020?'2010-2019':'2020-2025';
- era.value=Array.from(era.options).some(o=>o.value===params.get('era'))?params.get('era'):(archive.dataset.section==='moments'?'2010-2019':'2000-2009');
+ era.value=Array.from(era.options).some(o=>o.value===params.get('era'))?params.get('era'):'all';
  search.value=params.get('q')||'';
  const inEra=y=>era.value==='all'||era.value===y||(era.value.includes('-')&&y!=='unknown'&&+y>=+era.value.split('-')[0]&&+y<=+era.value.split('-')[1]);
  function render(){
@@ -38,7 +38,7 @@ if(archive){
   const y=target.dataset.year||target.dataset.yearGroup;
   if(!y)return false;
   pinnedYear=y;era.value=eraFor(y);kind='all';search.value='';render();
-  if(target.matches('[data-record]')){$('.record-details',target).open=true;}
+  if(target.matches('[data-record]')){const details=$('.record-details',target);if(details)details.open=true;}
   if(scroll)requestAnimationFrame(()=>target.scrollIntoView({block:'start'}));
   return true;
  }
@@ -100,24 +100,62 @@ $('[data-close-credits]')?.addEventListener('click',()=>credits?.close());
 credits?.addEventListener('click',e=>{if(e.target===credits)credits.close();});
 credits?.addEventListener('close',()=>openCredits?.focus());
 
-const musicPlayer=$('[data-music-player]'),music=musicPlayer?.querySelector('audio'),musicButton=musicPlayer?.querySelector('button'),musicStatus=musicPlayer?.querySelector('[data-music-status]');
+// Persist explicit listening preference across full page navigation.
+const musicPlayer=$('[data-music-player]'),music=musicPlayer?.querySelector('audio'),musicButton=musicPlayer?.querySelector('button');
 if(music&&musicButton){
+ const key='kapok-music-preference';
+ const read=()=>{try{return localStorage.getItem(key);}catch{return null;}};
+ const remember=value=>{try{localStorage.setItem(key,value);}catch{}};
+ let wanted=read()==='playing';
  music.volume=.22;
- let autoPending=true;
- const setMusicState=playing=>{musicPlayer.classList.toggle('is-playing',playing);musicButton.setAttribute('aria-pressed',String(playing));musicButton.setAttribute('aria-label',playing?'暂停背景音乐':'播放背景音乐');musicStatus.textContent=playing?'正在播放 · 点击暂停':'轻触播放';};
- const stopAuto=()=>{autoPending=false;document.removeEventListener('click',firstInteraction);document.removeEventListener('keydown',firstInteraction);};
- const firstInteraction=e=>{if(!autoPending||e.target.closest('[data-music-player]')||(e.type==='keydown'&&!['Enter',' '].includes(e.key)))return;stopAuto();music.play().catch(()=>setMusicState(false));};
- musicButton.addEventListener('click',async()=>{
-  stopAuto();
-  if(!music.paused){music.pause();return;}
-  musicButton.disabled=true;
-  try{await music.play();}catch{setMusicState(false);musicStatus.textContent='音频暂不可用';}
-  finally{musicButton.disabled=false;}
+ const update=()=>{const playing=!music.paused;musicPlayer.classList.toggle('is-playing',playing);musicButton.setAttribute('aria-pressed',String(playing));musicButton.setAttribute('aria-label',playing?'暂停背景音乐':'播放背景音乐');};
+ const resume=()=>{if(wanted)music.play().catch(update);};
+ musicButton.addEventListener('click',()=>{
+  wanted=!wanted;remember(wanted?'playing':'paused');
+  if(wanted)resume();else music.pause();update();
  });
- music.addEventListener('pause',()=>setMusicState(false));
- music.addEventListener('play',()=>{stopAuto();setMusicState(true);});
- music.addEventListener('error',()=>{stopAuto();setMusicState(false);musicStatus.textContent='音频暂不可用';});
- document.addEventListener('click',firstInteraction);
- document.addEventListener('keydown',firstInteraction);
- music.play().catch(()=>{if(autoPending){setMusicState(false);musicStatus.textContent='轻触播放';}});
+ music.addEventListener('play',()=>{if(!wanted)music.pause();update();});
+ music.addEventListener('pause',update);
+ music.addEventListener('error',()=>{wanted=false;update();musicButton.setAttribute('aria-label','音频暂不可用，点击重试');});
+ document.addEventListener('click',e=>{if(!e.target.closest('[data-music-player]')&&music.paused)resume();});
+ window.addEventListener('pageshow',()=>{wanted=read()==='playing';if(!wanted)music.pause();update();});
+ window.addEventListener('storage',e=>{if(e.key===key){wanted=e.newValue==='playing';if(!wanted)music.pause();update();}});
+ update();resume();
 }
+// Keep the same era picker on touch devices and desktop, with a native no-JS fallback.
+$$('[data-era]').forEach(select=>{
+ const wrapper=document.createElement('div');wrapper.className='era-picker';
+ select.parentElement.after(wrapper);
+ const label=select.parentElement;label.firstChild.textContent='年代 ';wrapper.append(label);
+ const trigger=document.createElement('button');trigger.type='button';trigger.className='era-trigger';trigger.setAttribute('aria-haspopup','listbox');trigger.setAttribute('aria-expanded','false');trigger.setAttribute('aria-label','选择年代');
+ const list=document.createElement('div');list.className='era-options';list.id='era-options';list.setAttribute('role','listbox');list.setAttribute('aria-label','选择年代');list.hidden=true;trigger.setAttribute('aria-controls',list.id);
+ wrapper.append(trigger,list);select.hidden=true;
+ const buttons=Array.from(select.options).map(option=>{const b=document.createElement('button');b.type='button';b.textContent=option.textContent;b.dataset.value=option.value;b.setAttribute('role','option');b.tabIndex=-1;list.append(b);b.addEventListener('click',()=>{select.value=option.value;select.dispatchEvent(new Event('change',{bubbles:true}));close();trigger.focus();});return b;});
+ function sync(){trigger.textContent=select.selectedOptions[0].textContent;buttons.forEach(b=>b.setAttribute('aria-selected',String(b.dataset.value===select.value)));}
+ function close(){list.hidden=true;trigger.setAttribute('aria-expanded','false');}
+ function open(){sync();list.hidden=false;trigger.setAttribute('aria-expanded','true');buttons.find(b=>b.dataset.value===select.value)?.focus();}
+ trigger.addEventListener('click',()=>list.hidden?open():close());
+ trigger.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp'].includes(e.key)){e.preventDefault();e.stopPropagation();open();}});
+ wrapper.addEventListener('keydown',e=>{if(e.key==='Escape'){close();trigger.focus();}if(!list.hidden&&['ArrowDown','ArrowUp','Home','End'].includes(e.key)){e.preventDefault();let i=buttons.indexOf(document.activeElement);i=e.key==='Home'?0:e.key==='End'?buttons.length-1:(i+(e.key==='ArrowDown'?1:-1)+buttons.length)%buttons.length;buttons[i].focus();}});
+ wrapper.addEventListener('focusout',e=>{if(!wrapper.contains(e.relatedTarget))close();});
+ document.addEventListener('click',e=>{if(!wrapper.contains(e.target))close();});
+ select.addEventListener('change',sync);$('[data-reset]')?.addEventListener('click',sync);$('[data-search-input]')?.addEventListener('input',sync);window.addEventListener('hashchange',sync);$$('[data-year-jump]').forEach(a=>a.addEventListener('click',sync));sync();
+});
+function scatterConfetti(link){
+ if(!link)return;
+ link.classList.remove('nav-bloom');
+ $$('.nav-petals i',link).forEach(p=>{
+  p.style.setProperty('--x',((Math.random()-.5)*78).toFixed(1)+'px');
+  p.style.setProperty('--y',(-12-Math.random()*24).toFixed(1)+'px');
+  p.style.setProperty('--fall',(8+Math.random()*22).toFixed(1)+'px');
+  p.style.setProperty('--r',((Math.random()-.5)*560).toFixed(0)+'deg');
+  p.style.setProperty('--delay',Math.round(Math.random()*110)+'ms');
+  p.style.setProperty('--duration',Math.round(850+Math.random()*250)+'ms');
+ });
+ requestAnimationFrame(()=>requestAnimationFrame(()=>link.classList.add('nav-bloom')));
+}
+$$('#navigation a').forEach(link=>{
+ const bloom=()=>{scatterConfetti(link);try{sessionStorage.setItem('kapok-nav-arrival',new URL(link.href).pathname);}catch{}};
+ link.addEventListener('pointerdown',bloom);link.addEventListener('keydown',e=>{if(e.key==='Enter')bloom();});
+});
+try{if(sessionStorage.getItem('kapok-nav-arrival')===location.pathname){sessionStorage.removeItem('kapok-nav-arrival');scatterConfetti($('#navigation a[aria-current]'));}}catch{}
