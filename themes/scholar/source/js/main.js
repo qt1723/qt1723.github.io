@@ -23,7 +23,9 @@ if(archive){
   filters.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===kind)));
   $('[data-result-count]',archive).textContent='显示 '+count+' / '+records.length+' 条记录';
   $('[data-empty]',archive).hidden=count!==0||!!pinnedYear;
-  $$('[data-year-jump]',archive).forEach(a=>a.setAttribute('aria-current',String(a.dataset.yearJump===pinnedYear)));
+  const visibleYears=groups.filter(g=>!g.hidden).map(g=>g.dataset.yearGroup);
+  $$('[data-year-jump]',archive).forEach(a=>{a.hidden=!visibleYears.includes(a.dataset.yearJump);a.setAttribute('aria-current',String(a.dataset.yearJump===(pinnedYear||visibleYears[0])));});
+  const index=$('.year-index>div',archive);if(index)index.scrollLeft=0;
  }
  function save(){const u=new URL(location.href);u.searchParams.set('era',era.value);if(kind!=='all')u.searchParams.set('type',kind);else u.searchParams.delete('type');if(search.value.trim())u.searchParams.set('q',search.value.trim());else u.searchParams.delete('q');u.hash='';history.replaceState(null,'',u);}
  filters.forEach(b=>b.addEventListener('click',()=>{kind=b.dataset.filter;pinnedYear=null;render();save();}));
@@ -98,15 +100,24 @@ $('[data-close-credits]')?.addEventListener('click',()=>credits?.close());
 credits?.addEventListener('click',e=>{if(e.target===credits)credits.close();});
 credits?.addEventListener('close',()=>openCredits?.focus());
 
-const musicPlayer=$('[data-music-player]'),music=$('[data-background-audio]',musicPlayer),musicButton=$('button',musicPlayer),musicStatus=$('[data-music-status]',musicPlayer);
+const musicPlayer=$('[data-music-player]'),music=musicPlayer?.querySelector('audio'),musicButton=musicPlayer?.querySelector('button'),musicStatus=musicPlayer?.querySelector('[data-music-status]');
 if(music&&musicButton){
- const setMusicState=playing=>{musicPlayer.classList.toggle('is-playing',playing);musicButton.setAttribute('aria-pressed',String(playing));musicButton.setAttribute('aria-label',playing?'暂停背景音乐':'播放背景音乐');musicStatus.textContent=playing?'正在播放':'轻触播放';};
- const playMusic=()=>music.play().then(()=>setMusicState(true)).catch(()=>setMusicState(false));
- const stored=localStorage.getItem('archive-music');
- if(stored!=='off')playMusic();else setMusicState(false);
- musicButton.addEventListener('click',()=>{if(music.paused){localStorage.setItem('archive-music','on');playMusic();}else{music.pause();localStorage.setItem('archive-music','off');setMusicState(false);}});
- const unlock=e=>{if(e.target.closest?.('[data-music-player]')||localStorage.getItem('archive-music')==='off'||!music.paused)return;playMusic().then(()=>document.removeEventListener('pointerdown',unlock,true));};
- document.addEventListener('pointerdown',unlock,true);
- music.addEventListener('pause',()=>setMusicState(false));music.addEventListener('play',()=>setMusicState(true));
+ music.volume=.22;
+ let autoPending=true;
+ const setMusicState=playing=>{musicPlayer.classList.toggle('is-playing',playing);musicButton.setAttribute('aria-pressed',String(playing));musicButton.setAttribute('aria-label',playing?'暂停背景音乐':'播放背景音乐');musicStatus.textContent=playing?'正在播放 · 点击暂停':'轻触播放';};
+ const stopAuto=()=>{autoPending=false;document.removeEventListener('click',firstInteraction);document.removeEventListener('keydown',firstInteraction);};
+ const firstInteraction=e=>{if(!autoPending||e.target.closest('[data-music-player]')||(e.type==='keydown'&&!['Enter',' '].includes(e.key)))return;stopAuto();music.play().catch(()=>setMusicState(false));};
+ musicButton.addEventListener('click',async()=>{
+  stopAuto();
+  if(!music.paused){music.pause();return;}
+  musicButton.disabled=true;
+  try{await music.play();}catch{setMusicState(false);musicStatus.textContent='音频暂不可用';}
+  finally{musicButton.disabled=false;}
+ });
+ music.addEventListener('pause',()=>setMusicState(false));
+ music.addEventListener('play',()=>{stopAuto();setMusicState(true);});
+ music.addEventListener('error',()=>{stopAuto();setMusicState(false);musicStatus.textContent='音频暂不可用';});
+ document.addEventListener('click',firstInteraction);
+ document.addEventListener('keydown',firstInteraction);
+ music.play().catch(()=>{if(autoPending){setMusicState(false);musicStatus.textContent='轻触播放';}});
 }
-

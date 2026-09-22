@@ -5,3 +5,7 @@ navigation:
   - {label: 共同记忆, key: together, href: /together/}
   - {label: 名场面, key: moments, href: /moments/}
   - {label: 访谈, key: interviews, href: /interviews/}
+
+# Replace with your own authorized local audio.
+music:
+  src: /assets/audio/placeholder.wav
