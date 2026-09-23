@@ -282,7 +282,7 @@ body{font-synthesis:none}button,input,select,textarea{font-family:var(--sans)}
 .year-scroll-control{display:none}
 @media(max-width:800px){
  .year-index>div{scrollbar-width:none;padding-bottom:0}.year-index>div::-webkit-scrollbar{display:none}
- .year-scroll-control{display:block;-webkit-appearance:none;appearance:none;width:88%;max-width:none;height:24px;padding:0;margin:0 auto 0;background:transparent;cursor:ew-resize;touch-action:pan-y;border:0;border-radius:12px}
+ .year-scroll-control{display:block;-webkit-appearance:none;appearance:none;width:100%;max-width:none;height:24px;padding:0;margin:0 auto 0;background:transparent;cursor:ew-resize;touch-action:pan-y;border:0;border-radius:12px}
  .year-scroll-control::-webkit-slider-runnable-track{height:3px;background:#ded9cb;border-radius:3px}
  .year-scroll-control::-webkit-slider-thumb{-webkit-appearance:none;width:34px;height:7px;margin-top:-2px;border:1px solid #afac94;border-radius:6px;background:#a8ae95;box-shadow:0 1px 3px #45523c12}
  .year-scroll-control::-moz-range-track{height:3px;background:#ded9cb;border-radius:3px}
@@ -299,14 +299,14 @@ body{font-synthesis:none}button,input,select,textarea{font-family:var(--sans)}
 .archive-notes p{white-space:pre-line;line-height:1.9}.year-status{font-size:10px;color:var(--muted);line-height:1.8;margin-top:10px}
 @media(max-width:540px){.archive-notes>div{grid-template-columns:1fr;gap:12px}.archive-notes{font-size:11px;margin-bottom:16px}}
 
-/* Separate years with breathing room; retain rules only between records. */
+/* Keep breathing room before each year, without a duplicate rule above it. */
 .archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group>.record:not([hidden]):not(:has(~ .record:not([hidden]))){border-bottom:0}
 
-/* Year hierarchy relies on typography and space, without a title divider. */
+/* A deeper, full-width year rule separates the hierarchy from light record rules. */
 .archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group{margin-bottom:32px}
-.archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group>header{position:relative;border-bottom:0;padding-bottom:6px;gap:18px;align-items:baseline}
+.archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group>header{position:relative;border-bottom:1.5px solid #c4bcac;padding-bottom:13px;gap:18px;align-items:baseline}
 .archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group>header::after{content:none}
 @media(max-width:800px){
  .archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group{margin-bottom:26px}
- .archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group>header{padding-bottom:4px;gap:14px}
+ .archive-browser:is([data-section="zhou"],[data-section="dong"],[data-section="together"],[data-section="moments"]) .year-group>header{padding-bottom:11px;gap:14px}
 }
