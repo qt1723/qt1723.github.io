@@ -274,3 +274,27 @@ body[data-page="dong"] .profile-photo{object-position:50% 30%}
 @media(max-width:800px){.heading-icon-interviews{width:29px;height:29px}.hero-art{aspect-ratio:.92}.portrait-pair{top:34%}.kapok-branch{height:auto;width:76%;top:-6%;right:-2%}.portrait>span{gap:4px}body[data-page] .page-heading::after{width:52%;opacity:.075}}
 @media(max-width:540px){.hero{flex-direction:column}.hero-art{aspect-ratio:1;min-height:0;margin-top:8px}.portrait-pair{inset:30% 5% auto;gap:7%}.portrait{width:46%;max-width:none}.portrait-zhou,.portrait-dong{margin-top:0}.kapok-branch{width:76%;height:auto;top:-6%;right:-2%}.petal-one{top:6%;left:3%}.petal-two{top:auto;bottom:8%;right:0}.hero-copy{padding:22px 0 0}.hero-copy>h1:first-child{margin-top:0}.music-player button{width:58px;height:46px}.back-top{width:40px;height:40px}.browse-meta>div{gap:8px}.era-trigger{min-width:123px;min-height:40px}.era-options button{padding-block:11px}.record-text-only .sources{gap:4px 10px}.heading-icon-interviews{width:29px;height:29px}}
 @media(prefers-reduced-motion:reduce){.music-disc,.music-player.is-playing .music-disc,.site-header nav a.nav-bloom .nav-petals i,.site-header nav a.nav-bloom .nav-petals::before{animation:none!important}.portrait,.play-icon,.back-top{transition:none}}
+
+/* Shared typography; browser text inflation must not alter the mobile type scale. */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+:root{--serif:"Archive Serif","Noto Serif SC","Songti SC",serif;--sans:"Archive Sans","Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif}
+body{font-synthesis:none}button,input,select,textarea{font-family:var(--sans)}
+.year-scroll-control{display:none}
+@media(max-width:800px){
+ .year-index>div{scrollbar-width:none}.year-index>div::-webkit-scrollbar{display:none}
+ .year-scroll-control{display:block;-webkit-appearance:none;appearance:none;width:116px;max-width:36%;height:24px;padding:0;margin:4px auto 0;background:transparent;cursor:ew-resize;touch-action:pan-y;border:0;border-radius:12px}
+ .year-scroll-control::-webkit-slider-runnable-track{height:3px;background:#ded9cb;border-radius:3px}
+ .year-scroll-control::-webkit-slider-thumb{-webkit-appearance:none;width:25px;height:7px;margin-top:-2px;border:1px solid #afac94;border-radius:6px;background:#a8ae95;box-shadow:0 1px 3px #45523c12}
+ .year-scroll-control::-moz-range-track{height:3px;background:#ded9cb;border-radius:3px}
+ .year-scroll-control::-moz-range-thumb{width:25px;height:7px;border:1px solid #afac94;border-radius:6px;background:#a8ae95}
+ .year-scroll-control:focus-visible{outline:1px solid #879683;outline-offset:1px}
+}
+
+/* Workbook annotations belong in one quiet note, not in every year. */
+.archive-notes{margin:0 0 22px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:10px 0;color:var(--muted);font-size:12px}
+.archive-notes>summary{display:flex;align-items:center;gap:9px;color:var(--green);width:fit-content;padding:4px 0}
+.archive-notes>summary::before{content:"";width:5px;height:5px;border:solid currentColor;border-width:0 1px 1px 0;transform:rotate(-45deg)}
+.archive-notes[open]>summary::before{transform:rotate(45deg)}
+.archive-notes>div{display:grid;grid-template-columns:1fr 2fr;gap:24px;padding:12px 0 8px;max-width:850px}
+.archive-notes p{white-space:pre-line;line-height:1.9}.year-status{font-size:10px;color:var(--muted);line-height:1.8;margin-top:10px}
+@media(max-width:540px){.archive-notes>div{grid-template-columns:1fr;gap:12px}.archive-notes{font-size:11px;margin-bottom:16px}}

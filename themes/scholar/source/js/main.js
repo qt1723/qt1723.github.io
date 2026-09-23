@@ -16,16 +16,17 @@ if(archive){
  search.value=params.get('q')||'';
  const inEra=y=>era.value==='all'||era.value===y||(era.value.includes('-')&&y!=='unknown'&&+y>=+era.value.split('-')[0]&&+y<=+era.value.split('-')[1]);
  function render(){
+  const status=$('[data-year-status]',archive);if(status)status.hidden=true;
   const q=search.value.trim().toLocaleLowerCase();
   let count=0;
   records.forEach(r=>{r.hidden=!(inEra(r.dataset.year)&&(kind==='all'||r.dataset.tags.split(' ').includes(kind))&&(r.dataset.search+' '+r.dataset.year+' '+r.textContent).toLocaleLowerCase().includes(q));if(!r.hidden)count++;});
-  groups.forEach(g=>{const n=$$('[data-record]',g).filter(r=>!r.hidden).length;g.hidden=!(inEra(g.dataset.yearGroup)&&(n>0||(!q&&kind==='all')||pinnedYear===g.dataset.yearGroup));$('header>span',g).textContent=n?n+' 条记录':$('[data-record]',g)?'当前筛选暂无匹配记录':'本年暂无收录';});
+  groups.forEach(g=>{const n=$$('[data-record]',g).filter(r=>!r.hidden).length;g.hidden=!(inEra(g.dataset.yearGroup)&&n>0);$('header>span',g).textContent=n?n+' 条记录':$('[data-record]',g)?'当前筛选暂无匹配记录':'本年暂无收录';});
   filters.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===kind)));
   $('[data-result-count]',archive).textContent='显示 '+count+' / '+records.length+' 条记录';
   $('[data-empty]',archive).hidden=count!==0||!!pinnedYear;
   const visibleYears=groups.filter(g=>!g.hidden).map(g=>g.dataset.yearGroup);
-  $$('[data-year-jump]',archive).forEach(a=>{a.hidden=!visibleYears.includes(a.dataset.yearJump);a.setAttribute('aria-current',String(a.dataset.yearJump===(pinnedYear||visibleYears[0])));});
-  const index=$('.year-index>div',archive);if(index)index.scrollLeft=0;
+  $$('[data-year-jump]',archive).forEach(a=>{a.hidden=false;a.setAttribute('aria-current',String(a.dataset.yearJump===(pinnedYear||visibleYears[0])));});
+  const index=$('.year-index>div',archive);if(index){index.scrollLeft=0;index.dispatchEvent(new Event('yearindexchange'));}
  }
  function save(){const u=new URL(location.href);u.searchParams.set('era',era.value);if(kind!=='all')u.searchParams.set('type',kind);else u.searchParams.delete('type');if(search.value.trim())u.searchParams.set('q',search.value.trim());else u.searchParams.delete('q');u.hash='';history.replaceState(null,'',u);}
  filters.forEach(b=>b.addEventListener('click',()=>{kind=b.dataset.filter;pinnedYear=null;render();save();}));
@@ -34,6 +35,8 @@ if(archive){
  $('[data-reset]',archive).addEventListener('click',()=>{kind='all';search.value='';era.value='all';pinnedYear=null;render();save();});
  function revealHash(scroll=true){
   const id=decodeURIComponent(location.hash.slice(1));const target=document.getElementById(id);
+  const status=$('[data-year-status]',archive);if(status)status.hidden=true;
+  if(!target&&/^year-(?:[0-9]{4}|unknown)$/.test(id)){const year=id.slice(5);if(status){status.textContent=(year==='unknown'?'年份未详':year+'年')+'暂无收录，可选择深色年份。';status.hidden=false;}return false;}
   if(!target||!archive.contains(target))return false;
   const y=target.dataset.year||target.dataset.yearGroup;
   if(!y)return false;
@@ -100,6 +103,7 @@ $('[data-close-credits]')?.addEventListener('click',()=>credits?.close());
 credits?.addEventListener('click',e=>{if(e.target===credits)credits.close();});
 credits?.addEventListener('close',()=>openCredits?.focus());
 
+/* 背景音乐暂时停用，取得授权音乐后恢复。
 // Persist explicit listening preference across full page navigation.
 const musicPlayer=$('[data-music-player]'),music=musicPlayer?.querySelector('audio'),musicButton=musicPlayer?.querySelector('button');
 if(music&&musicButton){
@@ -122,6 +126,7 @@ if(music&&musicButton){
  window.addEventListener('storage',e=>{if(e.key===key){wanted=e.newValue==='playing';if(!wanted)music.pause();update();}});
  update();resume();
 }
+*/
 // Keep the same era picker on touch devices and desktop, with a native no-JS fallback.
 $$('[data-era]').forEach(select=>{
  const wrapper=document.createElement('div');wrapper.className='era-picker';
@@ -137,7 +142,10 @@ $$('[data-era]').forEach(select=>{
  trigger.addEventListener('click',()=>list.hidden?open():close());
  trigger.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp'].includes(e.key)){e.preventDefault();e.stopPropagation();open();}});
  wrapper.addEventListener('keydown',e=>{if(e.key==='Escape'){close();trigger.focus();}if(!list.hidden&&['ArrowDown','ArrowUp','Home','End'].includes(e.key)){e.preventDefault();let i=buttons.indexOf(document.activeElement);i=e.key==='Home'?0:e.key==='End'?buttons.length-1:(i+(e.key==='ArrowDown'?1:-1)+buttons.length)%buttons.length;buttons[i].focus();}});
- wrapper.addEventListener('focusout',e=>{if(!wrapper.contains(e.relatedTarget))close();});
+ // Safari may emit focusout with a null relatedTarget before the trigger's click.
+ wrapper.addEventListener('pointerdown',e=>{if(e.target.closest('.era-trigger'))e.preventDefault();});
+ wrapper.addEventListener('focusout',e=>{if(e.relatedTarget&&!wrapper.contains(e.relatedTarget))close();});
+ wrapper.addEventListener('keydown',e=>{if(e.key==='Tab')setTimeout(()=>{if(!wrapper.contains(document.activeElement))close();},0);});
  document.addEventListener('click',e=>{if(!wrapper.contains(e.target))close();});
  select.addEventListener('change',sync);$('[data-reset]')?.addEventListener('click',sync);$('[data-search-input]')?.addEventListener('input',sync);window.addEventListener('hashchange',sync);$$('[data-year-jump]').forEach(a=>a.addEventListener('click',sync));sync();
 });
@@ -159,3 +167,19 @@ $$('#navigation a').forEach(link=>{
  link.addEventListener('pointerdown',bloom);link.addEventListener('keydown',e=>{if(e.key==='Enter')bloom();});
 });
 try{if(sessionStorage.getItem('kapok-nav-arrival')===location.pathname){sessionStorage.removeItem('kapok-nav-arrival');scatterConfetti($('#navigation a[aria-current]'));}}catch{}
+
+// Use the existing illustrated covers for both absent and failed interview images.
+$$('.interview-cover[data-cover-variant]').forEach(cover=>{
+ const img=$('img',cover);if(!img)return;
+ const fallback=()=>{if(!img.isConnected)return;const art=document.createElement('span');art.className='book-cover-sprite book-variant-'+cover.dataset.coverVariant;art.setAttribute('role','img');art.setAttribute('aria-label','书籍与木棉花 AI 插画封面');img.replaceWith(art);cover.classList.add('is-book-cover');};
+ img.addEventListener('error',fallback,{once:true});if(img.complete&&img.naturalWidth===0)fallback();
+});
+// A persistent, narrow scrubber makes the horizontal year index discoverable on iOS too.
+$$('.year-index').forEach(index=>{
+ const years=$('div',index);if(!years)return;
+ const control=document.createElement('input');control.type='range';control.className='year-scroll-control';control.min='0';control.max='100';control.step='.1';control.value='0';control.setAttribute('aria-label','左右滑动年份索引');years.after(control);
+ const update=()=>{const max=years.scrollWidth-years.clientWidth;control.hidden=max<=1;control.value=max>0?String(years.scrollLeft/max*100):'0';control.setAttribute('aria-valuetext','年份索引滚动位置 '+Math.round(+control.value)+'%');};
+ control.addEventListener('input',()=>{years.scrollLeft=(years.scrollWidth-years.clientWidth)*(+control.value/100);});
+ years.addEventListener('scroll',update,{passive:true});years.addEventListener('yearindexchange',()=>requestAnimationFrame(update));
+ new ResizeObserver(update).observe(years);document.fonts.ready.then(update);update();
+});
